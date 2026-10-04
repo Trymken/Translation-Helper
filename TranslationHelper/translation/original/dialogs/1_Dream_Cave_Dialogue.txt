@@ -1,0 +1,325 @@
+ Cave Dialogue MAIN
+
+GOGI
+[title=Gogi_0_begin]
+???: Heehee, hi there! So <i>good</i> to see you again! You don't remember me? I'm your old pal, <color=#fcbe2b><b>Gogi</b>!</color>
+"Gogi": Talk about long time no see! Anyways, looks like we both ended up in some dank, nasty scum cave!
+"Gogi": These crystals sure are pretty though! But I think I saw an even <color=#03cffc><b>shinier</b></color> one somewhere up ahead!
+"Gogi": You should go and check it out! It sure would be a nice little memento to take back with us!
+"Gogi": Well, have [jitter=5 angle=0]fuuunnn![/jitter]
+[title=Gogi_0_end]
+
+signpost
+[title=signpost_0_begin]
+There's a rickety signpost planted in the ground. It has a hastily-written message scrawled on it.
+<b><color=#ff0000>DANGER!</color> MINESHAFT CAVE-IN AHEAD. PROCEED WITH CAUTION. HIGH RISK OF STRUCTURAL COLLAPSE!</b>
+[title=signpost_0_end]
+
+PRE-QUEST:
+
+[title=Scroblin_0_begin]
+Worker Scroblin: Hmm? Who might you be? New worker perhaps? Hmph. Guess <color=#fcbe2b><b>Foreman Fran's</b></color> gotten ahold of another poor sap.
+Worker Scroblin: You shouldn't just be standing around here talking. We'll BOTH get the boot, or worse... docked pay.
+Worker Scroblin: If you need somethin' to do, go find the Foreman. She's probably skulking around here somewhere.
+[title=Scroblin_0_end]
+
+[title=pickaxe_0_begin]
+There's an old <color=yellow><b>Pickaxe</b></color> here. The name "Gibb" is etched into the metal surface. 
+It's probably best you don't take something that doesn't belong to you, so you leave it there.
+[title=pickaxe_0_end]
+
+[title=pickaxe_00_begin]
+Looks like Gibb's <color=yellow>Pickaxe</color>. This may be useful for certain things.
+It's possible he'd let you borrow it if you went and asked him.
+[title=pickaxe_00_end]
+
+[title=Stegz_0_begin]
+Worker Stegz: Got word that one of our sages went down there and somehow got themselves trapped.
+Worker Stegz: Total buffoon! Guessin' they shook some of the looser rocks free and created a cave-in too.
+Worker Stegz: I'm gonna need an expert chiseler, pronto! Dag-nabbit, where is <color=#fcbe2b>Gibb</color> at?!
+[title=Stegz_0_end]
+
+[title=rockwall_0_begin]
+A big mass of jagged, crumbling boulders. You have no clue how unstable they are so you leave them alone for now.
+[title=rockwall_0_end]
+
+[title=Og_0_begin]
+Overseer Og: <i>Hey! Hey!</i> No idle chitter chatter during work hours. Get back to work or so help me!
+Overseer Og: Foreman Fran's put me in charge of watching you lazy bums, and I'm not giving you an INCH!
+Overseer Og: I've got lunch in a half-hour so put your backs into it! If I see even one of you slacking off...
+[title=Og_0_end]
+
+[title=worker0_0_begin]
+Worker: Can't you see I'm busy? Go bug someone else!
+[title=worker0_0_end]
+
+[title=worker1_0_begin]
+Worker: I've been chiseling nonstop for 11 hours now. Even just a couple minutes break would be absolute heaven.
+[title=worker1_0_end]
+
+[title=worker2_0_begin]
+Worker: Foreman says she spotted some weird <color=#03cffc><b>relic</b></color> high up on that island, but we can't reach it so the heck with it.
+[title=worker2_0_end]
+
+[title=worker3_0_begin]
+Worker: This job sucks, but every generation of my family has worked here. I don't have any other skills so it's my only option.
+[title=worker3_0_end]
+
+[title=Gibb_0_begin]
+Lazy Gibb: Mmffph... Hmm? Someone there?
+Lazy Gibb: Alright, alright. I'm up. Whaddya' want?
+[title=Gibb_0_end]
+
+[title=Gibb_1_begin]
+Lazy Gibb: Geez, you here to boss me back to work or something? Guy can't even get a little micro-nap for crying out loud.
+Lazy Gibb: What's even the big deal? I'd say on any given day I do about 15 minutes of real, actual work.
+Lazy Gibb: It's not that I'm lazy... it's just that I don't really care! But whatever, judge me how you want.
+Lazy Gibb: That damn foreman's had her head so far up her own butt ever since that <color=#03cffc><b>relic</b></color> appeared. She doesn't even care about the crystal hauls anymore.
+Lazy Gibb: If you wanna go and talk to her, she's on the ridge up ahead. Better hope she's in a good mood, pal. 
+[title=Gibb_1_end]
+
+[title=Gibb_11_begin]
+Lazy Gibb: You still hanging around? Dang, and I thought people said <i>I</i> was the lazy one.
+Lazy Gibb: Well, what are you waiting for? Go up and talk to the <color=#fcbe2b><b>Foreman</b></color>!
+[title=Gibb_11_end]
+
+[title=Fran_0_begin]
+Foreman Fran: HMM? Hey, YOU. Yeah... <b>YOU!</b>
+Foreman Fran: You look like the laziest bum I've ever laid my <b>eye</b> on! You musta just dropped in hot off the hopeless worker assembly line!
+Foreman Fran: I'm gonna cut to the chase and skip the formalities, so square up ya little runt, because I got an important job for you.
+Foreman Fran: You see that fancy floating platform over there and the magnificent looking <color=#03cffc><b>shard</b></color> sitting on top of it?
+Foreman Fran: Well, it's <b>MINE</b>, because I was the first to see it. It's claimed and locked tight under my ownership as of now!
+Foreman Fran: [question=00]As for you- I'm in a decent mood so I'll let you take a guess at what I'm gonna have you do about it!
+[choice]Take a break?[newtalk start=answer0_Fran_begin break=answer0_Fran_end]
+[choice]Go home?[newtalk start=answer1_Fran_begin break=answer1_Fran_end]
+[choice]Get it for you...[newtalk start=answer2_Fran_begin break=answer2_Fran_end]
+[title=Fran_0_end]
+
+[title=Fran_01_begin]
+Foreman Fran: [question=01]Guess again, punk!
+[choice]Take a break?[newtalk start=answer0_Fran_begin break=answer0_Fran_end]
+[choice]Go home?[newtalk start=answer1_Fran_begin break=answer1_Fran_end]
+[choice]Get it for you...[newtalk start=answer2_Fran_begin break=answer2_Fran_end]
+[title=Fran_01_end]
+
+[title=answer0_Fran_begin]
+Foreman Fran: HAHA! That's <b>rich!</b> Truly rich! The only break I'll give you is a break in the face![newtalk start=Fran_01_begin break=Fran_01_end]
+[title=answer0_Fran_end]
+
+[title=answer1_Fran_begin]
+Foreman Fran: Home? You ARE home, ingrate! This is the best home you'll ever have so get used to it![newtalk start=Fran_01_begin break=Fran_01_end]
+[title=answer1_Fran_end]
+
+[title=answer2_Fran_begin]
+Foreman Fran: Bingo, bango! There's a catch though... the only way across is with some good old-fashioned cave magic.
+Foreman Fran: But my unreliable cave sage <color=#fcbe2b><b>Bernard</b></color> is nowhere to be found. Probably off snoozing somewhere in the deep mine, as usual.
+Foreman Fran: Go and find him, and tell him to get his butt over here so he can create some kinda bridge to the <color=#03cffc><b>relic</b></color>!
+Foreman Fran: Get to it then- <b>MOVE IT!</b>
+[title=answer2_Fran_end]
+
+--------------------
+
+POST-QUEST:
+
+[title=Fran_1_begin]
+Foreman Fran: What are you still doing here?! Get out there and FIND that cave sage!
+Foreman Fran: Do you expect a hand-out from me or something? Maybe one of the other <b>lazy</b> workers knows something!
+[title=Fran_1_end]
+
+[title=Gibb_2_begin]
+Lazy Gibb: She told you to go do what now? Ah, typical Foreman Fran. Always delegating the most pointless of tasks to her underlings.
+Lazy Gibb: Look, man... life's too short to be running around licking boots all the time. But hey, you do you.
+Lazy Gibb: As for me, I got too much self-respect to be down here any longer. So I'm giving up the mining career for good.
+Lazy Gibb: If you're adamant on rolling with the foreman's punches, feel free to take my pickaxe. I left it... somewhere around here.
+Lazy Gibb: Have a good time, sucker.
+[title=Gibb_2_end]
+
+[title=Stegz_Pickaxe_begin]
+Worker Stegz: Dagnabbit, <color=#fcbe2b><b>Gibb</b></color>! He's supposed to be down here to help clear this rubble. Where is that slacker?!
+[title=Stegz_Pickaxe_end]
+
+[title=pickaxe_1_begin]
+This must be Gibb's <color=yellow><b>Pickaxe</b></color>, but you guess he won't be needing it anymore. 
+Despite the boulder's sturdy grip, you manage to dislodge it and take it with you. You hope this rusty thing holds together...
+[title=pickaxe_1_end]
+
+[title=Busy_1_begin]
+(They are working diligently)
+[title=Busy_1_end]
+
+[title=Og_1_begin]
+Overseer Og: What I wouldn't do to get a piece of that mysterious <color=#03cffc><b>relic</b></color> the Foreman keeps talking about.
+Overseer Og: I do way more work in one day than she does all week. What do I get for it? Nada.
+Overseer Og: [question=01]Pfft, whatever. Seems like she's gonna cash in the minute she gets ahold of it. Lucky wench. I mean... good for her.
+[choice]You're better. [newtalk start=answer_1_og_begin break=answer_1_og_end]
+[choice]Suck it up. [newtalk start=answer_2_og_begin break=answer_2_og_end]
+[title=Og_1_end]
+
+[title=answer_1_og_begin]
+Overseer Og: <i>Yeah...</i> yeah! You're right! I mean, I know I'm better. That oversized ogre will get what's coming to her soon I bet...
+Overseer Og: Then I'll take over! I'd wager I could change things up around here and make a real BANG with the daily crystal hauls. It's all coming together![event=9]
+[title=answer_1_og_end]
+
+[title=answer_2_og_begin]
+Overseer Og: W-wait, what? What do you even know? You're just some no-name peon. If I didn't have my hands full I'd teach you a thing or two!
+Overseer Og: Get outta my face, kid! Everyone's a critic these days... can't catch a break to save my life.[event=8]
+[title=answer_2_og_end]
+
+[title=og_bad_begin]
+Overseer Og: Buzz off, kid! I got better things to do than waste my time talking to you.
+[title=og_bad_end]
+
+[title=og_good_begin]
+Overseer Og: You ain't too shabby, kid. I'll remember that next time. Now get back to work before I change my mind.
+[title=og_good_end]
+
+[title=Scroblin_1_begin]
+Worker Scroblin: Whew. Might sneak a short break in soon. These pickaxes are heavier than they look.
+Worker Scroblin: [question=00]Whaddya say we grab a drink after our shift ends?
+[choice]Sounds choice.[newtalk start=answer_1_scroblin_begin break=answer_1_scroblin_end]
+[choice]Sounds lame.[newtalk start=answer_2_scroblin_begin break=answer_2_scroblin_end]
+[title=Scroblin_1_end]
+
+[title=answer_1_scroblin_begin]
+Worker Scroblin: Now that's what I like to hear. I pitch that offer all the time and you're the first to accept it.
+Worker Scroblin: I don't care what the foreman says about you. You're alright in my book, kid.[event=11]
+[title=answer_1_scroblin_end]
+
+[title=answer_2_scroblin_begin]
+Worker Scroblin: Pfft. No need to get sleazy on me. You won't last long down here with an attitude like that.
+Worker Scroblin: I don't mind minimum pay but if my co-workers suck it's a lot worse. Forget about it, I'll bother someone else later.[event=10]
+[title=answer_2_scroblin_end]
+
+[title=scroblin_bad_begin]
+Worker Scroblin: !@#$%&' greedy sleazeball...
+[title=scroblin_bad_end]
+
+[title=scroblin_good_begin]
+Worker Scroblin: Right on! Only a few or so hours left and we're out of here.
+[title=scroblin_good_end]
+
+[title=Stegz_1_begin]
+Worker Stegz: Hey, where'd you get that axe from? Looks a lot like Gibb's. Well, he was supposed to dig this rubble out, but I guess you'll do.
+Worker Stegz: Alright then... go 'head and give that pile of rocks over there a good WHACK and hope they break loose. I'll just be back here...
+[title=Stegz_1_end]
+
+[title=rockwall_1_begin]
+Hoisting the heavy pickaxe over your shoulder, you bring yourself into a steady swinging stance. The thing is heavier than it looks.[event=2]
+...and <i>BIG SWING!</i>
+The rock wall never stood a chance. But, to no surprise, neither did your rusty pickaxe. Great...
+Oh well. You should at least be able to ride the service cart down into the shaft now.
+[title=rockwall_1_end]
+
+[title=Stegz_2_begin]
+Worker Stegz: Eh, I've seen better. Could've at least broke 'em up cleaner. Guess I'll go update the foreman now.
+Worker Stegz: Don't you go wanderin' 'round in the deep mine now. Whoever's down there ain't worth botherin' over.
+[title=Stegz_2_end]
+
+[title=minecart_go_begin]
+[question=1]An old minecart is sitting here. Take a ride down the mine?
+[choice]Looks fun. [newtalk start=answer_yes_minecart_0_begin break=answer_yes_minecart_0_end]
+[choice]That's crazy. [newtalk start=answer_no_minecart_begin break=answer_no_minecart_end]
+[title=minecart_go_end]
+
+[title=answer_yes_minecart_0_begin]
+The old rickety wheels of the minecart begin to roll. Hold on to something![event=0]
+[title=answer_yes_minecart_0_end]
+
+[title=minecart_back_begin]
+[question=1]Ride the minecart back up?
+[choice]Sure thing. [newtalk start=answer_yes_minecart_1_begin break=answer_yes_minecart_1_end]
+[choice]Maybe not. [newtalk start=answer_no_minecart_begin break=answer_no_minecart_end]
+[title=minecart_back_end]
+
+[title=answer_yes_minecart_1_begin]
+The minecart creaks as it begins to move. Sounds like it's about to fall apart... [event=1]
+[title=answer_yes_minecart_1_end]
+
+[title=answer_no_minecart_begin]
+You leave the cart alone.
+[title=answer_no_minecart_end]
+
+[title=minecart_broken_begin]
+This old dilapidated rust bucket will no longer move. Thank you for your service, faithful minecart.
+[title=minecart_broken_end]
+
+[title=Bernard_1_begin]
+Sage Bernard: Well, hello there! Don't these crystals radiate with the most hypnotic glow? I find myself just staring at them sometimes.
+Sage Bernard: [question=2]So what brings you down here? Did you come all this way to avoid that crazed lunatic of a foreman too?
+[choice]To admire the rocks.[newtalk start=answer_sage_1_begin break=answer_sage_1_end]
+[choice]Need your magic![newtalk start=answer_sage_0_begin break=answer_sage_0_end]
+[title=Bernard_1_end]
+
+[title=answer_sage_1_begin]
+Sage Bernard: Yes, they do have quite the sparkle to them this time of year, don't they? Not as sparkly as that weird <color=#03cffc><b>relic</b></color> up top, but still.
+Sage Bernard: Feel free to join me and let your worries melt away. You know, because of the lava and all.[event=4]
+[title=answer_sage_1_end]
+
+[title=Bernard_repeat_begin]
+Sage Bernard: [question=3]Hmm? Anything else I can help you with? Excluding anything to do with the foreman, of course.
+[choice]Cool rocks![newtalk start=answer_sage_1_begin break=answer_sage_1_end]
+[choice]The foreman...[newtalk start=answer_sage_0_begin break=answer_sage_0_end]
+[title=Bernard_repeat_end]
+
+[title=answer_sage_0_begin]
+Sage Bernard: Uugh. Foreman Fran needs me back up top, doesn't she? Guessing it's for that tantalizing shard of something or other.
+Sage Bernard: I can guarantee handing that over to the foreman will only spell disaster. They don't call me a sage for nothing, that shard is trouble.
+Sage Bernard: [question=4]I'm an old man and very tired nowadays. I have no desire to continue helping that lumbering maniac. Unless...
+[choice]Unless? [newtalk start=answer_sage_yes_begin break=answer_sage_yes_end]
+[choice]Suit yourself. [newtalk start=answer_sage_no_begin break=answer_sage_no_end]
+[title=answer_sage_0_end]
+
+[title=answer_sage_0_repeat_begin]
+Sage Bernard: [question=4]I'm an old man and very tired nowadays. I have no desire to continue helping that lumbering maniac. Unless...
+[choice]Unless? [newtalk start=answer_sage_yes_begin break=answer_sage_yes_end]
+[choice]Suit yourself. [newtalk start=answer_sage_no_begin break=answer_sage_no_end]
+[title=answer_sage_0_repeat_end]
+
+[title=answer_sage_yes_begin]
+Sage Bernard: Unless... you grab the shard before her, of course! Take it with you, escape this damp, disgusting cavern, and never return.
+Sage Bernard: Sound like a deal? Great! I want Fran to learn a bit of a lesson here. She can't just claim everything she lays her eye on.
+Sage Bernard: I've been around awhile and if there's one thing I've picked up on, it's that you gotta earn things! Put the hard work in!
+Sage Bernard: Fran acting so entitled to everything around her gives me the headache of a lifetime, so this'll be a nice change of pace.
+Sage Bernard: Anyways! I think it's settled. I'll see you back there, then. Do mind that hot stuff behind me on your way back, will you?[event=3]
+[title=answer_sage_yes_end]
+
+[title=answer_sage_no_begin]
+Sage Bernard: Thank you, thank you... I will! It's rather peaceful down here without all the clanging of axes.[event=5]
+[title=answer_sage_no_end]
+
+--------------------
+
+FINAL QUEST: (All workers and sage are surrounding Foreman Fran. Lazy Gibb is gone)
+
+[title=Workers_0_begin]
+(They are all waiting impatiently.)
+[title=Workers_0_end]
+
+[title=Fran_2_begin]
+Foreman Fran: <b>FINALLY!</b> I can get my hands on that precious floating <color=#03cffc><b>shard</b></color>.
+Foreman Fran: It's been hypnotically calling for me ever since it showed up, and now it'll be mine.
+Foreman Fran: Sage! Work your magic and build me that bridge!
+[title=Fran_2_end]
+
+[title=Bernard_2_begin]
+(The sage appears to be concentrating.)
+Sage Bernard: <i>psst, psst</i> (Can't believe I dragged myself up here for this! The woes of such a niche career.)
+Sage Bernard: (Okay, once the bridge appears, you can hop over and grab the <color=#03cffc><b>shard</b></color>!)
+Sage Bernard: (What you do with it is up to you. But just know that handing it over to the foreman is quite the rotten idea.)
+Sage Bernard: (Hmph. Maybe I'll finally settle down and retire after all these weird shenanigans. My old bones need a well deserved rest.)[event=6]
+Foreman Fran: Get ON with the bridge magic, Bernard! I don't have all day, old man![event=7]
+Sage Bernard: A-ahem, y-yes! Oh, magic platforms! Materialize before me now! <b>ALAKAZAM</b>!
+[title=Bernard_2_end]
+
+[title=Fran_03_begin]
+Foreman Fran: H-HEY! That's MY <color=#03cffc><b>artifact</b></color>! STOP THEM! [jitter=5 angle=0]NOOOOOO!!![/jitter]
+[title=Fran_03_end]
+
+Quit and return from secret level
+
+[title=bernard_quit_begin]
+Sage Bernard: By gum, are you alright? I saw you jump into that lava pit there and thought you would've melted instantly!
+Sage Bernard: Well, it looks like you're fine by some miracle. You're definitely a strange one. Anyway... back to other things...
+Sage Bernard: Foreman Fran still needs me up there for getting that nasty little <color=#03cffc><b>relic</b></color> down. Remember our agreement, right?
+Sage Bernard: Okay then, it's settled. I'll see you back there, then. Do try not to fall back into the hot stuff again, will you? [event=3]
+[title=bernard_quit_end]

@@ -1,0 +1,1735 @@
+[hash=10b316e0e746c191f67f0c87eab3a8cb, auto_sizing=False, font_size=50, char_spacing=-25, custom_font=False] : {
+В этой игре присутствуют мигающие световые эффекты и пугающие изображения.
+
+このゲームには、点滅するライトと怖い画像が含まれています。
+}
+
+[hash=d0aaedaefccd5857140c58acf2957a11, auto_sizing=False, font_size=50, char_spacing=-25, custom_font=False] : {
+Для наилучшего впечатления 
+рекомендуется
+играть в <color=#FF7000>тёмной комнате</color> 
+в <color=#FF7000>наушниках</color>.
+
+<color=#FF7000>暗い部屋</color>で <color=#FF7000>ヘッドフォン</color>を使ってゲームをプレイします。
+}
+
+[hash=1d6eecc1671f07c33a81a59725b10012, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+г
+}
+
+[hash=0a1f52197c217f2c7bbfd8661be0052d, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+и
+}
+
+[hash=45ab7b11838e8c0ccdd8fe47ceca973f, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+п
+}
+
+[hash=c1d96320883423125ed3b16b2d7abba7, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+н
+}
+
+[hash=ab43e0bab14109e41beda876cc29ff35, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+а
+}
+
+[hash=04d12a44473a0a2e0a9ee0c9c9ee72b3, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+г
+}
+
+[hash=be8bbb5b72c701ba718d97ae0587051c, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+о
+}
+
+[hash=e838b2d77f8184a5e6bc5d14e441ca61, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+г
+}
+
+[hash=6f7edcc552321e816c8297a8e6df1cbd, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+и
+}
+
+[hash=efff1f97e2ccaf5e3376808fcea92a24, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+я
+}
+
+[hash=9333268e0c2782017a7126d86b79b173, auto_sizing=False, font_size=27, char_spacing=5, custom_font=False] : {
+безграничные мечты
+}
+
+[hash=a92756b3b987a4326a6a444a3623db6b, auto_sizing=False, font_size=16, char_spacing=-50, custom_font=False] : {
+хаб снов
+}
+
+[hash=103aabe42e152f396003bc3342a37880, auto_sizing=False, font_size=20, char_spacing=-50, custom_font=False] : {
+продолжить
+}
+
+[hash=c923512af4a7342205553e682e19d226, auto_sizing=False, font_size=16, char_spacing=-50, custom_font=False] : {
+продолжить
+}
+
+[hash=ed7871b3d73b2025af0bd8b2c019da58, auto_sizing=False, font_size=16, char_spacing=-50, custom_font=False] : {
+настройки
+}
+
+[hash=277a48f93997475d5272ccf5209672d4, auto_sizing=False, font_size=20, char_spacing=-50, custom_font=False] : {
+новый сон
+}
+
+[hash=f564934b2533987b047a919fb2ff4224, auto_sizing=False, font_size=16, char_spacing=-50, custom_font=False] : {
+новый сон
+}
+
+[hash=bc7bf85a8019324aa54906d30a8f7cf2, auto_sizing=False, font_size=16, char_spacing=-50, custom_font=False] : {
+проснуться
+}
+
+[hash=23d4a5d5f81ee6818f9da6e658547fb6, auto_sizing=False, font_size=35, char_spacing=9.41, custom_font=False] : {
+無限の夢
+}
+
+[hash=308febbe089ac4ae74955c664b42e11d, auto_sizing=False, font_size=12, char_spacing=0, custom_font=False] : {
+©RAPTORSOFT STUDIOS, SODARAPTOR, 2022 ALL RIGHTS RESERVED.
+}
+
+[hash=0122d7899010b4ae75684c038612febe, auto_sizing=False, font_size=9, char_spacing=0, custom_font=False] : {
+release ver 0.4.1, June 2022
+}
+
+[hash=d403e65c43e6df8b4d747ca80aacaeca, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+управление
+}
+
+[hash=ef5971da195fb9534673b8291145195d, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+полный экран
+}
+
+[hash=18d5b9c958e0514aa26c56ad3fd0745e, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+разрешение
+}
+
+[hash=9ef323e5bdbfafe3847399fa9ec0627b, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+вертикальная синхронизация
+}
+
+[hash=bfaa737b06474583f9dfdb4adbccb2b9, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+качество
+}
+
+[hash=5aa26ef5b780cc6b622a3ac4b56aad8c, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+титры
+}
+
+[hash=d765edf50305116ab867e2f3c08a0869, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+громкость игры
+}
+
+[hash=36b74d26f49f3a7b2d19bf8d9d339319, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=False] : {
+настройки
+}
+
+[hash=deba22e2509c63e7dea5f69adb038e59, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+выключить музыку
+}
+
+[hash=be8d85644fa3affd18f479afb0357954, auto_sizing=False, font_size=19.13, char_spacing=-30, custom_font=False] : {
+Начать новый сон? Весь предыдущий результат будет сброшен!
+}
+
+[hash=4273ddb69f950ff9fdfff39c5611bd89, auto_sizing=False, font_size=24, char_spacing=-40, custom_font=False] : {
+да
+}
+
+[hash=e0ee9631dd49ca3a7e3bdb11d9f79a03, auto_sizing=False, font_size=24, char_spacing=-40, custom_font=False] : {
+нет
+}
+
+[hash=70e7181bd986ba665ee9bfa9cb10840f, auto_sizing=False, font_size=36, char_spacing=-30, custom_font=False] : {
+Пропустить ролик?
+}
+
+[hash=725b9dceae8ba1d6c070b1db64f423d7, auto_sizing=False, font_size=25, char_spacing=-40, custom_font=False] : {
+Да
+}
+
+[hash=f88e80badd6ec0a517804e7ef340de25, auto_sizing=False, font_size=25, char_spacing=-40, custom_font=False] : {
+Нет
+}
+
+[hash=0bb5f449c1d5a04ca0303684c83cbc7b, auto_sizing=False, font_size=36, char_spacing=-40, custom_font=False] : {
+                        осмотреться
+}
+
+[hash=6378dad269ae29ac83dac2bbf56f40a2, auto_sizing=False, font_size=36, char_spacing=-40, custom_font=False] : {
+            двигаться
+}
+
+[hash=9dc4c18839d4ffddfb0c6aa88e1c67ee, auto_sizing=False, font_size=36, char_spacing=-40, custom_font=False] : {
+                                            или                              для бега
+}
+
+[hash=8ae610e16ecec15c446ac0eef2abb87a, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+разрешение
+}
+
+[hash=d404cf4d1442f8235fd07ef09c6e4958, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+качество
+}
+
+[hash=0619104d02ccd4297355765513d2e0a8, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+громкость игры
+}
+
+[hash=b6af7e9af9ccffc9008fd98591e4171b, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+угол  обзора
+}
+
+[hash=75ea221144caa53839df93d5dc309924, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+чувствительность
+}
+
+[hash=c4540f45793473031f4b1af16a39bc67, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+п
+}
+
+[hash=34ec64ee3be56726ae91a2dab65905da, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+а
+}
+
+[hash=ca9b3d2e1603c63e700f3856f7e175f8, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+у
+}
+
+[hash=5c902eea6249cdf7fac3c86b59affdde, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+з
+}
+
+[hash=21ad481b2b466663c878c4c42d274859, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+а
+}
+
+[hash=bc8fcf2513415f376420dacdddd7ea8e, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+
+}
+
+[hash=d5749d109e7c3006d9059823173e68b1, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+переключить интерфейс
+}
+
+[hash=2c98866021fbe8e575630b1ff12ab20b, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+выключить музыку
+}
+
+[hash=51aff50f90ea4e851896ad401bdff291, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+инвертировать мышь
+}
+
+[hash=e49fba2ecc9aab7c6ea7d9b2fc2778aa, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+переключить бег
+}
+
+[hash=22326bec45daa157573bc679705c4309, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+вертикальная синхронизация
+}
+
+[hash=988fc8a1a8e90fe6af27ec524fd85e11, auto_sizing=False, font_size=13, char_spacing=-40, custom_font=False] : {
+полный экран
+}
+
+[hash=ff091e0a003a1a9f01c141fba86d336a, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+продолжить
+}
+
+[hash=918bccb5d1ae0e1f602051fd06312b7a, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+управление
+}
+
+[hash=5d640ff31902d937049cbe65360b78a1, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+пропустить?
+}
+
+[hash=83b2d6578ef3c850081230ab95cc7f7e, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+выйти
+}
+
+[hash=111143f23bbfc0e0d93b78a137242c68, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=False] : {
+настройки
+}
+
+[hash=c3606b37e19393425263d94631c5d14d, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+в           меню
+}
+
+[hash=4c40b4dd2e520c941a64f869eebc1c7a, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+хаб
+}
+
+[hash=4b001b59b5a10fff151fc4d5f274352a, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+вернуться
+}
+
+[hash=fa45747e12cc7c85dcde31c0c0b74e7a, auto_sizing=False, font_size=17, char_spacing=-50, custom_font=False] : {
+вернуться
+}
+
+[hash=628340be8996da34fa4a5cf5d4311a8f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+с
+}
+
+[hash=d1c226b212691609425fb13957040a48, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+о
+}
+
+[hash=04d73e93b2814efb78c7913aa7c911a3, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+х
+}
+
+[hash=8c7a02049eb78c04727108cadd4d7f5e, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+р
+}
+
+[hash=71fcd8a1805539aae923f08951ad91a2, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+а
+}
+
+[hash=4711eda507e6e5db9294aac519ca73f3, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+н
+}
+
+[hash=cd5f992794c00c471034627edce9e4b6, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+я
+}
+
+[hash=996684b8abab1f03faae3bee156f3eb0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+ю
+}
+
+[hash=7ac449a5af3fd846d08cd2298f250b59, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+
+#############
+#level names#
+#############
+
+
+[hash=19f34173e694a7fdefd587db603ab3ea, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+どこにもありません
+неизвестность
+}
+
+[hash=61ee5b0c1f44943232df7ab5d6be935d, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+夢のネクサス
+средоточие снов
+}
+
+[hash=70144cec46dab253a18eacbe62684044, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+友達を助ける
+помочь другу
+}
+
+[hash=559a78961070c4cb765263e0caa0e52f, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+気性制御
+климат-контроль
+}
+
+[hash=1d4200a7aec4047247bdb02c4bf81f53, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+水の供物
+подношение воды
+}
+
+[hash=2e4991358304c056974607d1872be2d8, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+深い不安
+глубокое беспокойство
+}
+
+[hash=b6301f2819d8c8f65b463583893cf1b2, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+石の遺跡
+каменные руины
+}
+
+[hash=8f9fdf37c18158b40be50cb7fa476ce3, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+ドリームコア
+эфирный исток
+}
+
+[hash=b0ff282ad6c7896f40e9e09c92b31e94, auto_sizing=False, font_size=30, char_spacing=-50, custom_font=True] : {
+ささやきの森
+лес шепота
+}
+
+[hash=9c2332a1ca37b24af36c4c75be26fc7f, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+壁の向こう
+за стеной
+}
+
+[hash=fe9075c5174697df80e7affb0d2db447, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+優しさの行為
+акт доброты
+}
+
+[hash=236b578dc6c5611931958b7a387651ea, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+終了、時間切れ
+конец времени
+}
+
+[hash=26a4c351a495d8f359f96c19ab7625fe, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+死者に会う
+встретиться с мёртвыми
+}
+
+[hash=ca78618aefe0dd5c3611f89eb4b76891, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+甘い始まり
+сладкое начало
+}
+
+[hash=421245cb3f1a1995633e63b89057448a, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+無限の買い物
+бесконечный шопинг
+}
+
+[hash=162fb0e712c963d00c18ce1b3faf167e, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+真実の塔
+небесная башня
+}
+
+[hash=dea74a4f66affbe349f0fc6577de8d8e, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+ドリームセレクトハブ
+центр выбора снов
+}
+
+[hash=5c69638f5faf2b11c52d3f8a56cc51b0, auto_sizing=False, font_size=25, char_spacing=-50, custom_font=True] : {
+モデルショーケース
+галерея моделей
+}
+
+
+#######
+#items#
+#######
+
+
+[hash=a3168996be6ba9600c1079a43d825642, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=yellow>Кирка</b></color> получена.
+}
+
+[hash=9c8f4a9489e48ba500b2c39f10215442, auto_sizing=False, font_size=18, char_spacing=-40, custom_font=False] : {
+<color=#3aeb34><b>Зелёный Ключ</b></color> получен.
+}
+
+[hash=9544d32abec50c3382e487e1930820ad, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=green>Зелёный Флакон</b></color> получен.
+}
+
+[hash=2fc22824af0188990d5348790877da8b, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<color=#e33424><b>Красный Ключ</b></color> получен.
+}
+
+[hash=6c15ea90d080d8b48fcb07ec483bfeea, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=red>Красный Флакон</b></color> получен.
+}
+
+[hash=80840dd389d723eab953a8d06be11e65, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=red>Красный Куб</b></color> получен.
+}
+
+[hash=fce15c51d04a238b0a5eb8df6f21e3c6, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=yellow>Жёлтый Куб</b></color> получен.
+}
+
+[hash=614094c92e48da8b65b2f34166bf1bc3, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=yellow>Мачете</b></color> получено.
+}
+
+[hash=74c0427f35418264f7859522fe557358, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=#33ccff>Инертный осколок</b></color> получен.
+}
+
+[hash=dc33f79ec70be8b9671271f73ca79edc, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=yellow>Путевой камень</b></color> получен.
+}
+
+[hash=f58105a0548a71d5175e2b8f7dedfee3, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=#ff0066>Красный Мяч</b></color> получен.
+}
+
+[hash=30a71c96250629abad182064c7dc2861, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=yellow>Странный ключ</b></color> получен.
+}
+
+[hash=5850c9948d0b0576741ed587eb3af216, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=#d742f5>Джетпак</b></color> получен.
+}
+
+[hash=3df3e10e6f160d2f91d31c01d50da46b, auto_sizing=False, font_size=20, char_spacing=-40, custom_font=False] : {
+<b><color=#ff9900>Ключ от внутреннего двора</b></color> получен.
+}
+
+[hash=84d2e4ed17b3d90cb70a5558285bdac5, auto_sizing=False, font_size=20, char_spacing=-50, custom_font=False] : {
+<b><color=#99cc00>Ключ от ворот</b></color> получен.
+}
+
+[hash=49d036c00e7f9bc6752529ca5d0d43f2, auto_sizing=False, font_size=20, char_spacing=-50, custom_font=False] : {
+<b><color=#99ff66>Плюшевый Мишка</b></color> получен.
+}
+
+[hash=fb8ecbc66dd55f8d46e020470102522a, auto_sizing=False, font_size=20, char_spacing=-50, custom_font=False] : {
+<b><color=#ffcc66>Тёплый Крендель</b></color> получен.
+}
+
+[hash=b32f91ce85beffe11d5ce41620a64506, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+???
+}
+
+[hash=b2be18692ca9bfc2cdc4055f8a4ed33b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+с
+}
+
+[hash=c5a6b7a6a0b6ae7238c945274a3d734c, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+о
+}
+
+[hash=e63f7a3e174066091b270ed45c840355, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+х
+}
+
+[hash=a6249a0cc547c531502f87573e103e83, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+р
+}
+
+[hash=8b2ec0b1f130469432e2996115d6bb15, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+а
+}
+
+[hash=d77d11a03154920eb173ac3cd318b0de, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+н
+}
+
+[hash=f038f74d4d7f821ba068d519593fd9fd, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+я
+}
+
+[hash=05ea476c10dac6f1ad312a42766df4ff, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+ю
+}
+
+[hash=b84b9cfd56834f7efb2815a026b8e0e5, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+
+[hash=598ac60c5f78a75ed67ed4a6ab1d5576, auto_sizing=False, font_size=26.45, char_spacing=-40, custom_font=False] : {
+Да
+}
+
+[hash=bb4a930f1ecc23d2e0b0ef1e38f5efcf, auto_sizing=False, font_size=26.45, char_spacing=-40, custom_font=False] : {
+Нет
+}
+
+[hash=1d9c7030e0d18e10e4c3cc2e8b41ec5a, auto_sizing=False, font_size=36, char_spacing=-25, custom_font=False] : {
+В другом месте...
+}
+
+[hash=c56b79de6d98c3ad01e39c68a1973dab, auto_sizing=False, font_size=55, char_spacing=-30, custom_font=False] : {
+Эта игра посвящена
+всем мечтателям,
+которые борются с несправедливостью
+и разрушением каждый день
+своей жизни.
+}
+
+####################
+#Dream Hub Selector#
+####################
+
+#mushroom world
+
+[hash=6938366f41e864093a93eae3fa14cfbf, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+г
+}
+
+[hash=d17c39cf2a5a8b7444f2aee35579d63f, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=98508fbdc330932ff9d8ac40a1941113, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=f9240c78418f7c2c4752c162466e86e1, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+б
+}
+
+[hash=0e013c68c31c176010b905bde714ce54, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+н
+}
+
+[hash=ba56635faa3466abbb47f32fceb14334, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+о
+}
+
+[hash=6ea63fc2121b3586d1d94349bf183645, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+й
+}
+
+[hash=e576fcb8c85259527fcd12cf53de71df, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=1f2a0aa2c1047ce2a335f2032d1b93df, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=dbeb0a844c849401db7cb057753ce987, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=faa337ca2eda8f72b33753bac8c62c6b, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=5d181c3c3401e72e8b0872c32a6ca700, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=38f0214dc10b2a659344dfb185fb028e, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#ice world
+
+[hash=a16e933af2530b0e6252812c8fbe2db3, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ле
+}
+
+[hash=afaffd8dd86594bcbe62fe2852624a5e, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+дя
+}
+
+[hash=2ea33ecfad5f96ffec8cb93a159eac5a, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ной
+}
+
+[hash=ea7be435cee7b3bb2a24c3d83a5e1088, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=449e445ccfde056e94bf24bae128d178, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=997529a65dec4fcd0b514407b4d3de2a, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=c682d616905ee113bed689ccc9e372fb, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=d0e793aebfc71638ec4bcd8a251b1505, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#space world
+
+[hash=9b4c07c554fd2639b2d02188a6487b4e, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ко
+}
+
+[hash=de49004fef5bebce277ba80e68590651, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+см
+}
+
+[hash=6cc2aa3b7b752c0ac35466397e959454, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ич
+}
+
+[hash=f4c2f8aa5513cbb995aa9f9a76cc5566, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ес
+}
+
+[hash=dd742495dd910712b4a2742e3596d290, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+кий
+}
+
+[hash=62d282681452f56799361ad7fd6c2fd4, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=e60aed7f4e51909e47aea8fc5665cd17, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=038f6813187e90929e7af485176949c9, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=2c4d1e9ae525e18a6cc9d1462884a540, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=338793efff68158a87153e5bd414f513, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#haunted world
+
+[hash=fb88901d69d1d6f101ef6015bf5c38ba, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+пр
+}
+
+[hash=d5e1c200e3baabb55a0755f456fff1a4, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=18dbd5498be452084e8e70828b370a58, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+зр
+}
+
+[hash=689cb629869768123f92550d2569ea45, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+а
+}
+
+[hash=0016e2d58d8783a1dd56d0dc3a468dcf, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+чн
+}
+
+[hash=4d6897bfaefe6a41f4a15d294d50bfd8, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ы
+}
+
+[hash=f00e42e7e24f0dbe3606111590c45b03, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+й
+}
+
+[hash=048cc99c9fd95c40b0f86d2d499d201b, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=2956aa293a93d2b3e590ad163c11a7dc, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=8ef6bbaa76efb554cf3fd72f1635f555, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=26ef3c250de1342d1cfb40af609d2dc6, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=2547cd7dadb6c4edb732f0cca7e5bda8, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#mall world
+
+[hash=b68e18c5a03678a0210b754d315efae0, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+то
+}
+
+[hash=1017eb5d9776d33604dcc621a90e1c15, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+рг
+}
+
+[hash=a1d4251cf30d075bed835680e8775972, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ов
+}
+
+[hash=be7a4ecf7642f13339bd3229fd94a08f, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ый
+}
+
+[hash=ee16cce38a328b47dbc745d11ad8ff27, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=f74c4d266b834c3b79c3a52135012539, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=9534343b92b5334a844e7f060daf4314, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=74b6cd8d6cc502adb54ee0474631a3b6, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=34f9013cec6b76fafcc4e8e68b7f30d0, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#tower world
+
+[hash=98bbadd3d3b497e071b73cb99d6cfe46, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ба
+}
+
+[hash=e23a180cee2227d336b96f7bfe3f3861, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ше
+}
+
+[hash=f23365132cff8f8bf873d8fe29195f9a, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+нн
+}
+
+[hash=e5efab78decf9342c3b5150e44f1ca4a, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ый
+}
+
+[hash=1c9cac64b7870eea55d0700e31fad4ca, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=7a4bb42cdf96ee12277819b194b88f03, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=102a1d8c69c8d029bb5b6aab336b7202, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=65e2042d7cb86c7b1c813d2f9c07735e, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=4ea146d89a056d3a08171673f0d6c094, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=67903e79ca1e0b5aeae4a437cf8fb6b5, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#cave world
+
+[hash=f4be1518dd1a46db11fe6ab471bf6352, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+пе
+}
+
+[hash=3088b8defddc2d8c124c81f1bae9abc4, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ще
+}
+
+[hash=0f09a5ce93cc1ac9ac6c647621205a49, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+рн
+}
+
+[hash=4421db7f6ffd49d0e64b8c8eef3b70ea, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ый
+}
+
+[hash=4b6dabd7964a4d92ea9817ae93e3a5ac, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=e02e0761d897a678877ea02c1297b0a6, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=567c60b3d8b0bda8f9ec3175a94303ee, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=89a3f94f69a74bc7f900479f1ff35e1d, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=b830322dd760f6d11a970630e68324c7, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#mist world
+
+[hash=4c31ea7f9e42ceb4279ba337d369ed23, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ту
+}
+
+[hash=2a099290118ad69fbba4ba01a96f63a9, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ма
+}
+
+[hash=b9886a435907015e023901ecc3ee47fe, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+нн
+}
+
+[hash=af28e3acc3f32a4244154f2c31c57a33, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ый
+}
+
+[hash=eb271ce84855fa06eda608d1c62ed136, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+м
+}
+
+[hash=00d7efbd5e625162551a2f572f534fa1, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=71124bc1b45aae331266e4a67f130a26, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=bd8712816db084984604600b32e31b9b, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=d08ddc8ffec5ea0d57fa24736a406ed6, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+#ethereal crux
+
+[hash=2e1bc301754fed17c7f2b6d69ae8c511, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+э
+}
+
+[hash=14efc2f62fc6d2b35412badee74893be, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ф
+}
+
+[hash=58dc1325ab3bba3a315d56fe4e107887, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=476fc9cb1e6990cbacddd8ef0b39e8b2, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+р
+}
+
+[hash=0030eb9b77fe9af1db48e4b94fffb994, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+н
+}
+
+[hash=2177d7a53dd48a38b32b2b171e7bc87a, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ы
+}
+
+[hash=c66613987717058683571b7de803ef19, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+й
+}
+
+[hash=cb11af0b32332f20a2473dad364fefc8, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+}
+
+[hash=776e5af16932bed0a3bf2d21bf3ef61b, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+и
+}
+
+[hash=5d3fba5fedd47eac2c7c7b585131ce90, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+с
+}
+
+[hash=e272fb467409d2a16c382d738273d2ff, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+т
+}
+
+[hash=faef4f6d5ba1d477c4f1fe0571257031, auto_sizing=False, font_size=7, char_spacing=-50, custom_font=False] : {
+ок
+}
+
+#dont know
+
+[hash=e576fcb8c85259527fcd12cf53de71df, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+m
+}
+
+
+###################################
+#Developer Notes in level selector#
+###################################
+
+
+#Cave World
+
+[hash=a47c70468ccf8612f1e30a6c8b9b9061, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир Пещер "
+}
+
+[hash=948a9c390ce40ca18eeb1e1cba357974, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: Мир ада</b>
+
+Отрывок из дневника снов (12 февраля 2 0 2 0 года)
+}
+
+[hash=b67588d6db62f93b64e59f434ec13b6a, auto_sizing=True, font_size=41.1, char_spacing=-20, custom_font=True] : {
+"Я находился в узком подземном туннеле с группой друзей. Мы что-то бормотали друг другу о своей работе и о том, как сильно мы ненавидим работать, но вынуждены это делать из-за сложившейся экономической ситуации. Когда мы говорили, слышалось сильное эхо, и казалось, будто мы постоянно повторяемся. В какой-то момент я услышал громкий гул, а затем — грохот. После этого я проснулся."
+}
+
+[hash=3ee3917d4f2c0849ade072982b4483b8, auto_sizing=True, font_size=46.95, char_spacing=-20, custom_font=True] : {
+Этот сон вдохновил меня на создание Мира Пещер — первой локации, разработанной в ходе создания игры. Изначально я хотел, чтобы мир населяли какие-то существа, похожие на слизней, но, проработав ещё несколько концептов, в итоге остановился на персонажах-гоблиноидах. Этот стиль НПС впоследствии повторялся с небольшими изменениями в дизайне, и он мне очень понравился — я считал, что он отлично подходит для игры.
+
+В сюжете мира много комментариев о неприятных условиях труда, жадных начальниках и микроменеджменте. Во время написания диалогов я понял, насколько они близки мне, и в итоге адаптировал их, создав их преувеличенную версию в виде скрытого внутри секретного мира.
+}
+
+[hash=25d672127ec5c574929a18aa5707487b, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=81a8cdb3047a420f9f364a45107ac2b3, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+#Mist World
+
+[hash=31bc430bcefb3941cdb2824fb3e3163f, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир Тумана "
+}
+
+[hash=4185b567a9234ab1126e9c341a1f4dd3, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: Подводный мир</b>
+
+Отрывок из дневника снов (29 марта 2 0 2 0 года)
+}
+
+[hash=c532ece806a56667dc0e3bc6477e1e9a, auto_sizing=True, font_size=41.1, char_spacing=-20, custom_font=True] : {
+"Я плыл на спине в огромном неглубоком бассейне. Я не мог ни двигаться, ни делать ничего, кроме как оглядываться по сторонам, а течение становилось всё быстрее и быстрее. Подняв взгляд, я видел потолок, но он казался мне полом, словно я лежал спиной к небу. Небо было далеко, и я чувствовал, как туман обволакивает моё лицо. На поверхности плавали фигуры разных размеров: кубы, пирамиды и шары".
+}
+
+[hash=3e70e5dc54c1475cfb356574e29556a2, auto_sizing=True, font_size=40.8, char_spacing=-20, custom_font=True] : {
+Я помню, что этот сон вызвал у меня довольно сильный сонный паралич. Хотя ничего страшного из этого не вышло, я помню, что во сне переживал противоречивые чувства: с одной стороны — спокойствие, с другой — разочарование. При разработке Мира Тумана я хотел отразить эти чувства в виде спокойной, расслабляющей водной глади, посреди которой находился внушительный водоворот.
+
+Во многом дизайн был также вдохновлён моей любовью к эстетике вейпорвейва. Мне понравилась идея, что эти оживлённые змееподобные существа являются хранителями воды, и в то же время я пытался вложить в них некий неформальный совет: отстаивать свои интересы или не быть таким занятым.
+
+Секретный мир — это, по сути, инверсия Мира Тумана, в котором вам приходится бороться с чувством ужаса, растерянности и ложного доверия. В конечном итоге вам предстоит преодолеть чрезвычайно тревожную и напряжённую ситуацию.
+}
+
+[hash=b7ca18eaa5b981d5d104ce2951eeb9a0, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=e51f3a6234a0ccc5a23af2e799c2abc4, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+#Mushroom World
+
+
+[hash=c2bc4c96c3f2101e391411c213fe8a0d, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир грибов "
+}
+
+[hash=647a7259474fd69e825f1e2f8301420c, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: Лесной мир</b>
+
+Отрывок из дневника снов (17 и 18 мая 2 0 2 0 года)
+}
+
+[hash=43e35ec39189aacaf97a2e7a886df341, auto_sizing=True, font_size=41.1, char_spacing=-20, custom_font=True] : {
+"Я стоял в лесу с чрезвычайно густыми, плотно растущими деревьями. Земля была усыпана разными мягкими предметами, похожими на грибы, и когда я по ним ходил, они казались ковром. Время то и дело очень быстро переходило от сумерек к рассвету и обратно к сумеркам, и я чувствовал сильную усталость и головокружение, пытаясь найти выход. Одно дерево пыталось указать мне дорогу, но его слова не имели никакого смысла, и я смеялся над ним каждый раз, когда оно что-то говорило."
+}
+
+[hash=040e65c8bae6827f8eec140f2cb74f8d, auto_sizing=True, font_size=35.45, char_spacing=-20, custom_font=True] : {
+Иногда мне снится сон, из которого я просыпаюсь, а потом могу продолжить его с того места, на котором остановился. В двух разных эпизодах этого сна я помню, как продолжал искать выход из леса, но так и не смог его найти. При разработке Мира Грибов я хотел взять из этих снов концепцию густого леса, но сделать его скорее уютным домом, чем запутанным лабиринтом. Странное дерево также стало персонажем " Странная дверь " , преграждающим вход в скрытую пирамиду.
+
+Изначально этот мир был гораздо меньше, чем получился в итоге: пирамида находилась буквально по ту сторону бамбуковой стены! Но, осознав, как мало игроку приходилось переживать за это время, я значительно расширил лесные тропы и разнообразил активности.
+
+Я стремился сделать грибы центральным элементом, и, будучи поклонником  S u p e r  M a r i o  6 4 , хотел также черпать вдохновение из этой игры. Мне очень понравилась идея доброй и скромной грибной деревни, где к вам относятся как к старому другу, что контрастирует с тем сном, на котором она основана, и дарит ощущение принадлежности и любопытного удивления.
+}
+
+[hash=cae3d6eae0700318c693f68f2d67d818, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=4d3912ec70ce78c1cc258a34bbc61051, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+#Ice World
+
+
+[hash=f8ef357202d11ba5a9668295a3ff071d, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир льда "
+}
+
+[hash=7c23c2c14cc49e6118264d07f482f550, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: Мир пустыни</b>
+
+Отрывок из дневника снов (7 декабря 2 0 2 0 года)
+}
+
+[hash=20f1f144dc879f4ffb45eb30d781bf40, auto_sizing=True, font_size=40.3, char_spacing=-20, custom_font=True] : {
+"Я шёл по оживлённому центру города. Я не мог разглядеть ничьего лица, а вдоль тротуаров сидели толпы людей в лохмотьях. Шёл дождь и бушевала гроза, но дождь постепенно перешёл в снег. Стало светлее, и мне стало холодно. Я попытался заговорить с несколькими людьми на тротуаре, сказав им, что им не обязательно здесь находиться, но они не смотрели на меня и плакали."
+}
+
+[hash=21fb52b0f27be9f8848a9b2d139cfc44, auto_sizing=True, font_size=39.9, char_spacing=-20, custom_font=True] : {
+Это был один из многих снов, после которых я просыпался с чувством невероятной грусти. Изначально я хотел придать всей игре непринуждённый, весёлый тон, но на этом этапе разработки решил перейти к идее постепенного преобразования миров в более мрачные и наполненные эмоциями.
+
+Мир Льда был вдохновлён в основном моими снами, в которых я чувствовал холод и отчуждённость по отношению к миру и другим людям. Я хотел отразить это в первую очередь в диалогах, но также хотел дать вам возможность почувствовать подъём духа. Собака, которую можно погладить, была создана по образцу настоящего хаски, жившего у моего дяди, которого я очень любил в детстве.
+
+В секретном мире я хотел ещё сильнее подчеркнуть дух Ледяного Мира, поэтому остановился на идее параллельного, запертого во времени измерения Ледяного Мира, действие в котором происходит до того, как начался бесконечный снегопад. В итоге это создаёт парадокс между вашими действиями и событиями, определяющими судьбу Ледяного Мира.
+}
+
+[hash=99c84665ba6149c5fa2d5e2467efd2a1, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=740c8fa28de2ef66ecd21b9953b5b258, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+#Space World
+
+
+[hash=65b3ecc9cf9ed0a72cff99e485e91f31, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир космоса "
+}
+
+[hash=330e7f6235fcfe8822674239c9b5d6d3, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: нет</b>
+
+Отрывок из дневника снов (29 июля 2 0 1 9 года)
+}
+
+[hash=cf9b443b72f091087cb36303074d11d9, auto_sizing=True, font_size=41.1, char_spacing=-20, custom_font=True] : {
+"Заблудился в трубах на одной из таких детских игровых площадок. Трубы были очень хрупкими и постоянно раскачивались и отрывались, как только я полз по ним. Я ползал туда-сюда и понятия не имел, как выбраться. Время от времени на полу валялись случайные игрушки или фигурки, которые смотрели на меня. В какой-то момент я зашел в тупик, но там было прозрачное пластиковое окошко, из которого можно было выглянуть наружу. Снаружи на меня смотрел огромный мигающий глаз."
+}
+
+[hash=30943bebcd13e5402ace75883754c3ca, auto_sizing=True, font_size=36.5, char_spacing=-20, custom_font=True] : {
+Это был ещё один сон, из которого я проснулся в холодном поту, и который оставил после себя длительное чувство ужаса. Именно из него родилась идея Мира Космоса, в которой я попытался объединить сам сон с элементами научной фантастики. Именно в этот момент я придал игре ярко выраженное экзистенциальное направление.  " Шейпзоиды " были нарисованы по образцу странных игрушек, которые я то и дело находил в туннелях, а заключительный путь перед  " Глазом "  символизировал мои ощущения после пробуждения.
+
+При разработке Мира Космоса я стремился сделать всё модульным. Все типы труб взаимозаменяемы, что позволяло мне строить столько, сколько я хотел, не создавая при этом огромного количества уникальных ресурсов. Большая часть диалогов была основана на некоторых моих общих циничных или скептических взглядах на реальный мир, а тема  " глаз "  символизировала постоянное ощущение, что за мной наблюдают.
+
+Финальная сцена с чёрной дырой также напрямую связана с моим иррациональным страхом перед ними и другими непостижимо массивными космическими объектами (меланогелиофобия). Иногда мне снятся чрезвычайно яркие сны, в которых появляются эти объекты.
+}
+
+[hash=f03cd1edd169867e00c0ce4ef6ea608a, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=ee79d9043f7f96f761edd9e15b568b2d, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+#Haunted World
+
+
+[hash=1813e1f6d0741cbf4c8bd0e839c497a9, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир призраков "
+}
+
+
+[hash=6d460d1b3f54464b3fa0d29988ec503a, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: Школьный мир, Мир конфет</b>
+
+Отрывок из дневника снов (1 сентября 2 0 2 0 года)
+}
+
+[hash=59e60acd64401cdb4b3998dc7094d396, auto_sizing=True, font_size=33.7, char_spacing=-20, custom_font=True] : {
+"Я лежал в комнате, оформленной в викторианском стиле. На улице бушевала гроза, а в углу, спиной ко мне, стояла женщина в пышном платье. Я встал и вышел из комнаты, не сказав ей ни слова, но когда оглянулся, её уже не было. Я шёл по коридорам без потолков и окон, которые то и дело поворачивали за угол. Я наткнулся на огороженную зону с лифтом, в который я вошёл и спустился на несколько этажей, пока он не остановился, открыв дверь в абсолютно тёмную комнату."
+}
+
+[hash=12767c8413c00c136b3e888dd0759bed, auto_sizing=True, font_size=33, char_spacing=-20, custom_font=True] : {
+Пожалуй, это был самый запоминающийся кошмар из всех, что мне снились за последнее время. Исходя из этого, я решил создать Мир Призраков, взяв его за основу для вдохновения. Внешняя локация появилась уже на этапе разработки, и, как мне показалось, она удачно создала атмосферу напряжения перед входом в интерьер особняка.
+
+Как и в самом сне, этот мир представляет собой путешествие по живому, меняющемуся зданию. При разработке этого уровня моей главной целью было создать медленное, но напряжённое нарастание ужаса, а также отдать дань уважения классическим хоррор-клише. Как видно на протяжении всего уровня, в нём много отсылок к моим любимым хоррор-играм, в первую очередь к  " S i l e n t  H i l l "  и  " A m n e s i a :  T h e  D a r k   D e s c e n t ". Комната с висящим трупом — отсылка к удалённой зоне  " Крипты Каразана " из " W o r l d  o f  W a r c r a f t ".
+
+Внешний секретный мир — это повторяющийся кошмар, в котором я оказываюсь ночью в своей старой школе, а рядом всегда присутствует высокая фигура с чёрными волосами. Я начал рисовать эскизы этой фигуры после того, как этот сон стал сниться мне очень часто, и 3 D - модель является точным воспроизведением в масштабе 1:1.
+
+Внутренний тайный мир также был добавлен позже, так как я хотел как предоставить вам (немного) приятное место для исследования после выхода из подвала особняка, так и создать дополнительную предысторию для персонажа Короля-Призрака.
+}
+
+[hash=2956d9f0e25a6da8d7930e4a5d615188, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=9a2800df3d3afb25922ff4d2c49fa134, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+#Mall World
+
+
+[hash=d61047592058d232a06ad0aee7d9a37c, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир торгового центра "
+}
+
+[hash=aaabe6c5d3f84bb6320e218e5df6af9a, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: нет</b>
+
+Отрывок из дневника снов (19 марта 2 0 2 0 года)
+}
+
+[hash=09ba2e5b7712443399e24f9f2ba55c8c, auto_sizing=True, font_size=41.1, char_spacing=-20, custom_font=True] : {
+"Я доехал до магазина  S e a r s , который находился посреди огромного пустого поля. Когда я вошёл внутрь, оказалось, что вход представлял собой лифт с одной-единственной кнопкой, и двери за моей спиной исчезли. Магазины были пусты, но я слышал музыку и различал людей вдали. Пока я бродил по торговому центру, там становилось всё темнее, пока я не перестал что-либо видеть. Я обнаружил открытую дверь, но споткнулся и упал в яму, не успев до неё дойти."
+}
+
+[hash=4983b26e2b92e90c761cd1f47356c9b1, auto_sizing=True, font_size=34.65, char_spacing=-20, custom_font=True] : {
+Истоки этого сна уходят корнями в детство, когда я заблудился в торговом центре незадолго до закрытия. Этот эпизод навсегда остался в моей памяти, поэтому мне показалось логичным адаптировать этот опыт для этого сна и создать Мир Торгового Центра. Наряду с Миром Призраков, эти два уровня, пожалуй, были самыми сложными в создании как с точки зрения планировки, так и динамики прохождения, и их разработка прошла через длительные этапы концептуализации.
+
+С эстетической точки зрения я черпал тематическое и визуальное вдохновение в неоновом дизайне начала 90 - х. По всему миру также разбросано множество случайных пасхальных яиц. Все причудливые названия магазинов были созданы с помощью генератора случайных каламбуров. Пицца со вкусом  S k i t t l e s  в зоне общественного питания и предметы в скрытой игровой зоне — отсылки к различным стримерам. Сами игровые автоматы демонстрируют все игры, которые я когда-либо создавал как независимый разработчик.
+
+Здесь также много отсылок к концепции лиминальных пространств, одна из самых известных из которых спрятана где-то в этом мире. Плачущий ребёнок, которого вы найдёте в примерочной, — это отсылка к тому времени, когда я в детстве заблудился в торговом центре.
+}
+
+[hash=8e7ea38378b50833231723255240d98b, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=cc10bbe7a755f2546f26eb05d62ba485, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+#Tower World
+
+
+[hash=930fbe45040ba20d5e2630de6a641c47, auto_sizing=False, font_size=45, char_spacing=-40, custom_font=True] : {
+Комментарий   разработчика   " Мир башен "
+}
+
+[hash=4d077b72526a51e90d71455fa1aac311, auto_sizing=False, font_size=33, char_spacing=-20, custom_font=True] : {
+<b>Секретные сны: нет</b>
+
+Отрывок из дневника снов (2 января 2 0 2 1 года)
+}
+
+[hash=a4fb4bff5adbeec21788ca9a2913d9f6, auto_sizing=True, font_size=41.1, char_spacing=-20, custom_font=True] : {
+"Я помогал кому-то загружать мешки с мусором в трюм большой лодки. Там было много других людей, и они кричали мне, чтобы я отвёз лодку через океан и сбросил мешки, чтобы создать новые  " острова " (?). По мере того как я уплывал всё дальше, вокруг стало туманно, и появился очень неприятный запах. Я остановился у здания, которое привело меня через туннель в огромное пространство, заваленное гигантскими кучами мусора."
+}
+
+[hash=21281bb36be8c6ad0844bd9ee5aae221, auto_sizing=True, font_size=34.65, char_spacing=-20, custom_font=True] : {
+Ещё до того, как у меня появилась идея Мира Башен, я искал способ естественным образом подготовить вас к финалу игры. Этот сон сильно меня потряс и оставил после себя сильное чувство тоски, поэтому, естественно, он стал главным источником вдохновения для финального уровня.
+
+В процессе разработки я хотел, чтобы Мир Башен стал кульминацией всех предыдущих событий и превратился в мир, осознающий своё собственное существование. Чистилище для снов и обитающих в нём существ. Одновременно я хотел дать вам возможность сделать моральный выбор: поддержать или расстроить НПС посредством нескольких диалоговых взаимодействий. Весь игровой опыт вращается вокруг идеи, что ваш персонаж находится на последнем отрезке пути перед пробуждением, а мир олицетворяет вызов, заключающийся в преодолении бесконечных кошмаров и сонного паралича.
+}
+
+[hash=7c62d396a8a5713df0b559e0e51bab6a, auto_sizing=False, font_size=30, char_spacing=-40, custom_font=True] : {
+назад
+}
+
+[hash=a29b04157db69529c64b3c075ae04df7, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+
+##############################
+#Model gallery showcase level#
+##############################
+
+
+[hash=c9e3f5a86fa1424cd3e5c5aa60b11e6d, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Галерея моделей персонажей
+}
+
+[hash=72c105b8b75482e6300fed05407a01c7, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Отвергнутые
+}
+
+[hash=24294c63f8e885b4159988a71fb290b3, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=618763c50b96ce5079bf4856c1ab3fc0, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Сладкие парни и девушки
+}
+
+[hash=2d1c0d986c53f4dd1935796e837bce67, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Мэр Морель
+}
+
+[hash=7199a8631f5cdaf20d8fc99031462d2c, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Мимик
+}
+
+[hash=dbdd5fb3490d63652ea08e4216d508bb, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Стэн, СЕО
+}
+
+[hash=49b3b84c280b2ca56c2db9ba41358330, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=7c7a9ee68ed97465dcc3f6194bea3ef3, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Странная дверь / Тера
+}
+
+[hash=601971dc51f8fa4b5f159b8ee0ac09af, auto_sizing=True, font_size=22.15, char_spacing=-30, custom_font=True] : {
+Исследовательская группа   O c e a n w e r k s
+}
+
+[hash=e91e7679bca60f13d0a70bc76154cf9b, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Жители пустыни
+}
+
+[hash=54deab23fa9a167e89bb04715f850595, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=a14d9c428c175a557623c2f3ce5370a1, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Жители Грибной деревни
+}
+
+[hash=b033a78829afc68520fcdc9ac0516017, auto_sizing=True, font_size=27.75, char_spacing=-30, custom_font=True] : {
+Посредник-проводник
+}
+
+[hash=9b8b893c174c6f9c4722187c6da570b6, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Мерзнущие поселенцы
+}
+
+[hash=d8df2f21caec8e632e0fcaedcf4c0444, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Бернард, мудрец из пещеры
+}
+
+[hash=3d77251b5d773d451b298b00de066466, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Гримторн
+}
+
+[hash=d7c2112af5e6469eaf9288b2cf3e1030, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Король Кэнди
+}
+
+[hash=46cf926f55a0350bfcc2e7f577a11dce, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Телемаркетологи
+}
+
+[hash=fc140e7f3ce844b3ead088cee4463d6c, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Шейпзоиды
+}
+
+[hash=665ca9c174d2d5d87cf839605e495c57, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Целакант
+}
+
+[hash=3be81342d1952e219dabc86051e26145, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Кель'Драс Заблудший
+}
+
+[hash=32e2a60a1d8a28806fe92cec89ec4c01, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Потерянные
+}
+
+[hash=06f214e66108c3801c2260a46f7d8d7a, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Великий зверь Эдакс
+}
+
+[hash=c5908f1636f0a9ec940d5d4642fa9f4f, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=ff5d07fb59dff285bceba756d194bb17, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Гоги
+}
+
+[hash=6826af144513c3c47c35b724f1b1432e, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Ловец снов
+}
+
+[hash=c0a15310f0daecf0636cd6ef7595cf1b, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Гипно
+}
+
+[hash=ab4503d1126706802db67e9ec3c5285a, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Призраки особняка
+}
+
+[hash=6316820cef0eddf531affb19fc930901, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Хеклер
+}
+
+[hash=1400309cea370987a35cd4791d6ee656, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Водные змеи
+}
+
+[hash=e6005b2782e425543e5c6900c848c4c2, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=05723b45bb28f3668dacf7bbbf969d93, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Развитие кинематографа
+}
+
+[hash=f7cd08977d43365cff7a57114bb9d6de, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Король-призрак
+}
+
+[hash=6c61e5dbf42f9b61a2e64d9ba4150975, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=b21fd9c0099fa776dc2d9ffea0806775, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Гоблиноиды-пещерные рабочие
+}
+
+[hash=57ffe71206ba86c63d3e7d6df0f1ddd1, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=0d6bb095ed37a9f2cfedf868511da49d, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Садовник Грейди
+}
+
+[hash=a3b56aa1768e0fbf41899f23f06dc422, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Бригадирша Фрэн
+}
+
+[hash=9b32ced8230f1bf3931b6fbf2e5ec610, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Мечтатель
+}
+
+[hash=777c689cf51a5086a9c300a987bfd57a, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Демоны сонного паралича
+}
+
+[hash=bd9dbaff8fb2b2983d0014b1030b35b0, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+Эдем
+}
+
+[hash=b49732b676bb6093467f191395b9c552, auto_sizing=True, font_size=28.4, char_spacing=-30, custom_font=True] : {
+А вы знали?
+}
+
+[hash=41e6a60b6b828cdd84bc8ea1f0952568, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=True] : {
+Появление: Адский мир, разрушающееся жилище
+Количество полигонов: 212
+Уникальные анимации: 3 (показаны не все)
+
+«Телохранитель» подпольной телемаркетинговой компании в Адском мире. Как и его тезка, Хеклер предпочитает сидеть сложа руки и досаждать всем, кто мешает его привычному дневному сну. К сожалению, он погибает медленной смертью в раскалённой, бурлящей магме после того, как опрометчиво разрушил своё собственное жилище с помощью лазера из глаза.
+
+Хеклер явно вдохновлён персонажами "Bullies" из Super Mario 64, как по дизайну, так и по характеру. Изначально я хотел устроить для него более динамичный бой с боссом, но из-за нехватки времени на разработку пришлось ограничиться скриптовой сценой.
+}
+
+[hash=6f9f83a54cc281a8b56bb34ceadc4563, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=True] : {
+Появление: Мир призраков
+Количество полигонов: 202
+Уникальные анимации: 3
+
+Эти пугающие, но безобидные призраки вечно обитают в усадьбе Хелмсфилд в «Мире призраков». Из-за ужасной ошибки, которую их король совершил давным-давно, когда они ещё ходили среди живых, они беспокойно парят по залам, шепча прохожим странные и загадочные послания. Многие из тех, кому не посчастливилось избежать смерти, висят окаменевшими и изуродованными в подвале усадьбы, навсегда обречённые никогда больше не увидеть дневного света.
+}
+
+[hash=a3329831cccf88f21164e3617f4eb312, auto_sizing=True, font_size=10.3, char_spacing=0, custom_font=True] : {
+Появление: мир Хаб (облик стервятника), финальная заставка
+Количество полигонов: 930
+Уникальные анимации: 13+ (показаны не все)
+
+Называя себя «хранителем» мира снов, Гипно берёт на себя ответственность за наблюдение за Сновидцем и ходом его путешествия. Её моральные ориентиры, мягко говоря, неоднозначны: она постоянно даёт сомнительные советы и высказывает сомнительные мнения по различным мирским вопросам. Гипно считает, что Гоги не подходит на роль защитника Кристалла Снов, заявляя, что он не заслуживает доверия и намеренно исчез, когда в нём больше всего нуждались. Иногда её можно увидеть сидящей вдали и наблюдающей за Сновидцем или в большой шляпе ведьмы.
+
+Бонус: Изначально для Гипно планировалось использовать модель персонажа «Страж Ворот», но мне показалось, что она не выглядит достаточно внушительно. В итоге я остановился на идее хитрого на вид существа, похожего на стервятника.
+}
+
+[hash=557f21922228d2f43e041093140abdcf, auto_sizing=True, font_size=11.3, char_spacing=0, custom_font=True] : {
+Появление: Мир Башен, вершина башни
+Количество полигонов: 994
+Уникальные анимации: 3 (показаны не все)
+
+Творец, разрушитель и повелитель всего, что существует в мире снов. Хотя они одновременно воплощают и охватывают все формы абстрактной материи, они сознательно воздерживаются от вмешательства в события, происходящие во сне, предпочитая, чтобы Сновидец решал проблемы самостоятельно. Их основная функция — не дать Сновидцу погибнуть (в результате падения или иным образом) и направлять его с помощью ненавязчивых методов, в том числе прокладывая чёткие пути или создавая инструменты, необходимые для продвижения.
+
+Бонус: Крылья Охотника за снами — это повторно использованные части модели Гипно.
+}
+
+[hash=7153de95d757fb89f09487498b33185e, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=True] : {
+Появление: различные катсцены, Эфирный исток
+Количество полигонов: 394
+Уникальные анимации: 46+ (показаны не все)
+
+Гоги — истинный хранитель мира снов, добродетельное существо абсолютной чистоты. Единственная цель Гоги — охранять эфирный Кристалл Снов и следить за тем, чтобы он всегда оставался невредимым. Всякий раз, когда что-то идёт не так, его будят из глубокого сна, чтобы он выяснил, в чём дело. Колокольчик, который носит Гоги, является символом чистоты снов и содержит сверхъестественный источник силы, способный подавить тьму только в самых крайних ситуациях. У каждого сновидца есть своя уникальная версия Гоги, которая его защищает.
+}
+
+[hash=aa0ee770f9f57a68b8dd8d25cef4658b, auto_sizing=True, font_size=16.65, char_spacing=0, custom_font=True] : {
+Каждая модель персонажа и окружения была создана с помощью программы 3ds Max. Затем детали низкополигональных моделей были проработаны и раскрашены в ZBrush. После развертки модели прошли процесс запекания текстур с использованием xNormal.
+
+Текстуры с низким уровнем детализации были созданы в Photoshop, а затем сжаты до размера 256x256 пикселей или меньше.
+}
+
+[hash=bad8035f03dff544b37b9c2cd08ab302, auto_sizing=True, font_size=12, char_spacing=0, custom_font=True] : {
+Появление: Подводный мир, изолированная камера
+Количество полигонов: 1586
+Уникальные анимации: 4 (показаны не все)
+
+Невыразимо отвратительное существо, рожденное в самых глубоких глубинах и пронизанное неконтролируемым желанием поглотить столько, сколько только возможно. Ещё в раннем возрасте, когда она была гораздо слабее, она была поймана и заключена в магически запечатанную тюрьму-храм расой головоногих, похожих на кальмаров. С тех пор её рост замедлился в геометрической прогрессии, поскольку её единственной пищей стали загрязнители воды. На протяжении тысячелетия её ненасытный голод начал медленно убивать её, пока она не смогла манипулировать Мечтателем, чтобы тот освободил её обратно в открытые воды.
+}
+
+[hash=dfb22183ff16b4dc1bd297753ba651af, auto_sizing=True, font_size=13, char_spacing=0, custom_font=True] : {
+Появление: Мир призраков, Мир школы, Мир торгового центра
+Количество полигонов демона: 476
+Количество полигонов руки: 118
+Уникальные анимации демона: 8
+Уникальные анимации руки: 3 (1 не используется)
+
+Жалкие и пугающие существа, рожденные из страхов сновидцев. Они появляются там, где присутствует даже малейший страх или беспокойство, каким бы едва уловимым оно ни было. Их единственная цель — не дать сновидцу проснуться, заставить его спать вечно. Офаним «Ловец снов» — единственное, что мешает им достичь этой цели.
+}
+
+[hash=57d1a44d6829556f03627189f0aed481, auto_sizing=True, font_size=11.05, char_spacing=0, custom_font=True] : {
+Появление: главный герой игры
+Количество полигонов: 488
+Уникальные анимации: 24 (показаны не все)
+
+Существо из внешнего мира, временно существующее и путешествующее между снами в надежде, что в конце концов оно пробудится. События игры «Hypnagogia: Boundless Dreams» начались, когда Сновидец погрузился в глубокий сон, находясь в реальном мире, после чего его призвал серафим Ловец снов. В своём собственном мире гипнагогических галлюцинаций Сновидец остаётся в плену до тех пор, пока не будет восстановлен разбитый Кристалл Снов. Его моральные принципы, поступки и личность определяются тем, кто им управляет — вами.
+
+Бонус: Сновидец изначально был переработанной моделью человека из уровня «City World» в первой части Hypnagogia.
+}
+
+[hash=b94b4ba3bf4f1b57a80942cf30486f74, auto_sizing=True, font_size=18.5, char_spacing=0, custom_font=True] : {
+При разработке игры «Hypnagogia: Boundless Dreams» использовалось множество источников вдохновения и отсылок, большинство из которых взято из видеоигр середины–конца 1990-х годов.
+
+Среди них можно назвать «Silent Hill», «Crash Bandicoot 3», «Super Mario 64», «Ape Escape», «Megaman Legends», «Metal Gear Solid» и, конечно же, «LSD Dream Emulator».
+}
+
+[hash=7ef33f13c38bd847cf087965dc3ce687, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=True] : {
+Появление: Подводный мир, комната сокровищ
+Количество полигонов: 205
+Уникальные анимации: 5 (показаны не все)
+
+Несмотря на свой внушительный облик, Эден — доброе и скромное существо. Сначала она жила беззаботно в заброшенных руинах храма, но, узнав о том, что там заключен Эдакс, взяла на себя обязанность стать его «хранителем». Она пытается подружиться с каждым прохожим, кого только может, и осторожно предупреждает всех, кто осмеливается исследовать глубинные залы храма. Однако из-за преклонного возраста и слабого здоровья она смогла защищать Мечтателя от Эдакса лишь некоторое время, прежде чем сама стала его добычей. Её всегда будут помнить.
+}
+
+[hash=d6976a1b63544bbd570c168dfceb19bf, auto_sizing=True, font_size=14.05, char_spacing=0, custom_font=True] : {
+Появление: «Мир пещер», главное ущелье
+Количество полигонов: 490
+Уникальные анимации: 1
+
+Жадная и нетерпеливая начальница рабочей бригады «Мира пещер», она правит своими «подчинёнными» железной рукой. У Фрэн одна цель: заполучить пропавший осколок кристалла снов. Обнаружив его парящим в шахте, осколок начал оказывать на неё негативное влияние, усиливая её и без того извращённый разум до новых высот. Однако ей не удаётся добиться своего благодаря совместным усилиям Мечтателя и Бернарда, мудреца пещер.
+}
+
+[hash=400c5453bd414e90f2614e8fe2621490, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=True] : {
+Появление: по всему Миру пещер
+Количество полигонов: 565
+Уникальные анимации: 6
+
+Недостаточно укомплектованный и низкооплачиваемый персонал «Мира пещер». Работая под пристальным надзором строгого бригадира Франа, гоблиноидные рабочие в целом ненавидят шахтёрскую жизнь, но слишком равнодушны или ленивы, чтобы задумываться о чем-то другом. Они предпочитают делать только самое необходимое, забрать зарплату и убраться домой, как только закончится смена.
+
+Бонус: Модель, которую вы видите прямо справа от этого информационного блока, — это самый первый персонаж, созданный для игры, и она представляла собой раннюю попытку добиться гораздо более низкой детализации дизайна.
+}
+
+[hash=fd1107a99b933eff27febb576ca61957, auto_sizing=True, font_size=20.95, char_spacing=0, custom_font=True] : {
+Для различных миров игры было создано более 300 уникальных текстур. Большинство из них было создано с нуля, например, те, что можно увидеть в «Космическом мире» или «Мире конфет».
+
+Остальные были созданы на основе базовой текстуры, найденной на сайте textures.com.
+}
+
+[hash=4d7d9b5c9938844558eda6d6095290c9, auto_sizing=True, font_size=13, char_spacing=0, custom_font=True] : {
+Появление: Мир призраков, Мир конфет
+Количество полигонов: 544
+Уникальные анимации: 4
+
+До того, как его друг-король совершил роковую ошибку, Грейди вел уединённую и одинокую жизнь в мире, сошедшем с ума. Циничный, пессимистичный и ворчливый, он считал поступки своего короля подлыми и бесстыдными, но ничего не мог сделать, чтобы остановить его. Ошибочно убедившись, что его действия помогут другим, Грейди был вынужден королём вечно трудиться в качестве гробовщика в поместье Хелмсфилд. Теперь он хоронит тех многих, кто погиб от рук этого безрассудного короля.
+}
+
+[hash=370888d57eb1475b299689f38f8b8fe7, auto_sizing=True, font_size=19.7, char_spacing=0, custom_font=True] : {
+Для игры было создано почти 400 уникальных моделей, включая персонажей, реквизит, предметы, которые можно подбирать, и элементы уровней.
+
+Многие из них используют общий <b>атлас текстур</b>, чтобы сократить количество отдельных файлов, которые необходимо обрабатывать игре.
+}
+
+[hash=4e56cd2e04483bdcbadc431863e76a7d, auto_sizing=True, font_size=13.35, char_spacing=0, custom_font=True] : {
+Появление: Мир призраков (мертвый), Мир конфет (живой)
+Количество полигонов: 460
+Уникальные анимации: 2
+
+Лишившись своего драгоценного сердца из-за непростительной ошибки, совершённой им давным-давно, Король Призраков постепенно слился с разрушающимся поместьем Хелмсфилд. Будучи в жизни заядлым исследователем, он обнаружил осколок Кристалла Снов. Он настолько увлекся им, что перестал заботиться обо всём остальном, забыв о своих истинных увлечениях и целях вплоть до своей безвременной смерти. Когда-то он был доброй и благородной душой, а теперь — гниющей, опустошённой оболочкой своего прежнего «я».
+}
+
+[hash=3e4919567ad3b6c9e29a84619e4a98a1, auto_sizing=True, font_size=14.05, char_spacing=0, custom_font=True] : {
+Всего в игре <i>Hypnagogia: Boundless Dreams</i> представлено 9 кинематографических роликов общей продолжительностью около 16 минут. Каждый из них имеет свой уникальный набор анимаций персонажей.
+
+Анимации были настроены и запечены с помощью 3ds Max, а затем экспортированы в соответствующие сцены в Unity. Пришлось много раз переключаться между программами, чтобы убедиться, что анимации синхронизированы и правильно согласованы друг с другом. Из всех задач разработки создание роликов, которыми я остался доволен, заняло больше всего времени.
+}
+
+[hash=6dc33d4015743e309234bae1ca4779bc, auto_sizing=True, font_size=17.2, char_spacing=0, custom_font=True] : {
+<i>Hypnagogia: Boundless Dreams</i> — это продолжение предыдущей игры, известной просто как <i>Hypnagogia</i>. Она была бесплатно выпущена в сети в ноябре 2020 года в рамках конкурса LSD Game Jam.
+
+Большая часть контента той игры демонстрирует зачатки того, что позже превратилось в <i>Boundless Dreams</i>.
+}
+
+[hash=e0a98ecc2b294837722adb93a3f6b498, auto_sizing=True, font_size=13.25, char_spacing=0, custom_font=True] : {
+Появление: Мир Тумана
+Количество полигонов: 150
+Уникальные анимации: 5 (показаны не все)
+
+Трудолюбивые и сосредоточенные змееподобные существа из «Мира туманов». С момента достижения зрелости их задача — следить за вверенными им акведуками, следя за тем, чтобы ничто не препятствовало течению воды и не изменяло её цвет. Они выполняют свои обязанности на протяжении всей жизни и готовы с почтением проверять всех пришельцев, желающих воспользоваться их таинственной водой. В зависимости от оттенка каждый змей имеет свой характер и может казаться напористым или пассивным.
+}
+
+[hash=a8d06700a0aa7bf2f9efffaabad491be, auto_sizing=True, font_size=22.15, char_spacing=0, custom_font=True] : {
+Настенные росписи, которые вы увидите в мирах «Призрачный» и «Конфетный», были созданы искусственным интеллектом на основе различных текстовых подсказок для генерации изображений.
+
+Качество полученных результатов идеально подходило к атмосфере таинственного и причудливого сна, поэтому их и решили выставить.
+}
+
+[hash=4300f9163468d5cbc67fd5f7cec8cdcb, auto_sizing=True, font_size=10, char_spacing=0, custom_font=True] : {
+Появление: Пирамида в Грибном мире
+Количество полигонов: 9 (в виде двери), 618 (в виде голема)
+Уникальные анимации: 5
+
+Одушевлённая и застенчивая каменная дверь из руин пирамиды в Грибном мире. На первый взгляд она ничем не примечательна, но когда к ней приближаешься, этот энергичный кусок камня не может не привязаться к неподготовленному искателю приключений. Однако Мечтатель застаёт её врасплох во время своих путешествий и умудряется победить дверь в испытании загадками. Хотя говорят, что если познакомиться с ней поближе, это поможет пройти другое испытание...
+
+В «Лесном мире» Мечтатель вновь сталкивается с другой версией этой странной двери в одном из своих собственных снов, и становится очевидным, что даже там она по-прежнему испытывает к Мечтателю какие-то скрытые чувства...
+
+Бонус: Изначально это должно было быть одноразовое взаимодействие, но после того, как разработчики услышали отзывы игроков, в одном из обновлений двери придали гораздо больше индивидуальности и добавили больше диалогов.
+}
+
+[hash=a89a8a422245e94edd0749b3f0651d52, auto_sizing=True, font_size=13.45, char_spacing=0, custom_font=True] : {
+Появление: все основные миры, финальная катсцена
+Количество полигонов: 322
+Уникальные анимации: 6 (показаны не все)
+
+Кукла, созданная Гримторном по образу Гоги с целью обмануть Мечтателя. Сшитый из высушенных шкур и набитый мясистой массой, Мимик получил всё, кроме мозга. Из-за отсутствия интеллекта ему не удаётся вернуть Гримторну утраченные Кристаллы Снов, вместо этого он отвлекается на каждый из красочных миров снов. Хотя изначально он не был злобным по своей природе, у него развивается жажда злобы после того, как его неизбежно предал злобный надзиратель.
+}
+
+[hash=ab5e8476056d4f0c077f6e79b04dfb0e, auto_sizing=True, font_size=13.85, char_spacing=0, custom_font=True] : {
+Появление: Грибной мир, скрытый источник
+Количество полигонов: 366
+Уникальные анимации: 1
+
+Вам вряд ли удастся найти мэра, столь же беззаботного, как мэр Морель. Будучи главой деревни в Грибном мире, он не поддаётся стрессу, оставаясь беззаботным в окружении своих грибных друзей. Однако он не лишен мудрости и считает, что сентиментальная признательность — один из самых искренних аспектов жизни. Его помощник Мунг обычно берет на себя всю рутинную работу, но не может удержаться от того, чтобы время от времени не рассказать пару плохих шуток.
+}
+
+[hash=248af38120fbf0c36265a08695549a08, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=True] : {
+Появление: Мир Ада, вершина горы
+Количество полигонов: 722
+Уникальные анимации: 4 (показаны не все)
+
+Его зовут Стэн, и его конек — медленно, но верно захватывать все заменимые и незаменимые активы, которые только удается найти. Накопив практически бесконечное богатство в виде денег и сотрудников, Стэн управляет всем из своей лавовой джакузи на вершине горы. К счастью для Мечтателя, Стэн не особо ценит здравый смысл, и его влияние сводится на нет после того, как он сам лишается должности из-за собственной некомпетентности.
+
+Бонус: модель Стэна — слегка измененная версия Короля Кэнди.
+}
+
+[hash=5bdd26336182a9abacf0f6f204821392, auto_sizing=True, font_size=19.35, char_spacing=0, custom_font=True] : {
+Для взаимодействия и диалогов с персонажами мира было написано более 3000 строк текста.
+
+Большая часть текста была создана ещё до разработки уровней, что в значительной степени помогло сформировать характеры персонажей и определить, где и чем они будут заниматься в момент вашей встречи с ними.
+}
+
+[hash=1cc1ae1cd5321a8481db1118c67966da, auto_sizing=True, font_size=13.55, char_spacing=0, custom_font=True] : {
+Появление: по всему «Миру Башен»
+Количество полигонов: 700
+Уникальные анимации: 5 (показаны не все)
+
+Угасающая раса разнообразных существ, населяющих «Мир Башни». Каждое из них в какой-то момент уснуло в мире за пределами сновидений, но так и не проснулось. Со временем они постепенно слились со своими снами, пока кристалл снов не раскололся и не превратил их в кошмарные оболочки прежних «я». Подобно Стражам Врат, они тоже становятся всё более обезображенными, а их кожа превращается в безликую плоть по мере того, как они пытаются покинуть этот чистилищный мир.
+}
+
+[hash=2a36c9ebc50c3034824ef6abb88452fb, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=True] : {
+Появление: Мир конфет
+Количество полигонов: 528
+Уникальные анимации: 8 (показаны не все)
+
+Милые, сладкие и доверчивые жители Мира Конфет, Гумми, счастливо живут под властью Короля Кэнди. Обнаружив утраченный осколок Кристалла Снов, король использовал его силу, чтобы лишить своих подданных человечности и превратить их в покорных слуг, призванных превратить его мир в рай из сладостей. Однако многих из них можно застать отдыхающими, бездельничающими или выполняющими задачи в своём собственном темпе, из-за чего они не слишком подходят для работы над строительством королевства. По этой причине король использует Мечтателя, чтобы убедить своего старого друга-отшельника помочь ему возглавить новый мировой порядок.
+}
+
+[hash=ffd4920fe1ef8d23f4b91ae0bb14ee98, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=True] : {
+Появление: вступительный ролик (на несколько кадров)
+Количество полигонов: 1710
+Уникальные анимации: 1
+
+Если вы играли в оригинальную версию <i>Hypnagogia</i>, то наверняка помните этого персонажа из водного сна под названием «Научись плавать». Из-за ограничений по времени, связанных с игровым марафоном, для которого создавалась игра, созданию целаканта не уделили особого внимания, поэтому количество его полигонов непомерно велико по сравнению с другими водными существами, представленными здесь.
+
+Тем не менее, он хорошо подходит для сравнения, когда речь заходит о разнице в качестве моделей между первой и второй играми. К тому же у него довольно милое личико!
+}
+
+[hash=5f767bfaf3d517a83ac7b5fcd63b5925, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=True] : {
+Появление: Мир школы
+Количество полигонов: 658
+Уникальные анимации: 8 (показаны не все)
+
+Сообщество забытых душ, обитающих в Мире школы. Эти ужасающие чудовища остаются в местах, связанных с неприятными воспоминаниями, вновь переживая свои кошмары о насилии и жестоком обращении. Не имея возможности покинуть школьный сон, они безнадежно ищут всё, что могло бы помочь им сбежать. Поняв, что Сновидец попал в их мир, Потерянные позаботились о том, чтобы это стало ошибкой, о которой не стоит вспоминать.
+
+Бонус: Дизайн этого персонажа практически полностью повторяет существо, которое было замечено в реальном кошмаре, послужившем основой для «Школьного мира».
+}
+
+[hash=591d4fcbae3ad2e242778b26f9244795, auto_sizing=True, font_size=11.05, char_spacing=0, custom_font=True] : {
+Появление: Подводный мир, в чреве чудовища
+Количество полигонов: 828
+Уникальные анимации: 6 (показаны не все)
+
+Кель'Драс — обитатель подводного мира, затерянный во времени, — когда-то принадлежал к благородному королевству, на которое лежала ответственность за удержание Великого Чудовища Эдакса после того, как его голод вышел из-под контроля. Он стал одной из первых жертв чудовища, но, в отличие от остальных обитателей своего дома, не погиб. Вместо этого он целиком провалился в чрево чудовища и застыл в неподвижном потоке времени. Никогда не испытывая голода, никогда не засыпая и никогда не умирая, он сидит и ждёт, когда очередная несчастная жертва станет для него билетом на свободу. Возможно, ему придётся ждать очень долго.
+
+Бонус: образ Кель'Драса основан на статуях, разбросанных по всему Подводному миру.
+}
+
+[hash=d142ede1df7fbc73dc3cac11e7573009, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=True] : {
+Появление: «Космический мир»
+Количество полигонов: 234
+Уникальные анимации: 4 (1 неиспользованная)
+
+Неуловимая и прагматичная раса технологически развитых существ, населяющая сеть труб в глубоком космосе. Они утверждают, что точно знают, как устроена Вселенная, но не способны описать это словами. Их поступки и мировоззрение диктуются всеобъемлющим и всемогущим «Глазом», который превосходит пространство, время и материю.
+
+Изначально планировалось показать одного из них, выполняющего различные уникальные задачи в трубах «Космического мира», но эта идея была отброшена из-за нехватки времени на разработку.
+}
+
+[hash=3c2e1aa303328f46f7dcbea590f03edf, auto_sizing=True, font_size=13.75, char_spacing=0, custom_font=True] : {
+Появление: по всему Аду
+Количество полигонов: 628
+Уникальные анимации: 8 (показаны не все)
+
+Бездушные, корпоративные и связанные вечным контрактом с Стэном, генеральным директором, эти демоны проводят свои рабочие дни (а это — весь день) тем, что засыпают людей из реального мира сомнительными предложениями по телефону. Нет ничего, чего бы они не сделали ради шанса на повышение, включая обмен собственной бабушки на дешевую криптовалюту на блокчейне. Среди этой шпаны находится Чет, акционер и руководитель колл-центра, которого Мечтатель быстро отправляет в кипящую лаву после увольнения.
+}
+
+[hash=598533cd96335991896988547ccc1b86, auto_sizing=True, font_size=12.2, char_spacing=0, custom_font=True] : {
+Появление: Мир конфет, замок (живой), Мир призраков (мертвый)
+Количество полигонов: 692
+Уникальные анимации: 1
+
+Несмотря на свой статус короля, Кэнди утверждает, что он самый крутой правитель во всей вселенной, и его последователи-Гумми с радостью готовы это подтвердить. Однако у него есть своя история. Давным-давно, будучи заядлым исследователем, Кэнди обнаружил и стал одержим утраченным фрагментом Кристалла Снов, позволив его силе исказить свой разум и личность до неузнаваемости. Со временем он заинтересовался превращением своего королевства в страну сладостей и конфет. Используя силу фрагмента, он лишил мир всей природной жизни, вызвав катаклизм, который привёл к падению королевства и, в конечном итоге, к его гибели.
+}
+
+[hash=8b5d8523931bd3f6a41a37d87a553c41, auto_sizing=True, font_size=11.5, char_spacing=0, custom_font=True] : {
+Появление: Грибной мир
+Количество полигонов: 446 (включая копьё и рюкзак)
+Уникальные анимации: 7
+
+Крошечные обитатели Грибного мира, живущие в грибах. У них есть талант к исследованиям, садоводству и, в целом, к беззаботному времяпрепровождению. Это добрая и любознательная раса, которая ко всему подходит неторопливо; они проводят время, наслаждаясь жизнью на свежем воздухе в компании друзей. Среди самых заметных жителей деревни — Тодстоул Томми, неугомонный юнец; Фрекл, местный садовник с «зелёным пальцем»; и Исследователь Найлс, разведчик, обожающий приключения.
+
+Бонус: Модель слева была первым вариантом грибного жителя. Мне не понравилось, что у него не было видно рта, поэтому я решил переделать дизайн.
+}
+
+[hash=aaba68caba298aceefe4e4a805a6c7bd, auto_sizing=True, font_size=19.45, char_spacing=0, custom_font=True] : {
+На создание игры <i>Hypnagogia: Boundless Dreams</i> ушло 8 месяцев и 28 дней, что в сумме составляет 257 дней. В большинстве дней до 8 часов уходило на разработку концепции, проектирование, моделирование, написание кода и тестирование игры.
+
+Пришлось пожертвовать многим сном!
+}
+
+[hash=535aff69e693026c7efdbba3382a42b2, auto_sizing=True, font_size=12.7, char_spacing=0, custom_font=True] : {
+Появление: Мир хаб (в облике стервятника), финальная заставка
+Количество полигонов: 872
+Уникальные анимации: более 30 (показаны не все)
+
+Злобный и коварный верховный хищник мира снов. Гримторн — воплощение всего того, что превращает приятные сны в ужасные кошмары. После того как Кристалл Снов был наконец восстановлен Мечтателем, выяснилось, что истинной формой Гримторна всё это время была Гипно, манипулировавшая событиями ради своих корыстных целей. Она жаждет лишь полного контроля над миром снов и хочет превратить его в место всепоглощающей, отвратительной тьмы. Благодаря глубокому эфирному самопожертвованию Гоги цель Гримторна по установлению господства оказалась тщетной.
+}
+
+[hash=1b9b0c88a9949815369da08500660385, auto_sizing=True, font_size=15.5, char_spacing=0, custom_font=True] : {
+Появление: Мир пещер, глубокая шахта
+Количество полигонов: 744
+Уникальные анимации: 3
+
+Мудрый и уставший старый пещерный мудрец из «Мира пещер». Работая под началом бригадирши Фрэн, он не стесняется скрывать свою сильную неприязнь к её маниакальным методам ведения дел. С неохотой он соглашается помочь Мечтателю вернуть осколок кристалла снов и унести его подальше от Фрэн. Некоторые говорят, что сейчас он на пенсии и ведёт мирную жизнь в горах.
+}
+
+[hash=fd0e168a55eadc327bf451e6bca97fc6, auto_sizing=True, font_size=11.1, char_spacing=0, custom_font=True] : {
+Появление: Ледяной мир
+Количество полигонов поселенца: 460
+Количество полигонов Бисквита: 454
+Уникальные анимации поселенца: 7
+Уникальные анимации Бисквита: 5
+
+Бедные обитатели Ледяного мира — раса существ, когда-то приспособленных к влажной среде, но в какой-то момент вынужденных быстро акклиматизироваться к субарктическим температурам. После события, известного как «Великий коллапс», население Ледяного мира пережило серию массовых вымираний, в результате чего большая часть его обитателей оказалась погребённой под милями льда или снега.
+
+Вождь деревни и его хаски по кличке Бисквит однажды отправились в экспедицию в поисках способа исправить мир, но о них давно забыли, так как они так и не вернулись.
+}
+
+[hash=163596ccfd40460345876c25fc0ab90b, auto_sizing=True, font_size=15.5, char_spacing=0, custom_font=True] : {
+Появление: Мир Башен (3 версии)
+Количество полигонов: 280
+Уникальные анимации: 1
+
+Пассивный и морально неоднозначный хранитель головоломных кубов «Мира Башен». Он выглядит как падший ангел из-за своей неспособности когда-либо подняться из чистилища снов и теперь выступает в роли хранителя записей обо всех действиях Сновидца. Чем выше они поднимаются из чистилища, тем более обезображенными становятся, пока от них ничего не останется.
+}
+
+[hash=b576f528fded4cf35aeb588e4449c4f3, auto_sizing=True, font_size=11.35, char_spacing=0, custom_font=True] : {
+Появление: Мир пустыни
+Количество полигонов кролика: 866
+Количество полигонов Стрэйдера: 688
+Уникальные анимации кролика: 7 (показаны не все)
+Уникальные анимации Стрэйдера: 3
+
+Покрытый песком народ кроликов из Мира пустыни. Они зарабатывают на жизнь, добывая всё, что могут, из бесконечно растущих дюн, и обмениваются между собой обрывками вещей или едой. Их основные занятия — забота о последних оставшихся в живых птицах-стридерах и поиск укрытия от палящего солнца. Лидер Дасти (слева) — один из самых приветливых кочевников в их среде. Он готов сделать всё, что в его силах, чтобы обеспечить своему народу лучшую и более комфортную жизнь, даже если для этого придётся пожертвовать всем.
+}
+
+[hash=49b7cf3c2614f4cb25d2b4ca6f3ceb52, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=True] : {
+Появление: Подводный мир, зал Неолит
+Количество полигонов: 698
+Уникальные анимации: 5
+
+Эти любознательные и пытливые подводные исследователи постоянно стремятся «углубить» свои знания. Их наземный штаб постоянно отмахивается от них, так и не удовлетворяя их финансовые потребности для проведения таких опасных экспедиций. Несмотря на эти досаждающие обстоятельства, они сохраняют спокойствие и самообладание, руководствуясь в первую очередь стремлением продвинуть исследования. К сожалению для одного из них, любопытство привело к неожиданным и нежелательным последствиям.
+
+Бонус: Верхняя половина модели исследователя заимствована у модели пещерного гоблиноида, а нижняя — у модели пустынного кролика.
+}
+
+[hash=4281786e511088b2116551a51d5f90d0, auto_sizing=True, font_size=13.4, char_spacing=0, custom_font=True] : {
+Привет! Вижу, вам удалось найти этот маленький, спрятанный секрет. Это галерея всех уникальных моделей персонажей и анимаций, которые я создал для <i>Hypnagogia: Boundless Dreams</i> — все они с любовью созданы с нуля.
+
+Если вы ещё не прошли игру до конца, включая все скрытые уровни, <u>настоятельно рекомендуется</u> сначала это сделать. <b>(Серьёзные спойлеры!)</b>
+
+Подойдите к любому из информационных маркеров, чтобы узнать больше о персонаже, модели и других интересных фактах о разработке. Вы можете вернуться в центр уровней в любое время, воспользовавшись порталом позади вас или выйдя из меню паузы. <b>Приятного просмотра!</b>
+}
+
+
+

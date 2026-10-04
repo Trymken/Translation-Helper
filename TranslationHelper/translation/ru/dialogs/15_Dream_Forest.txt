@@ -1,0 +1,610 @@
+15_Dream_Forest Dialogue
+
+NOTES
+- floating skeleton head named Sharam? can act as guide? could also be a little feral goblin creature. maybe a little feral goblin WITH a flaming skeleton head.
+- weird door is an anthropomorphic stone golem. revealed to have the name Тера
+- unique door NPCs in each challenge room? Zendon, Avidon, Undon, Rhudon
+- sparse dialogue throughout, only a few lines for NPCs and riddle hints
+- overall 'story' is that this is the weird door golem's dream, and you are in it. she wants you to help her do something
+- weird door golem is trapped in roots and blocks main courtyard portal. completing each challenge room removes a root. her dialogue updates each time you do so.
+- each challenge room has a "rune" ball that you must return to main courtyard. the rune ball appears at the end
+- each challenge room has platforming challenges, trap doors, utilizes the puzzle ball in some way, and has 1 "unique" puzzle
+- challenge room 1: simple platforming and moving platforms
+
+PICKUPS
+
+[title=pickup_hookshot_begin]
+В сундуке ты находишь <color=#fcba03><b>Зацеп</b></color>!
+Нажми клавишу X или кнопку RB, чтобы цепляться за особые узлы на некоторых стенах.
+[title=pickup_hookshot_end]
+
+[title=pickup_map_begin]
+В сундуке ты находишь <color=#fcba03><b>Карту Лабиринта</b></color>!
+Нажми клавишу F или кнопку Back, чтобы включить отображение карты. Теперь ты никогда не заблудишься!
+[title=pickup_map_end]
+
+[title=pickup_ring0_begin]
+Здесь стоит большой украшенный сундук. Он заметно отличается от тех, что ты видел раньше.
+[question=50]Попробуешь открыть его?
+[choice]Да.[newtalk start=ring0_yes_begin break=ring0_yes_end]
+[choice]Нет.[newtalk start=ring0_no_begin break=ring0_no_end]
+[title=pickup_ring0_end]
+
+[title=ring0_yes_begin]
+Ты пытаешься открыть сундук.[event=9]
+[title=ring0_yes_end]
+
+[title=ring0_no_begin]
+Ты оставляешь сундук в покое.[event=10]
+[title=ring0_no_end]
+
+[title=pickup_ring1_begin]
+Внутри ты находишь <color=#00b3ff><b>Призматический артефакт</b></color>.
+Это искусно изготовленное кольцо из ярких минералов. Оно излучает гипнотическую энергию.
+Оно слишком велико, чтобы надеть на палец, но ты всё равно забираешь его с собой.
+[title=pickup_ring1_end]
+
+[title=pickup_bomb_begin]
+В сундуке ты находишь <color=#fcba03><b>Вишнёвую бомбу</b></color>!
+Нажми клавишу R или левый стик, чтобы бросить бомбу — она взорвётся через 4 секунды. \n<color=#ff0000><b>Предупреждение</b></color> — не ешь её.
+[title=pickup_bomb_end]
+
+[title=pickup_vinebomb_begin]
+В сундуке ты находишь <color=#42f563><b>Бомбу‑утку</b></color>! Мощный взрыв!
+Нажми клавишу R или левый стик, чтобы бросить кассетную бомбу — она взорвётся через 4 секунды. \n<color=#fcba03><b>Примечание</b></color> - это не настоящая утка.
+[title=pickup_vinebomb_end]
+
+[title=pickup_key_white_begin]
+В сундуке ты находишь <color=#81aee6><b>Серебряный ключ</b></color>!
+Если взять этот ключ, ты сможешь открыть любой <b>один</b> серебрянный замок.
+[title=pickup_key_white_end]
+
+[title=pickup_key_gallery_begin]
+В сундуке ты находишь <color=#ff00d0><b>Таинственный ключ</b></color>!
+Интересно, к чему он подойдёт?
+[title=pickup_key_gallery_end]
+
+ROUND 1
+
+GALLERY DOOR
+
+[title=door_gallery_begin]
+Хлипкие ворота с решёткой заперты на особый замок.
+[title=door_gallery_end]
+
+MID-ROOM
+
+[title=golem_0_begin]
+???: Уф, и как же мне туда попасть? Если бы рядом был кто‑то поменьше... кто мог бы помочь...
+[title=golem_0_end]
+
+[title=golem_1_begin]
+???: Хм? Кто там?[event=11]
+???: Что... что?! Ты... тот самый из леса! Что ты здесь делаешь?!
+???: Сначала ты решаешь со мной заигрывать, а потом врываешься в мои <b>сны</b>? Это безумие! [event=12]
+???: О, я поняла. Просто не можешь от меня оторваться, да? Ну, должна сказать, это довольно странно. <i>Очень странно.</i>. Вот она я, во плоти.
+???: Уф, тебя что, никто не учил уважать границы? Ладно, неважно. У меня нет времени на это — у меня работа.
+???: [question=0]Хм. Хотя... может, твоё появление здесь — это на самом деле скрытое благословение. Возможно, ты сможешь помочь мне с моей маленькой проблемой...
+[choice]Помочь с чем?[newtalk start=golem_yes0_begin break=golem_yes0_end]
+[choice]Нет, спасибо.[newtalk start=golem_no0_begin break=golem_no0_end]
+[title=golem_1_end]
+
+[title=golem_yes0_begin]
+???: А‑ха! Я знала, что тебе будет интересно. Я так и подумала, что ты оказался в этом месте не просто для того, чтобы произвести на меня впечатление.[newtalk start=golem_2_begin break=golem_2_end]
+[title=golem_yes0_end]
+
+[title=golem_no0_begin]
+???: Пф‑ф. Послушай — ты заперт здесь так же, как и я. Другого пути нет, только вперёд. Так что хотя бы постарайся вести себя продуктивно, ладно?[newtalk start=golem_2_begin break=golem_2_end]
+[title=golem_no0_end]
+
+[title=golem_2_begin]
+???: В общем, пока мы тут застряли, можно и познакомиться. \nЯ <color=#ed2d1f><b>Тера</b></color>.
+Тера: [question=1]...а ты кто?
+[choice]Мм.. э‑э... а..[newtalk start=golem_answer0_begin break=golem_answer0_end]
+[choice]Никто.[newtalk start=golem_answer1_begin break=golem_answer1_end]
+[choice](Заигрывать)[newtalk start=golem_answer2_begin break=golem_answer2_end]
+[title=golem_2_end]
+
+[title=golem_answer0_begin]
+Тера: Кошка язык откусила? Не думала, что так тебя смущаю. Знаешь, если будешь вести себя со мной так, моё самомнение только вырастет.[newtalk start=golem_3_begin break=golem_3_end]
+[title=golem_answer0_end]
+
+[title=golem_answer1_begin]
+Тера: О‑о‑о, ты <i>такой‑претакой</i> таинственный! Настоящая загадка! Ой, да брось. Никого ты этим не обманешь.[newtalk start=golem_3_begin break=golem_3_end]
+[title=golem_answer1_end]
+
+[title=golem_answer2_begin]
+Тера: Знаешь, ты становишься предсказуемым. Хорошая попытка, но это уже устарело! Давай‑ка веди себя чуть повзрослее, а?[newtalk start=golem_3_begin break=golem_3_end]
+[title=golem_answer2_end]
+
+[title=golem_3_begin]
+Тера: Ладно, неважно. Мне в общем‑то и не нужно знать, кто ты. Буду называть тебя так, как и раньше — <i>чудик</i>.
+Тера: Слушай — что‑то потревожило этот священный храм, и здесь есть... <color=#00b3ff><b>драгоценный артефакт</b></color>, который я ищу.
+Тера: К несчастью, все эти проклятые проходы слишком малы для моей внушительной фигуры. А вот ты... ты как раз подходишь. Так что тут ты и пригодишься.
+Тера: Всё просто: нам нужно добраться до главного двора впереди, но он заперт за чередой идиотских загадок. Понимаешь, к чему я веду?
+Тера: ...ты выглядишь озадаченным. Уф, просто найди способ отпереть эти ворота и вернись ко мне сюда. Уверена, ты разберёшься.
+[title=golem_3_end]
+
+[title=golem_repeat0_begin]
+Тера:Хм? Ты ведь не мог заблудиться <b>настолько</b> рано в уровне. Ты пробовал заглянуть в те комнаты вон там?
+Тера: <i>(Я уже чувствую, что это превратится в сплошное испытание на терпение.)</i>
+[title=golem_repeat0_end]
+
+MID-ROOM -------- LEFT ROOM
+
+MID-ROOM -------- RIGHT ROOM
+
+ROUND 2
+
+[title=golem_4_begin]
+Тера: О‑о‑о!.. Не ожидала, что ты так быстро найдёшь ключ... Ладно, неплохо, неплохо.[event=12]
+Тера: В общем, слушай — у меня предчувствие, что главный двор уже недалеко. Я это чувствую.
+Тера: Мне придётся найти другой путь, потому что я явно не пролезу в эту крошечную дверцу.
+Тера: Ну, иди вперёд. Лучше поторопись, а то мы оба умрём от скуки.
+[title=golem_4_end]
+
+[title=golem_4_repeat_begin]
+Тера: Кстати, я тут вспомнила... Пока ты там возился, я наткнулась на <color=#fcba03><b>карту</b></color>.
+Тера: [question=02]Она, наверное, тебе пригодится. Хочешь её или как?
+[choice]Дай её.[newtalk start=golem_map0_yes_begin break=golem_map0_yes_end]
+[choice]Нет, спасибо.[newtalk start=golem_map0_no_begin break=golem_map0_no_end]
+[title=golem_4_repeat_end]
+
+[title=golem_map0_no_begin]
+Тера: Хм. Думаешь, тебе и так сойдёт или что? Я не в восторге...
+Тера: ...совсем.
+Тера: Пф‑ф, как хочешь, твои проблемы. Дай знать, если передумаешь.
+[title=golem_map0_no_end]
+
+[title=golem_map0_yes_begin]
+Тера: Ах‑ах‑ах, не так быстро, шустрые ручки. Сначала ты должен отгадать мою маленькую загадку.
+Тера: Ответишь правильно — без проблем передам тебе карту. Если ошибёшься...
+Тера: ...то я <b>оставлю её себе!</b>[newtalk start=golem_map1_begin break=golem_map1_end]
+[title=golem_map0_yes_end]
+
+[title=golem_map1_begin]
+Тера: Ладно, слушай внимательно. Для тебя это должно быть легко, да?
+Тера: [question=03]Если <b>POST</b> — это 1234... \n...и <b>FLIRT</b> это 56784... \n...то чему равно <b>FROST</b>?
+[choice]58243[newtalk start=map_answer_wrong_begin break=map_answer_wrong_end]
+[choice]58234[newtalk start=map_answer_correct_begin break=map_answer_correct_end]
+[choice]52384[newtalk start=map_answer_wrong_begin break=map_answer_wrong_end]
+[choice]43285[newtalk start=map_answer_wrong_begin break=map_answer_wrong_end]
+[title=golem_map1_end]
+
+[title=map_answer_wrong_begin]
+Тера: Хмм...[event=8]
+Тера: Не‑а. Хотя попытка была неплохая! Думал, ты уже научился разбираться с простыми загадками.
+Тера: Жаль... Похоже, эта маленькая штучка теперь моя! Кекеке.[event=5]
+[title=map_answer_wrong_end]
+
+[title=map_answer_correct_begin]
+Тера: Хмм...[event=7]
+Тера: Ого! Да, всё верно! Хм. Чёрт, я начинаю думать, что просто не создана для этих загадок.
+Тера: Ладно, признаю, ты меня обыграл. Передам, как и обещала.
+Тера: Она в том большом сундуке вон там. Удачи, чудик.[event=6]
+[title=map_answer_correct_end]
+
+[title=golem_map_wrong_begin]
+Тера: Ты заблудился или что-то в этом роде? Хм. Ну, ты бы <i>не был</i> в таком положении, если бы правильно отгадал загадку.
+Тера:  Ладно, жаль, что ты упустил шанс. Такова жизнь. Иди вперёд, а я поищу другой путь.
+[title=golem_map_wrong_end]
+
+[title=golem_map_correct_begin]
+Тера: Да‑да, я поняла. Ты <b>НУ ОЧЕНЬ</b> хорош в разгадывании простых загадок. Не надо так явно этим хвастаться.
+Тера: Иди вперёд, я догоню тебя позже.
+[title=golem_map_correct_end]
+
+ROUND 3
+
+SHADOW ROOM
+
+[title=shadowroom_0_begin]
+Здесь находится старая, обветшалая табличка. \nНа ней написано...
+"Путь к судьбе будет вымощен <color=#ebc934><b>десятью погребёнными останками</b></color> вчерашнего дня."
+[title=shadowroom_0_end]
+
+BOULDER
+
+[title=boulder_0_begin]
+Судя по всему, с стены наверху обрушился крупный кусок скалы.
+Похоже, обойти его никак не получится...[event=0]
+[title=boulder_0_end]
+
+[title=golem_boulder0_begin]
+Тера: Эй, чудик!
+Тера: Ха‑ха! Только не говори, что тебя остановил какой‑то ВАЛУН. Тьфу, ты безнадёжен![event=0]
+Тера: Отойди! Сейчас я покажу, как это делается...
+[title=golem_boulder0_end]
+
+[title=golem_boulder1_begin]
+Тера: Видишь? Всё дело в ногах. Повезло тебе, что я здесь и могу взять всю тяжёлую работу на себя, а?[event=0]
+Тера: Н‑не то чтобы мне это нравилось или что‑то в этом роде...
+Тера: Давай просто... двигаться дальше. Внутренний двор ждет нас.[event=1]
+[title=golem_boulder1_end]
+
+COURTYARD
+
+[title=golem_5_begin]
+Тера: О нет...
+[title=golem_5_end]
+
+[title=golem_6_begin]
+Тера: Это дерево... это <color=#fcba03><b>Древо Жизни</b></color>. Оно имеет огромное значение здесь, в мире снов.
+Тера: Недавние события испортили его краски, замедлив рост дерева. Бедняжка...[event=0][newtalk start=golem_6_1_begin break=golem_6_1_end]
+[title=golem_6_end]
+
+[title=golem_6_1_begin]
+Тера: [question=2]Мы должны как‑то исцелить его. Но я... оно хочет, чтобы я была рядом. Не думаю, что смогу сделать это в одиночку.
+[choice]Я помогу.[newtalk start=golem_6_yes_begin break=golem_6_yes_end]
+[choice]Не моя проблема.[newtalk start=golem_6_no_begin break=golem_6_no_end]
+[title=golem_6_1_end]
+
+[title=golem_6_no_begin]
+Тера: Ого, ты можешь быть <i>более</i> безжалостным? Отказать в помощи невинному, страдающему созданию — это... жестоко.
+Тера: Так ты точно не попадёшь в число моих любимчиков. Ладно, мы никуда не двинемся, пока ты не передумаешь.[event=1]
+[title=golem_6_no_end]
+
+[title=golem_6_yes_begin]
+Тера: Правда поможешь? Играешь в благородного рыцаря, да? Хм. Что ж, признаю — ты меня слегка впечатлил.
+Тера: [question=3]Учитывая, что ты сумел зайти так далеко, это не удивляет. Похоже, на тебе печать настоящего искателя приключений.
+[choice]Гм, ну...[newtalk start=golem_7_0_begin break=golem_7_0_end]
+[choice]Конечно.[newtalk start=golem_7_1_begin break=golem_7_1_end]
+[title=golem_6_yes_end]
+
+[title=golem_7_0_begin]
+Тера: Ой, не будь таким скромным! Ты всегда так увиливаешь от комплиментов?[newtalk start=golem_7_begin break=golem_7_end]
+[title=golem_7_0_end]
+
+[title=golem_7_1_begin]
+Тера: Ой, не строй из себя такого важного. Излишняя самоуверенность в конце концов может выйти тебе боком.[newtalk start=golem_7_begin break=golem_7_end]
+[title=golem_7_1_end]
+
+[title=golem_7_begin]
+Тера: Ладно, ладно, слушай. Для меня это важно. Мне всё ещё нужен этот <color=#00b3ff><b>артефакт</b></color>, и исцеление <color=#fcba03><b>Древа Жизни</b></color> — первый шаг.
+Тера: Теперь тебе снова предстоит проверить свою интуицию искателя приключений. Поищи в храме любые подсказки.
+Тера: Я останусь здесь, рядом с <color=#fcba03><b>Древом Жизни</b></color>.[event=2]
+[title=golem_7_end]
+
+REPEAT
+
+[title=golem_6_1_repeat_begin]
+Тера: Уф, это снова ты. Ты уже всё обдумал? <color=#fcba03><b>Древо Жизни</b></color> по‑прежнему нуждается в помощи.
+Тера: [question=22]Мы должны как‑то исцелить его. Но я... оно хочет, чтобы я была рядом. Не думаю, что смогу сделать это в одиночку.
+[choice]Я помогу.[newtalk start=golem_6_yes1_begin break=golem_6_yes1_end]
+[choice]Не моя проблема.[newtalk start=golem_6_no1_begin break=golem_6_no1_end]
+[title=golem_6_1_repeat_end]
+
+[title=golem_6_no1_begin]
+Тера: Так ты точно не попадёшь в число моих любимчиков. Ладно, мы никуда не двинемся, пока ты не передумаешь.
+[title=golem_6_no1_end]
+
+[title=golem_6_yes1_begin]
+Тера: Правда поможешь? Играешь в благородного рыцаря, да? Хм. Что ж, признаю — ты меня слегка впечатлил.
+Тера: [question=33]Учитывая, что ты сумел зайти так далеко, это не удивляет. Похоже, у тебя есть дар настоящего искателя приключений.
+[choice]Гм, ну...[newtalk start=golem_7_0_begin break=golem_7_0_end]
+[choice]Конечно.[newtalk start=golem_7_1_begin break=golem_7_1_end]
+[title=golem_6_yes1_end]
+
+[title=golem_7_2_begin]
+Тера: О, не будь таким скромным. Прими хоть раз комплимент, ладно? Тьфу.[newtalk start=golem_77_begin break=golem_77_end]
+[title=golem_7_2_end]
+
+[title=golem_7_3_begin]
+Тера: Ой, не строй из себя такого важного. Излишняя самоуверенность в конце концов может выйти тебе боком.[newtalk start=golem_77_begin break=golem_77_end]
+[title=golem_7_3_end]
+
+[title=golem_77_begin]
+Тера: Ладно, ладно, слушай. Для меня это важно. Мне всё ещё нужен этот <color=#00b3ff><b>артефакт</b></color>,  и исцеление <color=#fcba03><b>Древа Жизни</b></color> — первый шаг.
+Тера: Теперь тебе снова предстоит проверить свою интуицию искателя приключений. Поищи в храме любые подсказки.
+Тера: Я останусь здесь, рядом с <color=#fcba03><b>Древом Жизни</b></color>.[event=1]
+[title=golem_77_end]
+
+[title=golem_7_repeat_begin]
+Тера: Опять заблудился? Не сдавайся сейчас. Мы так близки к тому, чтобы разобраться с этим — вместе.
+[title=golem_7_repeat_end]
+
+ROUND 4 BALL 1
+
+[title=plaque_redroom_begin]
+Здесь находится старая, обветшалая табличка. \nНа ней написано...
+"Три фигуры трёх цветов <color=#ebc934><b>смещены</b></color>. Возвращённая реликвия восстановит забытый путь."
+[title=plaque_redroom_end]
+
+TALKHOLDER
+[title=golem_8_0_begin]
+Тера: Смотри, смотри! Что бы ты ни делал — это работает! К <color=#fcba03><b>Древу Жизни</b></color> возвращается цвет.
+Тера: Продолжай в том же духе, чудик ты этакий!
+[title=golem_8_0_end]
+
+TALKTRIGGER
+[title=golem_8_0_repeat_begin]
+Тера: Похоже, к корням <color=#fcba03><b>Древа Жизни</b></color> возвращаются питательные вещества — после того, как мы вернули один из четырёх сфер.
+Тера: Оно всё ещё сильно страдает. Попробуй найти остальные. Быстрее!
+[title=golem_8_0_repeat_end]
+
+ROUND 5 BALL 2
+
+[title=plaque_greenroom_begin]
+Здесь находится старая, обветшалая табличка. \nНа ней написано...
+"<color=#ebc934><b>Три погребённых пьедестала</b></color> пробуждают спящие камни глубоко в пропасти, полной слизи."
+[title=plaque_greenroom_end]
+
+TALKHOLDER
+[title=golem_8_1_begin]
+Тера: Здоровье <color=#fcba03><b>Древа Жизни</b></color> постепенно восстанавливается! Ты на полпути к цели.
+Тера: Не сдавайся сейчас, я знаю — у тебя получится!
+[title=golem_8_1_end]
+
+TALKTRIGGER
+[title=golem_8_1_repeat_begin]
+Тера: Я помню этот храм из своих снов — столько, сколько себя знаю, но мне никогда не удавалось найти свой пропавший <color=#00b3ff><b>артефакт</b></color>.
+Тера: Он так дорог мне. Если я найду его здесь, то наконец смогу двигаться дальше.
+[title=golem_8_1_repeat_end]
+
+ROUND 6 BALL 3
+
+[title=plaque_yellowroom_begin]
+Здесь находится старая, обветшалая табличка. \nНа ней написано...
+"Быстрый ум придаёт <color=#ebc934><b>быстрый темп</b></color>. Пробеги по горе и войди в долину."
+[title=plaque_yellowroom_end]
+
+TALKHOLDER
+[title=golem_8_2_begin]
+Тера: Яркость коры и ветвей <color=#fcba03><b>Древа Жизни</b></color> почти восстановилась!
+Тера: Я уже чувствую, как воздух становится ярче и чище.
+[title=golem_8_2_end]
+
+TALKTRIGGER
+[title=golem_8_2_repeat_begin]
+Тера: Мрак во дворе становится всё слабее и слабее. Ты невероятен!
+Тера: Но мы ещё не закончили... Для <color=#fcba03><b>Древа Жизни</b></color> нужен последний толчок.
+[title=golem_8_2_repeat_end]
+
+ROUND 7 ALL BALLS COLLECTED, CATHEDRAL
+
+[title=plaque_blueroom_begin]
+Здесь находится старая, обветшалая табличка. \nНа ней написано...
+"Скромные символы откроют ключ к воссоединению. Застывшие друзья <color=#ebc934><b>построят мост</b></color>."
+[title=plaque_blueroom_end]
+
+TALKHOLDER (TRIGGER CUTSCENE AFTER THIS)
+[title=golem_8_3_begin]
+Тера: Ты сделал это! Посмотри, как вновь пышно расцвели листья <color=#fcba03><b>Древа Жизни</b></color>![event=0]
+[title=golem_8_3_end]
+
+ROUND 8 --- CUTSCENE DIALOGUE
+
+[title=golem_cutscene0_begin]
+Красота <color=#fcba03><b>Древа Жизни</b></color> полностью возродилась.
+[title=golem_cutscene0_end]
+
+[title=golem_cutscene1_begin]
+Я... хочу быть с тобой честным. Поначалу у меня было не так много уверенности.
+[title=golem_cutscene1_end]
+
+[title=golem_cutscene2_begin]
+Ты сделал больше, чем я когда‑либо смогла бы сделать в одиночку. Думаю, ты... в конце концов не такой уж чудик.
+[title=golem_cutscene2_end]
+
+[title=golem_cutscene22_begin]
+Слушай, я не сильна в этом. Всё, что я пытаюсь сказать...
+[title=golem_cutscene22_end]
+
+[title=golem_cutscene23_begin]
+...никто никогда не помогал мне так, как ты. Так что... спасибо.
+[title=golem_cutscene23_end]
+
+[title=golem_cutscene3_begin]
+Странно. Ты вызываешь во мне такие знакомые чувства. Словно я знаю тебя целую вечность.
+[title=golem_cutscene3_end]
+
+[title=golem_cutscene4_begin]
+Ну, думаю, теперь нам осталось пройти совсем немного.
+[title=golem_cutscene4_end]
+
+[title=golem_cutscene5_begin]
+Подожди... что происходит с деревом? Его дверь по‑прежнему опутана.
+[title=golem_cutscene5_end]
+
+[title=golem_cutscene6_begin]
+Ему всё ещё что‑то нужно... <color=#00b3ff><b>артефакт</b></color>. Конечно!
+[title=golem_cutscene6_end]
+
+[title=golem_cutscene7_begin]
+Ладно, мы близко! Размещение тех сфер, должно быть, что‑то изменило.
+[title=golem_cutscene7_end]
+
+[title=golem_cutscene8_begin]
+Он должен быть где‑то в храме. Я полагаюсь на тебя!
+[title=golem_cutscene8_end]
+
+TALKTRIGGER (GOLEM WAITING IN FRONT OF TREE DOOR)
+[title=golem_wait_repeat_begin]
+Тера: Удалось ли тебе найти тот <color=#00b3ff><b>артефакт</b></color>? Он должен быть где‑то в глубине храма.
+Тера: Я бы пошла с тобой, но... <color=#fcba03><b>Древо Жизни</b></color> по‑прежнему велит мне оставаться рядом с ним.
+Тера: Я буду здесь, когда ты вернёшься.
+[title=golem_wait_repeat_end]
+
+RETURN TO TREE WITH RING
+
+[title=lifetree_0_begin]
+...
+<color=#fcba03><b>Древо Жизни</b></color> издаёт умиротворяющее гудение. Оно наполняет тебя ощущением тепла.
+<color=#00b3ff><b>Призматический артефакт</b></color> начинает слабо светиться, оказавшись рядом с Древом Жизни.
+[title=lifetree_0_end]
+
+LOST WOODS
+
+[title=plaque_lostwoods_begin]
+Здесь находится старая, обветшалая табличка. \nНа ней написано...
+"Лишь для тех, кто следует <color=#ebc934><b>нотам леса</b></color> за пределами откроется их истинная судьба."
+[title=plaque_lostwoods_end]
+
+FAIRY FOUNTAIN
+
+[title=fairy_0_begin]
+???: Привет! Какое‑то усталое создание приближается. Выглядит потерянным!
+???: [question=00]Эй, ты потерялся? Да ведь?
+[choice]Да.[newtalk start=fairy_yes0_begin break=fairy_yes0_end]
+[choice]Нет.[newtalk start=fairy_no0_begin break=fairy_no0_end]
+[title=fairy_0_end]
+
+[title=fairy_no0_begin]
+???: Ах, маленький лжец! Маленький лжец! Уходи!
+[title=fairy_no0_end]
+
+[title=fairy_yes0_begin]
+???: О, так ты потерялся? Мы совсем не удивлены. Ты выглядишь так, будто постоянно теряешься.
+???: [question=01]Ну, тогда задам тебе ещё один маленький вопрос. Подойди поближе...
+[choice]Приблизиться.[newtalk start=fairy_yes1_begin break=fairy_yes1_end]
+[choice]Отступить.[newtalk start=fairy_no1_begin break=fairy_no1_end]
+[title=fairy_yes0_end]
+
+[title=fairy_no1_begin]
+???: Ах, никакого веселья! Никакого веселья!
+[title=fairy_no1_end]
+
+[title=fairy_yes1_begin]
+???: [question=02]<i>Пс‑пс</i>... ближе...
+[choice]Приблизиться ещё.[newtalk start=fairy_yes2_begin break=fairy_yes2_end]
+[choice]Отступить.[newtalk start=fairy_no1_begin break=fairy_no1_end]
+[title=fairy_yes1_end]
+
+[title=fairy_yes2_begin]
+???: <i>Пс‑пс</i> ... [event=3]
+???: [question=03]...ТЫ ЧТО‑ТО ПОТЕРЯЛ?!!
+[choice]Д‑да...[newtalk start=fairy_liar_begin break=fairy_liar_end]
+[choice]Н‑нет...[newtalk start=fairy_true_begin break=fairy_true_end]
+[title=fairy_yes2_end]
+
+[title=fairy_liar_begin]
+???: Хм! Ты ужасно врёшь! Я ненавижу лжецов!
+[title=fairy_liar_end]
+
+[title=fairy_true_begin]
+???: Хе‑хе, мы знали, что не терял. Просто хотели проверить, насколько ты будешь честен!
+???: Мы хотим вознаградить тебя за правду — забирай то, что лежит в сундуке вон там!
+???: Ты выглядишь ужасно. Удели немного времени, чтобы прийти в себя, хорошо?[event=4]
+Эльф дарит тебе задумчивый поцелуй. Ты получаешь <color=#7deb34><b>+15 магической духовной энергии</b></color>, или, по крайней мере, тебе кажется, что получаешь.
+[title=fairy_true_end]
+
+/////// NEED TO COMPLETE
+GOLEM CHAPEL FINAL DIALOGUE
+
+[title=golem_final0_begin]
+Тера: Ты наконец здесь... ты добрался до конца. Всё сложилось именно так, как должно было.
+Тера: Я знала, что ты попал в это место не просто так. Пройти через залы этого храма без страха... ты поистине удивительное создание.
+Тера: Найти <color=#00b3ff><b>кольцо</b></color>, которое я потеряла так давно... я так благодарна тебе за все испытания, через которые ты прошёл.
+Тера: Хотя мы разговаривали совсем недолго в бамбуковом лесу, мне кажется, что я знаю тебя целую жизнь.
+Тера: В тебе есть что‑то особенное — то, что я не могу описать словами. Что‑то, что вдохновляет меня стать больше, чем я есть сейчас.
+Тера: Ещё с самого начала я чувствовала: в тебе есть нечто иное. Да, я подумала, что ты, возможно, тот самый...
+Тера: Поэтому... я хочу знать... я хочу спросить тебя —
+Тера: [question=04]...ты станешь тем, кто сделает меня счастливой?
+[choice]Да, стану.[newtalk start=golem_good0_begin break=golem_good0_end]
+[choice]Прости, но нет.[newtalk start=golem_bad0_begin break=golem_bad0_end]
+[title=golem_final0_end]
+
+GOOD END
+
+[title=golem_good0_begin]
+Ты достаёшь <color=#00b3ff><b>артефакт</b></color>.[event=0]
+Тера: <color=#00b3ff><b>Призматическое кольцо</b></color>... Я искала его в своих снах дольше, чем можно выразить словами.[event=5]
+Тера: Ждала... того, кто поможет мне его найти. И этот кто‑то наконец появился.
+Тера: Он немного странный, но это ничего. В каком‑то смысле мы все такие.
+Тера: У тебя ещё столько важных дел впереди, столько жизней, которые ты сможешь изменить к лучшему.[event=4]
+Тера: Я просто хочу, чтобы ты знал: ты изменил мою жизнь.
+Тера: Ты сделал меня такой...
+Тера: Счастливой. [event=1]
+[title=golem_good0_end]
+
+BAD END
+
+[title=golem_bad0_begin]
+Тера: Я...[event=2]
+Тера: Всё в порядке. Не стоит.
+Тера: Это я... должна просить прощения.
+Тера: Как глупо было с моей стороны думать... думать, что нечто подобное возможно.
+Тера: Теперь я понимаю: обременять тебя этой ситуацией, вот так, ни с того ни с сего, — несправедливо...
+Тера: Наверное, я увидела в тебе какой‑то маленький проблеск... чего‑то, что могло бы сделать меня счастливой. Сделать меня цельной.
+Тера: Как забавно...
+Тера: Жизнь.
+Тера: Даже сейчас мне хочется продолжать убеждать себя... что ты — всего лишь сон.
+Тера: Но в глубине души я знаю...
+Тера: ...мы все — лишь сон.[event=3]
+[title=golem_bad0_end]
+
+GOOD ENDING AFTER SCENE
+
+[title=gardener_begin]
+Не обращай на меня внимания. В роще чуть дальше по тропинке тебя кто‑то ждёт.
+Пожалуйста, не наступай на цветы.
+[title=gardener_end]
+
+[title=elder_good0_begin]
+???: Ого! Только посмотрите на это теперь.[event=0]
+Мэр Морель: Мы уж думали, ты никогда не вернёшься, юноша! Похоже, с тех пор, как ты ушёл, многое изменилось.
+Мэр Морель: Оказалось, что в той старой роще на горе был особенный сад. Вот уж сюрприз так сюрприз!
+Мэр Морель: Что ж, что бы ты там ни нашёл, это, должно быть, было что-то из ряда вон выходящее. Чудесно, чудесно.
+Мэр Морель: Ах, да, кстати! Один из наших других исследователей принёс сломанный <color=#03cffc><b>осколок</b></color> чего‑то там.
+Мэр Морель: Выглядит довольно важным, так что мы подумали — возможно, он принадлежит тебе. Обязательно забери его с собой, когда будешь уходить.
+Мэр Морель: [question=97]Ну что ж! Как насчёт этого, малыш? Готов продолжить своё путешествие?
+[choice]Пошли![newtalk start=elder_good0_yes_begin break=elder_good0_yes_end]
+[choice]Подожди минутку.[newtalk start=elder_good0_no_begin break=elder_good0_no_end]
+[title=elder_good0_end]
+
+[title=elder_good0_yes_begin]
+Мэр Морель: А‑ха, отлично! Хотел бы я иметь хоть половину той энергии, что есть у вас, молодёжь. Держи глаза широко открытыми и не останавливайся — и ты доберёшься туда, куда нужно.
+Мэр Морель: В любом случае — я приведу в порядок этот осколок для тебя. Не сомневаюсь, что под твоим присмотром он будет в безопасности.
+Мэр Морель: Надеюсь, мы когда‑нибудь встретимся снова. Прощай![event=2]
+[title=elder_good0_yes_end]
+
+[title=elder_good0_no_begin]
+Мэр Морель: Конечно, конечно. Не торопись, у тебя есть столько времени, сколько нужно.[event=1]
+[title=elder_good0_no_end]
+
+[title=elder_good0_repeat_begin]
+Мэр Морель: Ветер, деревья, солнце... Всё всегда кажется лучше и ярче, когда мы заботимся о себе, не так ли?
+Мэр Морель: [question=97]Ну что ж! Как насчёт этого, парень? Готов продолжить путешествие?
+[choice]Пошли![newtalk start=elder_good0_yes_begin break=elder_good0_yes_end]
+[choice]Подожди минутку.[newtalk start=elder_good0_no_begin break=elder_good0_no_end]
+[title=elder_good0_repeat_end]
+
+BAD ENDING AFTER SCENE
+
+[title=statue_bad0_begin]
+Здесь старая, обветшалая табличка. Надпись едва различима-
+"Часть их была потеряна давным‑давно. Раны, которые даже время не смогло залечить.
+Ни найти, ни помочь, ни полюбить. Их <color=#03cffc><b>сердце</b></color> в обмен на вечный покой."[newtalk start=elder0_begin break=elder0_end]
+[title=statue_bad0_end]
+
+[title=elder0_begin]
+???: А, я помню тебя... юноша.[event=0]
+???: Похоже, ты вернулся туда, где уже был, хотя не могу точно сказать, сколько времени прошло.
+???: Помню... ты отправился в ту чащобу и, должно быть, надолго потерялся.
+???: Но, судя по всему, что нас окружает, ты был не единственным, кто оказался потерян.
+???: М‑м. Думаю, для некоторых людей есть вещи, к которым они просто не готовы. Важные решения. Те, что меняют жизнь.
+???: Но это нормально. У тебя впереди ещё много всего. Все идут дальше и находят новые решения, которые нужно принять.
+???: Вопрос для тебя таков: какие решения действительно что‑то изменят? Как понять, какие из них по‑настоящему важны?[event=1]
+???: [question=99]Единственное, что имеет значение, — это то, что ты примешь решение и двинешься дальше. Что скажешь?
+[choice]Сделать подношение.[newtalk start=elder0_yes_begin break=elder0_yes_end]
+[choice]Ничего не делать.[newtalk start=elder0_no_begin break=elder0_no_end]
+[title=elder0_end]
+
+[title=elder0_yes_begin]
+Ты кладёшь <color=#00b3ff><b>Призматический артефакт</b></color> на пьедестал.[event=2]
+[title=elder0_yes_end]
+
+[title=elder0_no_begin]
+Ты решаешь ещё немного побродить вокруг. Но что тут ещё осталось сделать?[event=3]
+[title=elder0_no_end]
+
+[title=elder0_repeat_begin]
+???: Пышный лес, который мы когда‑то знали, давно засох. Здесь почти ничего не осталось.[event=1]
+???: [question=98]Тебе нужно двигаться дальше. Так что скажешь?
+[choice]Сделать подношение.[newtalk start=elder0_yes_begin break=elder0_yes_end]
+[choice]Задержаться. [newtalk start=elder0_no_begin break=elder0_no_end]
+[title=elder0_repeat_end]
+
+[title=elder0_exit_begin]
+Прощай, юноша...
+[title=elder0_exit_end]

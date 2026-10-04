@@ -1,0 +1,242 @@
+8 Dream Tower of Heaven
+
+Notes
+- Not sure if Gogi mimic is appropriate here, might just have him scamper off when approached
+- Whole concept is to climb to the top of a massive set(?) of towers
+- there are hooded devil creatures near the lower parts of the towers that give depressing dialogue
+- at a certain point you start running into Gatekeeper-like creatures that offer uplifting dialogue
+- there are remnants of past dreams floating in the ocean in the background
+- at the very top of the last tower is a giant Gatekeeper with wings with the last dream crystal shard in front of it
+- the mood/music/ambience change once you get to a certain point
+- respawn zones will adjust as you go higher and higher
+- is this too preachy??
+
+DEMON GOBLINS
+
+GOBLIN 1
+[title=reject_1_begin]
+Отвергнутый: Мы — отбросы, <color=#8a2727><b>отвергнутые</b></color>. Каждый из нас, кого ты видишь, был создан на один раз.
+Отвергнутый: Похоже, тебя тоже добавили в эту пресловутую кучу.
+Отвергнутый: Здесь внизу нет ничего, кроме старых воспоминаний. Останков снов, давно позабытых. [event=4]
+Отвергнутый: Кто-то ждёт тебя далеко за этим местом. Иди сейчас или стань одним из нас.
+[title=reject_1_end]
+
+GOBLIN 2
+[title=reject_2_begin]
+Отвергнутый: Я вижу вид столь обширный и полный потенциала, и всё же всё кажется таким пустым и заброшенным.
+Отвергнутый: Мы жаждали чего-то большего, но, как и пейзаж, возможно, наши мечты стали слишком затуманенными.
+Отвергнутый: [question=00]Всё могло бы быть иначе, но никто никогда не пытается это остановить. Что ты думаешь?
+[choice]Это бессмысленно.[newtalk start=answer_reject_2_no_begin break=answer_reject_2_no_end]
+[choice]Это возможно.[newtalk start=answer_reject_2_yes_begin break=answer_reject_2_yes_end]
+[title=reject_2_end]
+
+GOBLIN 2 CHOICE 1
+[title=answer_reject_2_no_begin]
+Отвергнутый: Ты прав. Это ничто иное, как холодный, чёрный, пустой океан безразличия, и мы все в нём тонем.
+Отвергнутый: Может, так и должно быть по какой-то причине. Вселенная всегда делает то, что хочет.. Таковы прелести жизни в столь жалком микрокосме.
+[title=answer_reject_2_no_end]
+
+GOBLIN 2 CHOICE 2
+[title=answer_reject_2_yes_begin]
+Отвергнутый: Высокие ожидания для человека в таком месте. Возможно, однажды твои слова станут для кого-то вдохновением.
+Отвергнутый: А может, ты просто глупец. Оптимизм, энтузиазм, счастье... все они давно умерли.
+[title=answer_reject_2_yes_end]
+
+GOBLIN 3-1
+[title=reject_3-1_begin]
+Отвергнутый: Я давно потерял счёт времени, но я всё ещё вижу мелькающие силуэты тех, кто проходит мимо.
+Отвергнутый: Сидя здесь, я думаю: как я оказался тут? Какие выборы привели меня именно в это место?
+Отвергнутый: Я годами тщетно пытался сделать верные ходы, чтобы распланировать остаток жизни, отчётливо понимая, что шансы на светлое будущее призрачны.
+Отвергнутый: Может, когда-нибудь я пойму. Скорее всего, нет. Кто знает.
+[title=reject_3-1_end]
+
+GOBLIN 3
+[title=reject_3_begin]
+Отвергнутый: Что-нибудь поесть... что-нибудь поесть... хоть что-нибудь поесть... что угодно...
+Отвергнутый: Кучи мусора... сгустки отбросов... старый никчёмный хлам...
+[title=reject_3_end]
+
+GOBLIN 4
+[title=reject_4_begin]
+Отвергнутый: Я лежу здесь каждый час каждого дня в надежде наконец закрыть глаза и, проснувшись, увидеть другое место.
+Отвергнутый: Земля холодна и твёрда, но по крайней мере бесконечные горящие обломки греют мне спину.
+[title=reject_4_end]
+
+GOBLIN 5
+[title=reject_5_begin]
+Отвергнутый: Мне однажды приснилось, что всё в мире было переставлено, слегка смещено.
+Отвергнутый: Возможно, всего на несколько дюймов или футов, но из-за этого все стали счастливее.
+Отвергнутый: Думаю, все возможности воплощения того сна теперь оказались здесь.
+Отвергнутый: Я проведу остаток вечности в попытках снова их найти, и тебе предстоит то же самое.
+[title=reject_5_end]
+
+GOBLIN 6
+[title=reject_6_begin]
+Отвергнутый: Я здесь дольше, чем могу помнить, и я никогда не бывал на второй башне.
+Отвергнутый: Я могу пойти когда захочу, любой из нас может, но с каждым шагом моё тело движется всё медленнее и медленнее.
+Отвергнутый: [question=01]У меня уходят дни, чтобы добраться даже до ближайших мест. Пожалуй, я просто продолжу отдыхать здесь.
+[choice]Хорошая мысль.[newtalk start=answer_reject_6_no_begin break=answer_reject_6_no_end]
+[choice]Продолжай пытаться.[newtalk start=answer_reject_6_yes_begin break=answer_reject_6_yes_end]
+[title=reject_6_end]
+
+GOBLIN 6 CHOICE 1
+[title=answer_reject_6_no_begin]
+Отвергнутый: Да... отдыхать — это хорошо. Просто... сидеть... здесь. Так легко... удобно.
+[title=answer_reject_6_no_end]
+
+GOBLIN 6 CHOICE 2
+[title=answer_reject_6_yes_begin]
+Отвергнутый: Нет... Я не знаю... Все, кого я знаю, хотят остаться, возможно, и мне следует. Я подумаю над этим.
+[title=answer_reject_6_yes_end]
+
+GOBLIN 7
+[title=reject_7_begin]
+Отвергнутый: Это было так блаженно — держать свои глаза закрытыми для окружающего мира, пока меня не принудительно в него не привели.
+Отвергнутый: Какое же надменное высокомерие — выдернуть душу из небытия в это... мясо. И втолкнуть жизнь в эту мясорубку.
+Отвергнутый: Мой разум застыл в неподвижности, обладая уровнем понимания, которого никогда не будет достаточно. Я хочу вернуться обратно.
+[title=reject_7_end]
+
+GOBLIN 8
+[title=reject_8_begin]
+Отвергнутый: Неужели впереди действительно ничего не осталось? Та же самая картина, повторение. Это не... Я не могу в это поверить.
+Отвергнутый: Должно быть, там есть что-то большее, что можно открыть, а не только это. Я не могу продолжать это делать. Это так больно.
+Отвергнутый: [question=02]Что же я делаю не так?
+[choice]Всё.[newtalk start=answer_reject_8_no_begin break=answer_reject_8_no_end]
+[choice]Продолжай идти.[newtalk start=answer_reject_8_yes_begin break=answer_reject_8_yes_end]
+[title=reject_8_end]
+
+GOBLIN 8 CHOICE 1
+[title=answer_reject_8_no_begin]
+Отвергнутый: Этого не может быть... Я использовал только то, чему научился, что познал на опыте...
+Отвергнутый: Если всё это неверно, то я... я не знаю, куда ещё обратиться. Мне нужно как следует над этим подумать.
+[title=answer_reject_8_no_end]
+
+GOBLIN 8 CHOICE 2
+[title=answer_reject_8_yes_begin]
+Отвергнутый: Ты... правда веришь? Я смогу... я сделаю это. Месяцы, годы, десятилетия труда — но я доберусь туда, куда хочу.
+Отвергнутый: Спасибо... что сказал это.
+[title=answer_reject_8_yes_end]
+
+BABY CUBE ANGELS
+
+Gatekeeper LOWER
+[title=Gatekeeper_0_begin]
+Хранитель: Приближается странник. Я — посредник. Мы видели прогресс, которого ты достиг.
+Хранитель: Хотя твоё путешествие ещё не окончено. Перед тобой стоят <color=#e0d33f><b>три столпа</b></color> твоего собственного созидания.
+Хранитель: Выход существует где-то в этом сне, но лишь для тебя и только для тебя. Он зовёт тебя.
+Хранитель: [question=0]Останешься ли ты или продолжишь путь? Выбор за тобой.
+[choice]Продолжить.[newtalk start=answer_cube0_yes_begin break=answer_cube0_yes_end]
+[choice]Остаться.[newtalk start=answer_cube0_no_begin break=answer_cube0_no_end]
+[title=Gatekeeper_0_end]
+
+[title=answer_cube0_yes_begin]
+Хранитель: Иди же и восходи на <color=#e0d33f><b>три столпа</b></color> перед тобой.[event=0]
+[title=answer_cube0_yes_end]
+
+[title=answer_cube0_no_begin]
+Хранитель: Ты будешь страдать вместе с нами.
+[title=answer_cube0_no_end]
+
+Gatekeeper MIDDLE
+[title=Gatekeeper_1_begin]
+Хранитель: Мы все когда-то были сновидцами. Воспоминания о семье, привязанность к вещам, небесным царствам.
+Хранитель: А потом пришли кошмары. Они не прекращались, и теперь мы живём в запутанном мире того, что когда-то было.
+Хранитель: Жаль, что тебе удалось попасть в такую передрягу. Тебе не место здесь.
+Хранитель: [question=1]Останешься ли ты или продолжишь путь? Выбор за тобой.
+[choice]Продолжить.[newtalk start=answer_cube1_yes_begin break=answer_cube1_yes_end]
+[choice]Остаться.[newtalk start=answer_cube1_no_begin break=answer_cube1_no_end]
+[title=Gatekeeper_1_end]
+
+[title=answer_cube1_yes_begin]
+Хранитель: Выбор, о котором многие из нас мечтают. Иди же.[event=1]
+[title=answer_cube1_yes_end]
+
+[title=answer_cube1_no_begin]
+Хранитель: Ты будешь страдать вместе с нами.
+[title=answer_cube1_no_end]
+
+Gatekeeper TOP
+[title=Gatekeeper_2_begin]
+Хранитель: Толкни... куб...
+Хранитель: Готовься... к... концу...
+[title=Gatekeeper_2_end]
+
+[title=Gatekeeper_3_begin]
+Хранитель: [question=2]Остаться... или уйти...?
+[choice]Уйти.[newtalk start=answer_cube2_yes_begin break=answer_cube2_yes_end]
+[choice]Остаться.[newtalk start=answer_cube2_no_begin break=answer_cube2_no_end]
+[title=Gatekeeper_3_end]
+
+[title=answer_cube2_yes_begin]
+Хранитель: Ты... уходи... сейчас.
+Хранитель: Про... щай.[event=5]
+[title=answer_cube2_yes_end]
+
+[title=answer_cube2_no_begin]
+Хранитель: Страдай...
+[title=answer_cube2_no_end]
+
+CUBE TOP
+[title=Cube_0_begin]
+[question=3]Хочешь активировать куб?
+[choice]Да.[newtalk start=answer_cube3_yes_begin break=answer_cube3_yes_end]
+[choice]Нет.[newtalk start=answer_cube3_no_begin break=answer_cube3_no_end]
+[title=Cube_0_end]
+
+[title=answer_cube3_yes_begin]
+Ты активировал куб. Ты можешь продолжить путь. [event=2]
+[title=answer_cube3_yes_end]
+
+[title=answer_cube3_no_begin]
+Куб остаётся неактивным.
+[title=answer_cube3_no_end]
+
+BIG ANGEL KING
+[title=angel_big_0_begin]
+???: Не бойся. Я ждал тебя, сновидец, как и все существа этого мира снов и тех, что были до него.
+???: Мы знаем, что ты проделал долгий путь и преодолел множество препятствий. Одни — малые, другие — утомительные, многие — ужасающие, но все они были необходимы.
+???: Последнее, что ты ищешь, находится здесь. Оно было здесь с начала времён, и, оказавшись в твоём владении, оно завершит твоё путешествие.
+???: [question=4]Я отвечу на любые твои вопросы, если ты пожелаешь услышать ответ.
+[choice]Что ты такое?[newtalk start=answer_angel_1_begin break=answer_angel_1_end]
+[choice]Что я ищу?[newtalk start=answer_angel_2_begin break=answer_angel_2_end]
+[choice]Где Гоги?[newtalk start=answer_angel_3_begin break=answer_angel_3_end]
+[choice]...[newtalk start=answer_angel_4_begin break=answer_angel_4_end]
+[title=angel_big_0_end]
+
+ANGEL CHOICE 1
+[title=answer_angel_1_begin]
+???: Я — множество вещей. Наблюдатель. Организатор. Защитник. Пророк творения.
+???: Всё, что происходило до этого момента, является частью последовательности, предопределённой одной лишь моей волей.
+???: [question=5]Твои действия, твои выборы, жизни, которых ты коснулся, — всё это предназначило тебе быть здесь. К лучшему или к худшему.
+[choice]Что я ищу?[newtalk start=answer_angel_2_begin break=answer_angel_2_end]
+[choice]Где Гоги?[newtalk start=answer_angel_3_begin break=answer_angel_3_end]
+[choice]...[newtalk start=answer_angel_4_begin break=answer_angel_4_end]
+[title=answer_angel_1_end]
+
+ANGEL CHOICE 2
+[title=answer_angel_2_begin]
+???: Ты ищешь завершения эфирного Кристалла Снов. Ты делаешь это дольше, чем можешь себе представить. Его восстановление — ключ ко всему.
+???: [question=6]Последний осколок существует нетронутым, каким он был с тех пор, как его принесли сюда. Однако ты не единственный, кто ищет его.
+[choice]Что ты такое?[newtalk start=answer_angel_1_begin break=answer_angel_1_end]
+[choice]Где Гоги?[newtalk start=answer_angel_3_begin break=answer_angel_3_end]
+[choice]...[newtalk start=answer_angel_4_begin break=answer_angel_4_end]
+[title=answer_angel_2_end]
+
+ANGEL CHOICE 3
+[title=answer_angel_3_begin]
+???: Защитник снов жив. Его физическая форма уже давно пребывает в глубоком стазисе. Во сне, из которого ничто не может пробудить.
+???: В результате его сила защищать от кошмаров значительно ослабла. Ты должен стать тем, кто освободит его, пока этот мир окончательно не погрузился во тьму.
+???: [question=7]Время на исходе, сновидец. Чем дольше ты собираешь кристалл, тем более ужасными станут кошмары.
+[choice]Что ты такое?[newtalk start=answer_angel_1_begin break=answer_angel_1_end]
+[choice]Что я ищу?[newtalk start=answer_angel_2_begin break=answer_angel_2_end]
+[choice]...[newtalk start=answer_angel_4_begin break=answer_angel_4_end]
+[title=answer_angel_3_end]
+
+ANGEL CHOICE 4
+[title=answer_angel_4_begin]
+???: Слушай мои слова внимательно, сновидец. Когда ты примешься за последние минуты этого испытания, вспомни всё, что ты совершил.
+???: Без тебя эти миры будут и дальше искривляться и скручиваться в непоправимые видения ужаса. Ты — замок, осколок — ключ.
+???: Мне пора покинуть тебя. Последний элемент головоломки ждёт. Свет приведёт тебя туда.
+???: Это моё последнее послание тебе. Мы встретимся в другой жизни, в другом сне.
+???: Прощай.
+[title=answer_angel_4_end]

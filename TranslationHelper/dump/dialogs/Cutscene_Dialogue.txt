@@ -1,0 +1,157 @@
+CUTSCENE DIALOGUE HYPNAGOGIA 2
+
+Angel intro
+
+[title=angel_0_begin]
+you are finally here
+[title=angel_0_end]
+
+[title=angel_1_begin]
+we have waited for so very long
+[title=angel_1_end]
+
+[title=angel_2_begin]
+but we must wait just a little longer
+[title=angel_3_end]
+
+[title=angel_3_begin]
+you are needed now more than you can ever imagine
+[title=angel_3_end]
+
+[title=angel_4_begin]
+all you must do
+[title=angel_4_end]
+
+[title=angel_5_begin]
+is <b>dream</b>
+[title=angel_5_end]
+
+Cutscene hub intro
+
+[title=avatar_0_begin]
+Seems as though I have a visitor...
+[title=avatar_0_end]
+
+Cutscene Gogi Outro
+
+[title=demon_0_begin]
+[jitter=5 angle=0]You've become quite a thorn in my side.[/jitter]
+[title=demon_0_end]
+
+[title=demon_1_begin]
+[jitter=5 angle=0]You will never return to the dreamscape.[/jitter]
+[title=demon_1_end]
+
+Cutscene Final part 0
+
+[title=hypno_00_begin]
+Your role is finished. Out of the way.
+[title=hypno_00_end]
+
+[title=hypno_0_begin]
+Finally... the power of the dreamscape is mine.
+[title=hypno_0_end]
+
+[title=hypno_1_begin]
+What?! What is this?!
+[title=hypno_1_end]
+
+[title=hypno_2_begin]
+Th-that's impossible! You were imprisoned!
+[title=hypno_2_end]
+
+[title=gogi_0_begin]
+Your corruption will never harm the dream crystal.
+[title=gogi_0_end]
+
+[title=hypno_3_begin]
+Haahaha... fools. You only delay the inevitable.
+[title=hypno_3_end]
+
+[title=hypno_33_begin]
+Now... you will all [jitter=4 angle=0]die.[/jitter]
+[title=hypno_33_end]
+
+Cutscene Final part 1
+
+[title=hypno_4_begin]
+I knew I should have crushed you when I had the chance.
+[title=hypno_4_end]
+
+[title=hypno_5_begin]
+Once I deal with you I'll continue turning this dreamscape into a paradise of nightmares.
+[title=hypno_5_end]
+
+[title=mimic_0_begin]
+Heehee! Trapping you here was all too easy! Now you'll both-
+[title=mimic_0_end]
+
+[title=hypno_6_begin]
+<b>YOU...!</b>
+[title=hypno_6_end]
+
+[title=hypno_7_begin]
+You useless WRETCH! You were supposed to bring the SHARDS to ME!
+[title=hypno_7_end]
+
+[title=mimic_1_begin]
+B-but, I- I thought you said to just-
+[title=mimic_1_end]
+
+[title=hypno_77_begin]
+<b>FOOL.</b>
+[title=hypno_77_end]
+
+[title=hypno_8_begin]
+YOU HAVE FAILED ME, WORTHLESS MIMIC!
+[title=hypno_8_end]
+
+[title=mimic_2_begin]
+W-wait- noooooooooooo!
+[title=mimic_2_end]
+
+[title=gogi_1_begin]
+You consider this a paradise?!
+[title=gogi_1_end]
+
+[title=gogi_11_begin]
+Dreams are sacred, you don't deserve to exist here-
+[title=gogi_11_end]
+
+[title=hypno_9_begin]
+<i>Excuse me?</i> I don't deserve to exist? \nYou don't know the meaning of the word.
+[title=hypno_9_end]
+
+[title=hypno_98_begin]
+Was it not <i>me</i> who gave the dreamer purpose? \nA <i>goal?</i> A means to an <i>end?</i>
+[title=hypno_98_end]
+
+[title=hypno_99_begin]
+I am the balance that this sorry excuse for a world so desperately needs...
+[title=hypno_99_end]
+
+[title=hypno_10_begin]
+...and now, I will show you just how much I deserve to <i>exist.</i>
+[title=hypno_10_end]
+
+Cutscene Final part 2
+
+[title=hypno_11_begin]
+Damned pathetic fool. He died how he lived. \nDefending the miserable little thing you creatures call a <i>dream.</i>
+[title=hypno_11_end]
+
+[title=hypno_12_begin]
+Now... your soul will remain in my world for all of eternity.
+[title=hypno_12_end]
+
+[title=hypno_13_begin]
+NO... I WILL NEVER BE DESTROYED. \nYOU WILL NEVER DESTROY THE NIGHTMARES.
+[title=hypno_13_end]
+
+[title=gogi_2_begin]
+Don't be sad, restful one.
+[title=gogi_2_end]
+
+[title=gogi_3_begin]
+I will... always be there to protect you...
+[title=gogi_3_end]

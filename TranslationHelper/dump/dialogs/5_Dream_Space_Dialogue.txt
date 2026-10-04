@@ -1,0 +1,250 @@
+Dream_5_Space Dialogue
+
+NOTES:
+- whole concept involves exploring this derelict series of space tubes
+- there are weird looking space creatures called shapezoids that speak in gobbledy gook
+
+GOGI INTRO
+[title=Gogi_0_begin]
+"Gogi": [jitter=5 angle=0]WhoOOooaah![/jitter] Who's the lame-brain that turned gravity down? I'm floating!
+"Gogi": You might be able to float around too! Maybe there's a way to float even higher!
+"Gogi": Either way, everything is all topsy-turvy around here and I don't like it!
+"Gogi": Oh well... don't go falling into any whacky space voids! Unless of course the shard is down there!
+"Gogi": Have [jitter=5 angle=0]fuuunnn![/jitter]
+[title=Gogi_0_end]
+
+Dream_5_Space Dialogue DEMO
+
+JETPACK
+[title=jetpack_0_begin]
+There's what looks to be some kind of <color=#fcbe2b><b>rocket pack</b></color> here. Very shiny. You like shiny things.
+With it equipped you should be able to float around the environment with ease.
+[question=0]Will you take the pack?
+[choice]What? Yes![newtalk start=jetpack_yes_begin break=jetpack_yes_end]
+[choice]No chance.[newtalk start=jetpack_no_begin break=jetpack_no_end]
+[title=jetpack_0_end]
+
+JETPACK CHOICE YES
+[title=jetpack_yes_begin]
+You take and equip the rocket pack. You can boost by tapping and holding the <b><color=#eded24>jump button</color></b>! [event=0]
+[title=jetpack_yes_end]
+
+JETPACK CHOICE NO
+[title=jetpack_no_begin]
+You leave the rocket pack alone for some reason. It looks so awesome though.
+[title=jetpack_no_end]
+
+LOCKED SPACE DOOR
+[title=lockeddoor_0_begin]
+There's a bulky iris door here, but it won't open. Something is keeping it shut.
+[title=lockeddoor_0_end]
+
+CODEX KEY
+[title=codex_0_begin]
+A codex of cosmic information. It's transcribed in an ancient language you will never understand.
+Despite your apprehension, you touch it and become imprinted with the ability to continue onward.
+[title=codex_0_end]
+
+SHAPEZOID 0
+[title=shape_0_begin]
+Shapezoid: Hmm. <i>Weird</i>. How <i>interdasting</i>. Many of the doors have locked themselves somehow. Never has this happened before.
+Shapezoid: All of us can just teleport around freely though, so it doesn't bother me really. You on the other hand...
+Shapezoid: You might have some trouble materializing through solid walls. So... yeah. Good luck figuring that one out.
+Shapezoid: <color=#ae52b3><b>The Eye</b></color> has requested our presence, so I've gotta bounce. Stay fresh, meat bag.
+[title=shape_0_end]
+
+SHAPEZOID 00
+[title=shape_00_begin]
+Shapezoid: To simply observe a place so sterile, so full of one-dimensional concepts, it is monotony. My only eye begs to be mercifully gouged. 
+Shapezoid: Knowing exactly how everything works and what precisely the future holds, but not being able to express any of it into words, that is my curse.
+Shapezoid: Wipe that dumb look off your face. It's just a joke. I actually don't know anything, but it's okay because neither do you.
+Shapezoid: I can only guess what you're thinking right now, but <color=#ae52b3><b>The Eye</b></color> doesn't need to guess. It tells all of us exactly what we need to know.
+[title=shape_00_end]
+
+SHAPEZOID 1
+[title=shape_1_begin]
+Shapezoid: <i>Uaugh. Auaahhghhh... Mghhm</i>. Huh? What? Oh. I'm not feeling great today. I think maybe it's just my lack of sleep lately.
+Shapezoid: I keep seeing these intense, repeating patterns all over the place. It's been driving me mad and keeping me up. Can't you see them?
+Shapezoid: Not only that, but I can't find a way to stop them or even slow them down. Keeping a grip on this kind of stuff is... hard.
+Shapezoid: Just... just talk to someone else. <color=#ae52b3><b>The Eye</b></color> is watching us. I gotta go before it gets angry.
+[title=shape_1_end]
+
+SHAPEZOID 1.1
+[title=shape_11_begin]
+Shapezoid: I find it alarming how many people display such a callous penchant for loud and abrasive destruction.
+Shapezoid: I'd be lying if I said I didn't have similar feelings every so often myself... it does tend to excite the mind.
+Shapezoid: Too much of it though, and you realize how dull it all eventually becomes. Then nothing means anything anymore.
+Shapezoid: This conversation has you looking a little flushed. Come back in a few minutes and I'll have <color=#fcbe2b><b>something special</b></color> for you.
+[title=shape_11_end]
+
+[title=shape_12_begin]
+Shapezoid: Your special prize isn't ready yet, but I've taken the liberty of recording, cataloging, and archiving your impatience.
+Shapezoid: The ringular tubules and turbines of our engine room are calling out to you. Pay it a visit and then return.
+[title=shape_12_end]
+
+SHAPEZOID 2
+[title=shape_2_begin]
+Shapezoid: There's a threshold to anything and everything. Every good beginning connects with an ending at some point, as they say.
+Shapezoid: I think what's most important isn't either of those, but what happens during the in-between. Every step, every move counts.
+Shapezoid: For better or for worse, you're in the middle of that in-between. Right now. At this moment.
+Shapezoid: As quickly as we float through this strange ether, we'll just as quickly leave it. Here, I'll demonstrate.
+[title=shape_2_end]
+
+SHAPEZOID 2.1
+[title=shape_21_begin]
+Shapezoid: Feeling like this place is already getting a bit tedious? That's too bad. Lots of things are tedious. <b>LIFE</b> is tedious.
+Shapezoid: You'll whine and complain until time comes to an end, and even still you'll keep going. Yell into the void, it will pretend to listen.
+Shapezoid: I'll give you something for all your "trouble". It's the least I can do for someone so... impatient.
+Shapezoid: Turn around. Press the button. <color=#ae52b3><b>The Eye</b></color> is calling, sad to say I won't be around for what happens next.
+[title=shape_21_end]
+
+[title=button_begin]
+There's a big, red, shiny button here you don't remember seeing before. What could it activate you wonder?
+[question=06]It looks important, and you have the strongest urge to press it. But then again, maybe you shouldn't?
+[choice]Press.[newtalk start=button_yes_begin break=button_yes_end]
+[choice]Ignore.[newtalk start=button_no_begin break=button_no_end]
+[title=button_end]
+
+[title=button_yes_begin]
+You press the button...[event=1]
+[title=button_yes_end]
+
+[title=button_no_begin]
+You decide not to indulge in such an act of frivolous button-pressing.
+[title=button_no_end]
+
+SHAPEZOID 3
+[title=shape_3_begin]
+Shapezoid: <i>Heeeeeeeyy</i>... yup. Just floating here. Y'know, as ya do sometimes. You seem to have been getting your way around here fairly well.
+Shapezoid: Can I ask you a favor? If things were to all of a sudden stop right now, and I had to fall, would you catch me?
+Shapezoid: I'm deathly afraid of heights. I mean, I'm afraid of a lot of things. But anything high up leaves me frozen in fear.
+Shapezoid: <color=#ae52b3><b>The Eye</b></color> knows what we're all afraid of. It's calling to you and me. We can't keep it waiting.
+[title=shape_3_end]
+
+SHAPEZOID 4
+[title=shape_4_begin]
+Shapezoid: Hey, this is <i>MY</i> room. You can't just fly down in here and start touching things without my permission. Are you crazy?
+Shapezoid: Ugh, whatever. I guess I have worse things to worry about. Way worse things. Things you wouldn't imagine.
+Shapezoid: A lot of those things change constantly, but some of them have stayed the same. I just can't shake 'em.
+Shapezoid: <color=#4d30db><b>The Eye</b></color>... It lives just out of my peripherals, watching everything we do. Don't believe it.
+[title=shape_4_end]
+
+BIG EVIL EYE MONSTER
+[title=eye_00_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: The outsider, the strange one, the <i>redeemer</i>. It at last approaches us. Willfull ignorance, or foolish haste? You are here now, as expected.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: We have existed longer than time itself. Unchanging symbols to embody matter in all forms. Physical, metaphysical. You are different...
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: You are on a quest which has no end. Each step you take is paved with the forgotten dreams of a thousand dreamers. Yet you still push forward.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: [question=00]What is it you so desperately seek?
+[choice]Knowledge.[newtalk start=eye_answer1_begin break=eye_answer1_end]
+[choice]A dream shard.[newtalk start=eye_answer2_begin break=eye_answer2_end]
+[choice]Victory.[newtalk start=eye_answer3_begin break=eye_answer3_end]
+[title=eye_00_end]
+
+[title=eye_answer1_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Very well.[event=3]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Gaze deep into the eye of unending time and space. Explore your deepest senses, your darkest desires, your worst nightmares.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: [question=01]What manner of vision do you wish to see?
+[choice]Something chaotic.[newtalk start=eye_1_begin break=eye_1_end]
+[choice]Something cursed.[newtalk start=eye_2_begin break=eye_2_end]
+[choice]Something cute.[newtalk start=eye_3_begin break=eye_3_end]
+[choice]Something else.[newtalk start=eye_repeat1_begin break=eye_repeat1_end]
+[title=eye_answer1_end]
+
+[title=eye_answer2_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: The <color=#03cffc><b>dream shard</b></color>...[event=4]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: The fragment of a once pulsing, living artifact. The heart of the hypnagogic dreamscape. Indescribably minute in the grand scheme of all things.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: We have floated through the endlessly expanding ether, reclaiming objects of importance to others. Keeping them within a vault from which nothing can escape.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: This shard is one such object. Lost eons ago, it too was left there in the void. To take it back you must enter a realm of incomprehensible darkness.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: [question=02]Enter the abyss below if your desire outweighs your fear. Stare deeply into it. It will stare back. Unless... you seek something else.
+[choice]Knowledge.[newtalk start=eye_answer1_begin break=eye_answer1_end]
+[choice]Victory.[newtalk start=eye_answer3_begin break=eye_answer3_end]
+[choice]Goodbye.[newtalk start=eye_finish_begin break=eye_finish_end]
+[title=eye_answer2_end]
+
+[title=eye_answer3_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: You are a fool with a pointless goal. Your rush to a false success will be your undoing. Abyss take you and leave no trace...[event=2]
+[title=eye_answer3_end]
+
+[title=eye_finish_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Become one with the abyss below then. If your desires outweigh your fears you will find what you seek inside...[event=2]
+[title=eye_finish_end]
+
+[title=eye_repeat1_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Very well.[event=5]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Your continued presence denies the universe its proper place in time.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: [question=03]What is it you so desperately seek?
+[choice]Knowledge.[newtalk start=eye_answer1_begin break=eye_answer1_end]
+[choice]A dream shard.[newtalk start=eye_answer2_begin break=eye_answer2_end]
+[choice]Victory.[newtalk start=eye_answer3_begin break=eye_answer3_end]
+[title=eye_repeat1_end]
+
+[title=eye_1_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Very well.[event=6]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Peer into the eye of a strange little world. 
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Overpopulation. Mass consumerism. Digital propagation. War. These are all the building blocks which make up the world outside the dreamscape.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: The chaos exists in many different sizes, doses, pockets, all around us. Its hunger will never be satiated.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: [question=04]There may be other visions you wish to see...
+[choice]Something <b>cursed</b>.[newtalk start=eye_2_begin break=eye_2_end]
+[choice]Something <b>cute</b>.[newtalk start=eye_3_begin break=eye_3_end]
+[choice]Something else.[newtalk start=eye_repeat1_begin break=eye_repeat1_end]
+[title=eye_1_end]
+
+[title=eye_2_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Very well.[event=7]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Peer into the eye of the nightmares of countless restless dreamers.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Abstract extinction. Overbearing flames. Lurking demons. The augmentation of millions of realities meld into mere shadows of their former selves.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: What your nightmares are made of... what they mean... only you will ever truly know. Your imagination will fill in the blanks.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: [question=05]There may be other visions you wish to see...
+[choice]Something <b>chaotic</b>.[newtalk start=eye_1_begin break=eye_1_end]
+[choice]Something <b>cute</b>.[newtalk start=eye_3_begin break=eye_3_end]	
+[choice]Something else.[newtalk start=eye_repeat1_begin break=eye_repeat1_end]
+[title=eye_2_end]
+
+[title=eye_3_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Very well.[event=8]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Peer into the eye of innocence incarnate.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: In their world, there is no such thing as corruption, hate, anger, materialism. They live life in purity. But what do they dream of? What are their nightmares?
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Without them the void may only be that much deeper. With them the universe is seemingly made a more beautiful place. Calming. Loving.
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: [question=05]There may be other visions you wish to see...
+[choice]Something <b>chaotic</b>.[newtalk start=eye_1_begin break=eye_1_end]
+[choice]Something <b>cursed</b>.[newtalk start=eye_2_begin break=eye_2_end]
+[choice]Something else.[newtalk start=eye_repeat1_begin break=eye_repeat1_end]
+[title=eye_3_end]
+
+[title=eye_repeat2_begin]
+A̴i̸u̶k̵h̸i̶o̷p̸'̴r̸i̷h̷: Do not deny the call of the void. Its echo will remain until the call is answered.
+[title=eye_repeat2_end]
+
+INSIDE THE BLACKHOLE
+
+[title=outro_0_begin]
+Wow. Now why would you go and do a crazy thing like that?
+[title=outro_0_end]
+
+[title=outro_1_begin]
+An eldritch space deity tells you to jump into some random blackhole, and... you do it?
+[title=outro_1_end]
+
+[title=outro_2_begin]
+I wouldn't worry about it. We all make mistakes sometimes. It's just what makes us... us.
+[title=outro_2_end]
+
+[title=outro_3_begin]
+It doesn't matter how far you fall, even if it's into a blackhole. Something new is waiting on the other side.
+[title=outro_3_end]
+
+[title=outro_4_begin]
+Listen... it took awhile, but I found <color=#03cffc><b>something</b></color> that I think will make you feel better.
+[title=outro_4_end]
+
+[title=outro_5_begin]
+It's very close. I've been keeping it safe down here. You should take it with you when you return.
+[title=outro_5_end]
+
+[title=outro_6_begin]
+You're doing such a great job. In everything you do. You can't imagine how much you're appreciated.
+[title=outro_6_end]
+
+[title=outro_7_begin]
+Always remember... you're never fighting alone. We will be with you always.
+[title=outro_7_end]

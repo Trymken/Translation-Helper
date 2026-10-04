@@ -1,0 +1,153 @@
+[title=angel_0_begin]
+ты наконец здесь
+[title=angel_0_end]
+
+[title=angel_1_begin]
+мы ждали так долго
+[title=angel_1_end]
+
+[title=angel_2_begin]
+но нам нужно подождать ещё чуть-чуть
+[title=angel_3_end]
+
+[title=angel_3_begin]
+сейчас ты нужен больше, чем ты можешь себе представить.
+[title=angel_3_end]
+
+[title=angel_4_begin]
+всё, что тебе нужно сделать
+[title=angel_4_end]
+
+[title=angel_5_begin]
+это <b>мечтать</b>
+[title=angel_5_end]
+
+Cutscene hub intro
+
+[title=avatar_0_begin]
+кажется, у меня посетитель...
+[title=avatar_0_end]
+
+Cutscene Gogi Outro
+
+[title=demon_0_begin]
+[jitter=5 angle=0]Ты стал настоящей занозой в моём боку.[/jitter]
+[title=demon_0_end]
+
+[title=demon_1_begin]
+[jitter=5 angle=0]Ты никогда не вернёшься в мир грёз.[/jitter]
+[title=demon_1_end]
+
+Cutscene Final part 0
+
+[title=hypno_00_begin]
+Твоя роль окончена. Уйди с дороги.
+[title=hypno_00_end]
+
+[title=hypno_0_begin]
+Наконец... сила мира грёз — моя.
+[title=hypno_0_end]
+
+[title=hypno_1_begin]
+Что?! Что это?!
+[title=hypno_1_end]
+
+[title=hypno_2_begin]
+Э‑это невозможно! Ты был в заточении!
+[title=hypno_2_end]
+
+[title=gogi_0_begin]
+Твоя скверна никогда не повредит кристаллу грёз.
+[title=gogi_0_end]
+
+[title=hypno_3_begin]
+Ха‑ха‑ха... глупцы. Вы лишь отсрочиваете неизбежное.
+[title=hypno_3_end]
+
+[title=hypno_33_begin]
+Теперь... вы все [jitter=4 angle=0]умрёте[/jitter].
+[title=hypno_33_end]
+
+Cutscene Final part 1
+
+[title=hypno_4_begin]
+Я знал, что должен был уничтожить тебя, когда у меня был шанс.
+[title=hypno_4_end]
+
+[title=hypno_5_begin]
+Как только я разберусь с тобой, я продолжу превращать этот мир грёз в рай кошмаров.
+[title=hypno_5_end]
+
+[title=mimic_0_begin]
+Хи‑хи! Заманить тебя сюда оказалось так просто! Теперь вы оба...
+[title=mimic_0_end]
+
+[title=hypno_6_begin]
+<b>ТЫ...!</b>
+[title=hypno_6_end]
+
+[title=hypno_7_begin]
+Ты никчёмный ВЫРОДОК! Ты должен был принести МНЕ ОСКОЛКИ!
+[title=hypno_7_end]
+
+[title=mimic_1_begin]
+Н‑но я... я думал, ты сказал просто...
+[title=mimic_1_end]
+
+[title=hypno_77_begin]
+<b>ГЛУПЕЦ.</b>
+[title=hypno_77_end]
+
+[title=hypno_8_begin]
+ТЫ ПОДВЕЛ МЕНЯ, НИКЧЁМНЫЙ МИМИК!
+[title=hypno_8_end]
+
+[title=mimic_2_begin]
+П‑погоди... нееееееееееееет!
+[title=mimic_2_end]
+
+[title=gogi_1_begin]
+Ты считаешь это раем?!
+[title=gogi_1_end]
+
+[title=gogi_11_begin]
+Сны священны, ты не заслуживаешь находиться здесь...
+[title=gogi_11_end]
+
+[title=hypno_9_begin]
+<i>Прости?</i> Я не заслуживаю существовать? \nТы не знаешь значения этого слова.
+[title=hypno_9_end]
+
+[title=hypno_98_begin]
+Разве не <i>я</i> дал сновидцу цель? \nA <i>Смысл?</i> Средство для <i>достижения конца?</i>
+[title=hypno_98_end]
+
+[title=hypno_99_begin]
+Я — равновесие, в котором отчаянно нуждается это жалкое подобие мира...
+[title=hypno_99_end]
+
+[title=hypno_10_begin]
+...и сейчас я покажу тебе, насколько я заслуживаю <i>существовать.</i>
+[title=hypno_10_end]
+
+Cutscene Final part 2
+
+[title=hypno_11_begin]
+Проклятый жалкий глупец. Он умер так, как жил. \nЗащищая ту ничтожную мелочь, которую вы, существа, называете <i>сном.</i>
+[title=hypno_11_end]
+
+[title=hypno_12_begin]
+Теперь... твоя душа останется в моём мире навеки.
+[title=hypno_12_end]
+
+[title=hypno_13_begin]
+НЕТ... МЕНЯ НИКОГДА НЕ УНИЧТОЖИТЬ. \nВЫ НИКОГДА НЕ УНИЧТОЖИТЕ КОШМАРЫ.
+[title=hypno_13_end]
+
+[title=gogi_2_begin]
+Не грусти, успокойся.
+[title=gogi_2_end]
+
+[title=gogi_3_begin]
+Я... всегда буду рядом, чтобы защитить тебя...
+[title=gogi_3_end]

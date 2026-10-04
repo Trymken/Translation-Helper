@@ -1,0 +1,165 @@
+ 6_Dream_Haunted Dialogue EXTERIOR
+
+GOGI INTRO
+[title=Gogi_0_begin]
+"Gogi": Wow, check out the drab mood of this place! It's super depress-o if you ask me!
+"Gogi": I saw a bunch of creepy stuff up ahead, it gives me the willies...! Pretty spooky!
+"Gogi": Imagining the cold, unforgiving embrace of death has me in an existential bind! \nI just don't get it!
+"Gogi": Oh well, hahaha. It's all just a dream, afterall. Yeah, a dream! Have [jitter=5 angle=0]fuuunnn![/jitter]
+[title=Gogi_0_end]
+
+HEADSTONES
+[title=grave0_begin]
+R. C. \n1990 - 2021 \nDied from lack of sleep.
+[title=grave0_end]
+[title=grave1_begin]
+E. Frost \n1950 - 2020
+[title=grave1_end]
+[title=grave2_begin]
+G. Jackson \n1941 - 1999
+[title=grave2_end]
+[title=grave3_begin]
+E. Carney \n1850 - 1878
+[title=grave3_end]
+[title=grave4_begin]
+A. Matthews \n1898 - 1978
+[title=grave4_end]
+[title=grave5_begin]
+L. Walls \n1921 - 1931
+[title=grave5_end]
+[title=grave6_begin]
+P. Bruce \n2000 - 2009
+[title=grave6_end]
+[title=grave7_begin]
+T. Buckner \n1888 - 1932
+[title=grave7_end]
+[title=grave8_begin]
+I. Livingston \n1801 - 1880
+[title=grave8_end]
+[title=grave9_begin]
+C. Flynn \n1944 - 1978
+[title=grave9_end]
+[title=grave10_begin]
+S. Bryan \n1909 - 1950
+[title=grave10_end]
+
+[title=grave_blank_begin]
+There's a headstone here. The writing on it is too faded to read.
+[title=grave_blank_end]
+
+ROUND 1
+
+GRAVEDIGGER
+[title=digger_0_begin]
+Groundsman Grady: Another night, another blanket of thick, muck-ridden fog to go along wif it.
+Groundsman Grady: I dig the holes the same depth everytime, but somehow the next day they go even deeper.
+Groundsman Grady: Stay away from the <color=#fcbe2b><b>house</b></color>, lad. Unless you want something following ye out of it.
+[title=digger_0_end]
+
+[title=digger_repeat_begin]
+Groundsman Grady: What is it, lad? Can't ye see I'm busy over 'ere? Got enough digging to last a lifetime.
+[title=digger_repeat_end]
+
+[title=digger_repeat1_begin]
+Groundsman Grady: ...
+(He ignores you and continues digging.)
+[title=digger_repeat1_end]
+
+[title=gate_0_begin]
+The courtyard gate is locked with an old rusty padlock. Surely a key exists to open it.
+[title=gate_0_end]
+
+[title=cellar_0_begin]
+Looks like the entrance down into the house's cellar, perhaps? The doors don't budge an inch.
+Maybe it's for the best.
+[title=cellar_0_end]
+
+ROUND 2
+
+[title=digger_1_begin]
+Groundsman Grady: Ah, ye tried the gate, did ye? Well what was ye expecting trying to just waltz up to the property like that?
+Groundsman Grady: I'd hoped ye'd have a bit smarter inclination than to go trespassing this dreary night. But I don't care enough to stop yer foolishness.
+Groundsman Grady: I'll lend ye my courtyard key. I hope whatever's in there is worth what yer about to go through, lad.
+Groundsman Grady: No need to return the key. Ye won't be around long enough to do so. 'ave a pleasant night.
+[title=digger_1_end]
+
+[title=gate_1_begin]
+You unlock the rickety gate latch using the groundsman's key.
+[title=gate_1_end]
+
+[title=well_0_begin]
+No coins for this wishing fountain...
+[title=well_0_end]
+
+[title=well_1_begin]
+The fountain is all dried up. It stopped working a long time ago.
+[title=well_1_end]
+
+[title=mansion_0_leave_begin]
+[question=0]Enter the mansion? You have this feeling you won't be able to return.
+[choice]Regretfully.[newtalk start=answer_mansion_0_yes_begin break=answer_mansion_0_yes_end]
+[choice]Maybe later...[newtalk start=answer_mansion_0_no_begin break=answer_mansion_0_no_end]
+[title=mansion_0_leave_end]
+
+[title=answer_mansion_0_yes_begin]
+You fearfully open the mansion doors. What horrors await inside?[event=0]
+[title=answer_mansion_0_yes_end]
+
+[title=answer_mansion_0_no_begin]
+You step back from the ominous entrance, despite its relentless beckon.[event=1]
+[title=answer_mansion_0_no_end]
+
+[title=well_begin]
+There's a strange piece of paper floating in the well.
+Looking at it makes you feel like someone is groping around inside your skull.
+[title=well_end]
+
+[title=well_norm_begin]
+There's a well here. There's nothing unusual about it.
+[title=well_norm_end]
+
+[title=grave_secret_begin]
+Another grave lay here open and unfinished. This one seems different though...
+Taking a closer look you immediately receive a noticeable waft of fetid odor from the hole.
+How far down might it go, you wonder?
+[title=grave_secret_end]
+
+[title=gate_shadow_begin]
+...
+That shadow...
+[title=gate_shadow_end]
+
+[title=mansion_1_leave_begin]
+The front doors are unlocked now.
+[question=0]Enter the mansion? You have this feeling you won't be able to return.
+[choice]Regretfully.[newtalk start=answer_mansion_0_yes_begin break=answer_mansion_0_yes_end]
+[choice]Maybe later...[newtalk start=answer_mansion_0_no_begin break=answer_mansion_0_no_end]
+[title=mansion_1_leave_end]
+
+[title=answer_mansion_0_yes_begin]
+You fearfully open the mansion doors. What horrors await inside?[event=0]
+[title=answer_mansion_0_yes_end]
+
+[title=answer_mansion_0_no_begin]
+You step back from the ominous entrance, despite its relentless beckon.[event=1]
+[title=answer_mansion_0_no_end]
+
+[title=mansion_locked_begin]
+You try to open the front doors to the mansion, but they appear to be locked tightly.
+A small <color=#fcbe2b><b>gold-plated key hole</b></color> is affixed below the handle.
+[title=mansion_locked_end]
+
+[title=key1_begin]
+There's a small <color=#fcbe2b><b>gold-plated key</b></color> dangling from the collapsed lamppost.
+[question=000]Will you take the key?
+[choice]Yes.[newtalk start=answer_key_yes_begin break=answer_key_yes_end]
+[choice]No.[newtalk start=answer_key_no_begin break=answer_key_no_end]
+[title=key1_end]
+
+[title=answer_key_yes_begin]
+You manage to snag the key off the lamppost and take it with you.[event=2]
+[title=answer_key_yes_end]
+
+[title=answer_key_no_begin]
+You leave the key dangling in place...
+[title=answer_key_no_end]

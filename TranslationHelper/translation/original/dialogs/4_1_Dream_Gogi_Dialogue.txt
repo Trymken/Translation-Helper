@@ -1,0 +1,79 @@
+ GOGI GAUNTLET DIALOGUE
+
+Dream Gem Intro PreQuest
+[title=gem_int0_begin]
+A lost and inert <color=#03cffc><b>dream crystal</b></color>... it is powerless under some form of stasis.
+From another place, another time... another dreamer. The freedom to dream once more lies between two paths of purity.
+[title=gem_int0_end]
+
+Dream Gem Right
+[title=gem_right0_begin]
+A <color=#03cffc><b>dream crystal</b></color> afflicted by visions of overwhelming nightmares.
+A source of restless nights that meld dreams into reality, reality into dreams.
+Its will to live decayed a long time ago. It can be made pure again.
+[question=0]Purify the corruption?
+[choice]Yes.[newtalk start=gem_right0_yes_begin break=gem_right0_yes_end]
+[choice]No.[newtalk start=gem_right0_no_begin break=gem_right0_no_end]
+[title=gem_right0_end]
+
+Dream Gem Right Choice Yes
+[title=gem_right0_yes_begin]
+You cleanse the crystal with all your strength. It will take time for it to rebuild.[event=0]
+[title=gem_right0_yes_end]
+
+Dream Gem Right Choice No
+[title=gem_right0_no_begin]
+You hop away from the corrupted crystal.[event=2]
+[title=gem_right0_no_end]
+
+Dream Gem Right Repeat
+[title=gem_right0_repeat_begin]
+[question=0]Purify the corruption?
+[choice]Yes.[newtalk start=gem_right0_yes_begin break=gem_right0_yes_end]
+[choice]No.[newtalk start=gem_right0_no_begin break=gem_right0_no_end]
+[title=gem_right0_repeat_end]
+
+Dream Gem Left
+[title=gem_left0_begin]
+A cracked and abandoned <color=#03cffc><b>dream crystal</b></color>, all alone with nothing to its life.
+It provided so much love and happiness, but now only brings sadness.
+A spark of hope lay deep within the hollow shell. Its aura can be made whole again.
+[question=0]Purify the corruption?
+[choice]Yes.[newtalk start=gem_left0_yes_begin break=gem_left0_yes_end]
+[choice]No.[newtalk start=gem_left0_no_begin break=gem_left0_no_end]
+[title=gem_left0_end]
+
+Dream Gem Left Choice Yes
+[title=gem_left0_yes_begin]
+You cleanse the crystal with all your strength. It will take time for it to rebuild.[event=1]
+[title=gem_left0_yes_end]
+
+Dream Gem Left Choice No
+[title=gem_left0_no_begin]
+You hop away from the corrupted crystal.[event=3]
+[title=gem_left0_no_end]
+
+Dream Gem Left Repeat
+[title=gem_left0_repeat_begin]
+[question=0]Purify the corruption?
+[choice]Yes.[newtalk start=gem_left0_yes_begin break=gem_left0_yes_end]
+[choice]No.[newtalk start=gem_left0_no_begin break=gem_left0_no_end]
+[title=gem_left0_repeat_end]
+
+Dream Gem Intro PostQuest
+[title=gem_int1_begin]
+The <color=#03cffc><b>dream crystal</b></color> pulses again with the most minute amount of life. It's path to recovery will be long but absolute.
+With its replenished body, it leaves this crux behind to find their way home. Your goal is much the same.
+[title=gem_int1_end]
+
+Demon Statue
+[title=statue_begin]
+A monument to all the things you no longer wish to dream of. The things which can transform into nightmares.
+Its desire to take with it your ambition, fantasies, inspirations... will never be satiated.
+[title=statue_end]
+
+mirror
+[title=mirror_begin]
+A reflection of what you believe to be you. But is it really you? What lies on the other side?
+Parallel worlds in parallel timelines. One a reality, the other a nightmare. \nFace your true self.
+[title=mirror_end]

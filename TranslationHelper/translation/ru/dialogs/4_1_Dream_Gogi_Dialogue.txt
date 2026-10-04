@@ -1,0 +1,76 @@
+[title=gem_int0_begin]
+Затерянный и безжизненный <color=#03cffc><b>кристалл сновидений</b></color>... он бессилен, будучи в состоянии стазиса.
+Из другого места, иного времени... от другого сновидца. Свобода видеть сны вновь лежит между двумя путями чистоты.
+[title=gem_int0_end]
+
+Dream Gem Right
+[title=gem_right0_begin]
+<color=#03cffc><b>Кристалл сновидений</b></color> искажённый видениями всепоглощающих кошмаров.
+Источник бессонных ночей, где сны сливаются с реальностью, а реальность — со снами.
+Его воля к жизни давно угасла. Но его ещё можно очистить.
+[question=0]Очистить скверну?
+[choice]Да.[newtalk start=gem_right0_yes_begin break=gem_right0_yes_end]
+[choice]Нет.[newtalk start=gem_right0_no_begin break=gem_right0_no_end]
+[title=gem_right0_end]
+
+Dream Gem Right Choice Yes
+[title=gem_right0_yes_begin]
+Ты очищаешь кристалл изо всех сил. На его восстановление потребуется время.[event=0]
+[title=gem_right0_yes_end]
+
+Dream Gem Right Choice No
+[title=gem_right0_no_begin]
+Ты отпрыгиваешь от заражённого кристалла.[event=2]
+[title=gem_right0_no_end]
+
+Dream Gem Right Repeat
+[title=gem_right0_repeat_begin]
+[question=0]Очистить скверну?
+[choice]Да.[newtalk start=gem_right0_yes_begin break=gem_right0_yes_end]
+[choice]Нет.[newtalk start=gem_right0_no_begin break=gem_right0_no_end]
+[title=gem_right0_repeat_end]
+
+Dream Gem Left
+[title=gem_left0_begin]
+Потрескавшийся и покинутый <color=#03cffc><b>кристалл сновидений</b></color>, одинокий и бессмысленный.
+Он дарил так много любви и счастья, но теперь приносит лишь печаль.
+Искра надежды таится глубоко в его пустой оболочке. Его ауру можно вновь сделать цельной.
+[question=0]Очистить скверну?
+[choice]Да.[newtalk start=gem_left0_yes_begin break=gem_left0_yes_end]
+[choice]Нет.[newtalk start=gem_left0_no_begin break=gem_left0_no_end]
+[title=gem_left0_end]
+
+Dream Gem Left Choice Yes
+[title=gem_left0_yes_begin]
+Ты очищаешь кристалл изо всех сил. На его восстановление потребуется время.[event=1]
+[title=gem_left0_yes_end]
+
+Dream Gem Left Choice No
+[title=gem_left0_no_begin]
+Ты отпрыгиваешь от заражённого кристалла.[event=3]
+[title=gem_left0_no_end]
+
+Dream Gem Left Repeat
+[title=gem_left0_repeat_begin]
+[question=0]Очистить скверну?
+[choice]Да.[newtalk start=gem_left0_yes_begin break=gem_left0_yes_end]
+[choice]Нет.[newtalk start=gem_left0_no_begin break=gem_left0_no_end]
+[title=gem_left0_repeat_end]
+
+Dream Gem Intro PostQuest
+[title=gem_int1_begin]
+<color=#03cffc><b>Кристалл сновидений</b></color> вновь пульсирует, излучая крошечную искру жизни. Его путь к исцелению будет долгим, но необратимым.
+В своём обновлённом теле он покидает это место, чтобы найти дорогу домой. Твоя цель во многом схожа.
+[title=gem_int1_end]
+
+Demon Statue
+[title=statue_begin]
+Памятник всему, о чём ты больше не желаешь грезить. Всему, что способно обернуться кошмаром.
+Его жажда забрать с собой твои стремления, фантазии, вдохновение... никогда не будет утолена.
+[title=statue_end]
+
+mirror
+[title=mirror_begin]
+Отражение того, кого ты считаешь собой. Но действительно ли это ты? Что скрывается по ту сторону?
+Параллельные миры в параллельных временных линиях. Один — реальность, другой — кошмар. \nВзгляни на своё истинное «я».
+[title=mirror_end]

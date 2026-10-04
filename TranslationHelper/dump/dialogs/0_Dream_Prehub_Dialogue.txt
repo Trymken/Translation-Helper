@@ -1,0 +1,47 @@
+DreamPreHub Dialogue
+
+[title=Gogi_0_begin]
+???: Hello there, restful one. Do not be afraid.
+???: [question=1]Are you lost? Or are you here for a reason?
+[choice]Who are you?[newtalk start=answer3_begin break=answer3_end]
+[choice]Where am I?[newtalk start=answer4_begin break=answer4_end]
+[choice]Why am I here?[newtalk start=Gogi_1_begin break=Gogi_1_end]
+[title=Gogi_0_end]
+
+[title=answer3_begin]
+???: I am a fragment of your <color=#a141f0><b>memory</b></color>. An image created by you from the deepest part of your mind.
+???: [question=4]Is it something you've chosen to forget? Or something you're trying to remember?
+[choice]Go on...[newtalk start=Gogi_1_begin break=Gogi_1_end]
+[choice]Who are you?[newtalk start=answer3_begin break=answer3_end]
+[choice]Where am I?[newtalk start=answer4_begin break=answer4_end]
+[title=answer3_end]
+
+[title=answer4_begin]
+???: We are <color=#a141f0><b>nowhere</b></color>. Nothing but a vast, infinite kingdom populated with the densest of emptiness.
+???: [question=3]Reverberated only by the first steps you take on a journey not yet started.
+[choice]Go on...[newtalk start=Gogi_1_begin break=Gogi_1_end]
+[choice]Who are you?[newtalk start=answer3_begin break=answer3_end]
+[choice]Where am I?[newtalk start=answer4_begin break=answer4_end]
+[title=answer4_end]
+
+[title=Gogi_1_begin]
+???: One step at a time, restful one. There is much to be done and much to be seen!
+???: [question=0]Would you like to learn how to play?
+[choice]No.[newtalk start=answer2_begin break=answer2_end]
+[choice]Yes.[newtalk start=answer1_begin break=answer1_end]
+[title=Gogi_1_end]
+
+[title=answer1_begin]
+???: Your first time, is it? Very well. I will provide a little information.[event=0]
+???: Please take a moment to view these <b>controls</b>. You can also adjust your field of view and other options in the pause menu if you desire.[event=2]
+???: Oh, and progress is tracked using an <color=#49FF1C><b>autosave</b></color> function. When you see this icon in the bottom left, you can safely quit the experience.[event=1]
+???: One last thing... If you're ever feeling lost, just look to the <b>light</b>. You'll know it when you see it. That is all I have to share for now.
+???: <b>Remember this</b>, restful one: there will be many people to speak with, many conversations to have. Temper your patience accordingly.
+???: Please travel the bridge ahead and enter the gate that opens before you. We are all excited to see what you can do.
+[title=answer1_end]
+
+[title=answer2_begin]
+???: In a hurry are you? Very well, though I advise <b>dreams</b> are not something to be rushed.
+???: There will be many people to speak with, many conversations to have. Temper your patience accordingly. <b>Remember this</b>, restful one.
+???: Please travel the bridge ahead and enter the gate that opens before you. We are all excited to see what you can do.
+[title=answer2_end]

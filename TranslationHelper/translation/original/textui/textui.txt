@@ -1,0 +1,2657 @@
+
+
+[hash=10b316e0e746c191f67f0c87eab3a8cb, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+This game contains flashing lights and unsettling imagery.
+
+このゲームには、点滅するライトと怖い画像が含まれています。
+}
+
+[hash=d0aaedaefccd5857140c58acf2957a11, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+It is recommended that
+you play in a <color=#FF7000>dark room</color> with <color=#FF7000>headphones</color> on for
+the best experience.
+
+<color=#FF7000>暗い部屋</color>で <color=#FF7000>ヘッドフォン</color>を使ってゲームをプレイします。
+}
+
+[hash=103aabe42e152f396003bc3342a37880, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+continue
+}
+
+[hash=ed7871b3d73b2025af0bd8b2c019da58, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+options
+}
+
+[hash=efff1f97e2ccaf5e3376808fcea92a24, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+a
+}
+
+[hash=c923512af4a7342205553e682e19d226, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+continue
+}
+
+[hash=277a48f93997475d5272ccf5209672d4, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+new dream
+}
+
+[hash=23d4a5d5f81ee6818f9da6e658547fb6, auto_sizing=False, font_size=35, char_spacing=9.41, custom_font=False] : {
+無限の夢
+}
+
+[hash=308febbe089ac4ae74955c664b42e11d, auto_sizing=False, font_size=12, char_spacing=0, custom_font=False] : {
+©RAPTORSOFT STUDIOS, SODARAPTOR, 2022 ALL RIGHTS RESERVED.
+}
+
+[hash=0a1f52197c217f2c7bbfd8661be0052d, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+y
+}
+
+[hash=45ab7b11838e8c0ccdd8fe47ceca973f, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+p
+}
+
+[hash=be8bbb5b72c701ba718d97ae0587051c, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+o
+}
+
+[hash=9333268e0c2782017a7126d86b79b173, auto_sizing=False, font_size=27, char_spacing=40, custom_font=False] : {
+boundless dreams
+}
+
+[hash=6f7edcc552321e816c8297a8e6df1cbd, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+i
+}
+
+[hash=1d6eecc1671f07c33a81a59725b10012, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+h
+}
+
+[hash=0122d7899010b4ae75684c038612febe, auto_sizing=False, font_size=9, char_spacing=0, custom_font=False] : {
+release ver 0.4.1, June 2022
+}
+
+[hash=e838b2d77f8184a5e6bc5d14e441ca61, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+g
+}
+
+[hash=f564934b2533987b047a919fb2ff4224, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+new dream
+}
+
+[hash=04d12a44473a0a2e0a9ee0c9c9ee72b3, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+g
+}
+
+[hash=c1d96320883423125ed3b16b2d7abba7, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+n
+}
+
+[hash=bc7bf85a8019324aa54906d30a8f7cf2, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+wake up
+}
+
+[hash=ab43e0bab14109e41beda876cc29ff35, auto_sizing=False, font_size=45, char_spacing=18, custom_font=False] : {
+a
+}
+
+[hash=d403e65c43e6df8b4d747ca80aacaeca, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+view controls
+}
+
+[hash=ef5971da195fb9534673b8291145195d, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+fullscreen
+}
+
+[hash=18d5b9c958e0514aa26c56ad3fd0745e, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+resolution
+}
+
+[hash=9ef323e5bdbfafe3847399fa9ec0627b, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+vertical sync
+}
+
+[hash=bfaa737b06474583f9dfdb4adbccb2b9, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+quality
+}
+
+[hash=5aa26ef5b780cc6b622a3ac4b56aad8c, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+game credits
+}
+
+[hash=d765edf50305116ab867e2f3c08a0869, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+game volume
+}
+
+[hash=ea36092c8960052b7c26d6ea7dbe6f9d, auto_sizing=False, font_size=14, char_spacing=0, custom_font=False] : {
+Ultra
+}
+
+[hash=36b74d26f49f3a7b2d19bf8d9d339319, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+options
+}
+
+[hash=1c602a3845dcf14f991f399b317a94b2, auto_sizing=False, font_size=14, char_spacing=0, custom_font=False] : {
+1920 x 1080
+}
+
+[hash=deba22e2509c63e7dea5f69adb038e59, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+mute music
+}
+
+[hash=4273ddb69f950ff9fdfff39c5611bd89, auto_sizing=False, font_size=24, char_spacing=0, custom_font=False] : {
+yes
+}
+
+[hash=e0ee9631dd49ca3a7e3bdb11d9f79a03, auto_sizing=False, font_size=24, char_spacing=0, custom_font=False] : {
+no
+}
+
+[hash=be8d85644fa3affd18f479afb0357954, auto_sizing=False, font_size=19.13, char_spacing=0, custom_font=False] : {
+Start a new dream? Any previous progress will be reset!
+}
+
+[hash=725b9dceae8ba1d6c070b1db64f423d7, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+yes
+}
+
+[hash=f88e80badd6ec0a517804e7ef340de25, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+no
+}
+
+[hash=70e7181bd986ba665ee9bfa9cb10840f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Skip this cutscene?
+}
+
+[hash=0bb5f449c1d5a04ca0303684c83cbc7b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+to look
+}
+
+[hash=9dc4c18839d4ffddfb0c6aa88e1c67ee, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+use        or       to sprint
+}
+
+[hash=6378dad269ae29ac83dac2bbf56f40a2, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+to move
+}
+
+[hash=19f34173e694a7fdefd587db603ab3ea, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+どこにもありません
+nowhere
+}
+
+[hash=b6af7e9af9ccffc9008fd98591e4171b, auto_sizing=False, font_size=15, char_spacing=0, custom_font=False] : {
+fov
+}
+
+[hash=75ea221144caa53839df93d5dc309924, auto_sizing=False, font_size=15, char_spacing=0, custom_font=False] : {
+sensitivity
+}
+
+[hash=d404cf4d1442f8235fd07ef09c6e4958, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+quality
+}
+
+[hash=34ec64ee3be56726ae91a2dab65905da, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=21ad481b2b466663c878c4c42d274859, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=988fc8a1a8e90fe6af27ec524fd85e11, auto_sizing=False, font_size=13, char_spacing=0, custom_font=False] : {
+fullscreen
+}
+
+[hash=83b2d6578ef3c850081230ab95cc7f7e, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+quit
+}
+
+[hash=2c98866021fbe8e575630b1ff12ab20b, auto_sizing=False, font_size=13, char_spacing=0, custom_font=False] : {
+music mute
+}
+
+[hash=22326bec45daa157573bc679705c4309, auto_sizing=False, font_size=13, char_spacing=0, custom_font=False] : {
+vertical sync
+}
+
+[hash=c4540f45793473031f4b1af16a39bc67, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+p
+}
+
+[hash=918bccb5d1ae0e1f602051fd06312b7a, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+controls
+}
+
+[hash=5c902eea6249cdf7fac3c86b59affdde, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+s
+}
+
+[hash=ca9b3d2e1603c63e700f3856f7e175f8, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+u
+}
+
+[hash=0619104d02ccd4297355765513d2e0a8, auto_sizing=False, font_size=15, char_spacing=0, custom_font=False] : {
+game volume
+}
+
+[hash=51aff50f90ea4e851896ad401bdff291, auto_sizing=False, font_size=13, char_spacing=0, custom_font=False] : {
+invert look
+}
+
+[hash=e49fba2ecc9aab7c6ea7d9b2fc2778aa, auto_sizing=False, font_size=13, char_spacing=0, custom_font=False] : {
+sprint toggle
+}
+
+[hash=5d640ff31902d937049cbe65360b78a1, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+skip?
+}
+
+[hash=bc8fcf2513415f376420dacdddd7ea8e, auto_sizing=False, font_size=40, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=ff091e0a003a1a9f01c141fba86d336a, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+resume
+}
+
+[hash=9506e9f3379cf68e2016de887f52c98f, auto_sizing=False, font_size=14, char_spacing=0, custom_font=False] : {
+1920 x 1080
+}
+
+[hash=8ae610e16ecec15c446ac0eef2abb87a, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+resolution
+}
+
+[hash=d5749d109e7c3006d9059823173e68b1, auto_sizing=False, font_size=13, char_spacing=0, custom_font=False] : {
+toggle HUD
+}
+
+[hash=cff6c5f9dcfb6269b49972ff1fbd0169, auto_sizing=False, font_size=14, char_spacing=0, custom_font=False] : {
+Ultra
+}
+
+[hash=04d73e93b2814efb78c7913aa7c911a3, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+v
+}
+
+[hash=7ac449a5af3fd846d08cd2298f250b59, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+[hash=8c7a02049eb78c04727108cadd4d7f5e, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+i
+}
+
+[hash=71fcd8a1805539aae923f08951ad91a2, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+n
+}
+
+[hash=d1c226b212691609425fb13957040a48, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=628340be8996da34fa4a5cf5d4311a8f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+s
+}
+
+[hash=cd5f992794c00c471034627edce9e4b6, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+[hash=4711eda507e6e5db9294aac519ca73f3, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+g
+}
+
+[hash=996684b8abab1f03faae3bee156f3eb0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+[hash=c3606b37e19393425263d94631c5d14d, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+main
+}
+
+[hash=111143f23bbfc0e0d93b78a137242c68, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+controls
+}
+
+[hash=b59d47d2021acb7bd30bf92a2af17374, auto_sizing=False, font_size=9, char_spacing=0, custom_font=False] : {
+Objective complete : Complete the Level
+}
+
+[hash=06df41fcf8336fcc98f3f1c99a33b947, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+
+}
+
+[hash=61ee5b0c1f44943232df7ab5d6be935d, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+夢のネクサス
+dream nexus
+}
+
+[hash=70144cec46dab253a18eacbe62684044, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+友達を助ける
+help a friend
+}
+
+[hash=4c40b4dd2e520c941a64f869eebc1c7a, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+hub
+}
+
+[hash=a3168996be6ba9600c1079a43d825642, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=yellow>Pickaxe</b></color> acquired.
+}
+
+[hash=559a78961070c4cb765263e0caa0e52f, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+気性制御
+temper control
+}
+
+[hash=4b001b59b5a10fff151fc4d5f274352a, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=95528db8acf92cc3d91d1972c8e57b3c, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+落ち着きのない移行
+}
+
+[hash=1d4200a7aec4047247bdb02c4bf81f53, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+水の供物
+offering of water
+}
+
+[hash=9c8f4a9489e48ba500b2c39f10215442, auto_sizing=False, font_size=18, char_spacing=0, custom_font=False] : {
+<color=#3aeb34><b>Green Gate Key</b></color> acquired.
+}
+
+[hash=9544d32abec50c3382e487e1930820ad, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=green>Green Vial</b></color> acquired.
+}
+
+[hash=2fc22824af0188990d5348790877da8b, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<color=#e33424><b>Red Gate Key</b></color> acquired.
+}
+
+[hash=6c15ea90d080d8b48fcb07ec483bfeea, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=red>Red Vial</b></color> acquired.
+}
+
+[hash=2e4991358304c056974607d1872be2d8, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+深い不安
+a deep unease
+}
+
+[hash=80840dd389d723eab953a8d06be11e65, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=red>Red Cube</b></color> acquired.
+}
+
+[hash=fce15c51d04a238b0a5eb8df6f21e3c6, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=yellow>Yellow Cube</b></color> acquired.
+}
+
+[hash=b32f91ce85beffe11d5ce41620a64506, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+???
+}
+
+[hash=b6301f2819d8c8f65b463583893cf1b2, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+石の遺跡
+ruins of stone
+}
+
+[hash=614094c92e48da8b65b2f34166bf1bc3, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=yellow>Machete</b></color> acquired.
+}
+
+[hash=74c0427f35418264f7859522fe557358, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=#33ccff>Inert Shard</b></color> acquired.
+}
+
+[hash=e63f7a3e174066091b270ed45c840355, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+v
+}
+
+[hash=f038f74d4d7f821ba068d519593fd9fd, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+[hash=a6249a0cc547c531502f87573e103e83, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+i
+}
+
+[hash=8b2ec0b1f130469432e2996115d6bb15, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+n
+}
+
+[hash=c5a6b7a6a0b6ae7238c945274a3d734c, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=b2be18692ca9bfc2cdc4055f8a4ed33b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+s
+}
+
+[hash=b84b9cfd56834f7efb2815a026b8e0e5, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+[hash=d77d11a03154920eb173ac3cd318b0de, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+g
+}
+
+[hash=05ea476c10dac6f1ad312a42766df4ff, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+.
+}
+
+[hash=b0ff282ad6c7896f40e9e09c92b31e94, auto_sizing=False, font_size=30, char_spacing=1.52, custom_font=False] : {
+ささやきの森
+Forest of Whispers
+}
+
+[hash=dc33f79ec70be8b9671271f73ca79edc, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=yellow>Pathstone</b></color> acquired.
+}
+
+[hash=598ac60c5f78a75ed67ed4a6ab1d5576, auto_sizing=False, font_size=26.45, char_spacing=0, custom_font=False] : {
+Yes
+}
+
+[hash=bb4a930f1ecc23d2e0b0ef1e38f5efcf, auto_sizing=False, font_size=26.45, char_spacing=0, custom_font=False] : {
+No
+
+}
+
+[hash=fe9075c5174697df80e7affb0d2db447, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+優しさの行為
+act of kindness
+}
+
+[hash=f58105a0548a71d5175e2b8f7dedfee3, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=#ff0066>Red Ball</b></color> acquired.
+}
+
+[hash=9c2332a1ca37b24af36c4c75be26fc7f, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+壁の向こう
+beyond the wall
+}
+
+[hash=30a71c96250629abad182064c7dc2861, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=yellow>Strange Key</b></color> acquired.
+}
+
+[hash=236b578dc6c5611931958b7a387651ea, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+終了、時間切れ
+end of time
+}
+
+[hash=5850c9948d0b0576741ed587eb3af216, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=#d742f5>Jetpack</b></color> acquired.
+}
+
+[hash=7c5f7447f0ece4adfa220b47c34e82b8, auto_sizing=True, font_size=16, char_spacing=-17, custom_font=False] : {
+
+}
+
+[hash=1d9c7030e0d18e10e4c3cc2e8b41ec5a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+In another place...
+}
+
+[hash=8f9fdf37c18158b40be50cb7fa476ce3, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+ドリームコア
+ethereal crux
+}
+
+[hash=26a4c351a495d8f359f96c19ab7625fe, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+死者に会う
+meet the dead
+}
+
+[hash=3df3e10e6f160d2f91d31c01d50da46b, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=#ff9900>Courtyard Key</b></color> acquired.
+}
+
+[hash=ca78618aefe0dd5c3611f89eb4b76891, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+甘い始まり
+sweet beginning
+}
+
+[hash=421245cb3f1a1995633e63b89057448a, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+無限の買い物
+infinite shopping
+}
+
+[hash=84d2e4ed17b3d90cb70a5558285bdac5, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=#99cc00>Gate Key</b></color> acquired.
+}
+
+[hash=49d036c00e7f9bc6752529ca5d0d43f2, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=#99ff66>Teddy Bear</b></color> acquired.
+}
+
+[hash=fb8ecbc66dd55f8d46e020470102522a, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+<b><color=#ffcc66>Warm Pretzel</b></color> acquired.
+}
+
+[hash=162fb0e712c963d00c18ce1b3faf167e, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+真実の塔
+tower of heaven
+}
+
+[hash=a92756b3b987a4326a6a444a3623db6b, auto_sizing=False, font_size=16, char_spacing=0, custom_font=False] : {
+dream hub
+}
+
+[hash=43e84c7786a22d377363a3de9643bda9, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Wobble Effect
+}
+
+[hash=ac184178629cebd324f346f56e8465be, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+RPGWhiteLock
+}
+
+[hash=b3b31cc1aa38010fb36574fcaacf42a9, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+additional
+code support
+}
+
+[hash=5bb361d456108bdae44aca7959a3abc8, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Reeez &
+schroedingersglatze
+
+Trevor Crookston
+(BlazingDragon)
+
+TheoTeravainen
+
+Vortex4
+}
+
+[hash=66d5bd42509be80b55129cf22f245267, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+RPGTalk
+}
+
+[hash=31b0c9da1b79c0510134b1147decd4d1, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Fog Filter
+}
+
+[hash=e1005e9a458f7a74d6d1a6f9b0709ca0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+SpryGorgon
+}
+
+[hash=b0d5e098bf70f6993635fd50ff091cfb, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+sound effects
+}
+
+[hash=ef34de772993309734e4e787299dc939, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Neo's Little
+Studio
+}
+
+[hash=9ec29203216d9d0f8df182e6fceb3c16, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Bamboo Theme
+"Iceicebaby2"
+}
+
+[hash=46d98e532e0f2310cde329745b45a66d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+MPixels
+}
+
+[hash=ab164ca912f23828fdfd88d7b0c3b25d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Toony Skies
+}
+
+[hash=8b56458165ea2bc86f351ffad22e5602, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by InspectorJ
+}
+
+[hash=33716f8348d6b35ad8a50e0bbd7bf893, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+freesound.org
+}
+
+[hash=f6e5525ee6cec2d265902f6c0a9cc749, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Skybox Series Free
+}
+
+[hash=5e5b9f3c96316317cfb9857885575437, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Final Cutscene Theme
+}
+
+[hash=d215bd33887f6425375eda7f78065b2a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+World Portals
+}
+
+[hash=bb0e00819d96a6bccd5e4f9df908e1e8, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Zen Fulcrum LLC
+}
+
+[hash=fe6f93bd3eeb41be340b374e2766ce1d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Main Intro Cutscene Theme
+}
+
+[hash=0037a4d9949b299cddb8a6918e64584b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by edtijo
+}
+
+[hash=d5634581a281b92c418dbc64498ec597, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Arkham Interactive
+}
+
+[hash=a286550b87aaf96a71fc75f2e7265a7f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ultimate 10+
+Shaders
+}
+
+[hash=97b738c224485114d7b631d4a51ee8f9, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+musical scores
+}
+
+[hash=68c74f4f88bdd78984ccd620c8f47fe7, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+art,
+code,
+sound,
+design
+}
+
+[hash=b68cb77ef050076ee8717c426479bfdb, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Moonflower
+Carnivore
+}
+
+[hash=24382bcd99c296a8d2cf86fc536f8b1c, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+the HauntedPS1 community
+Vinny Vinesauce
+Amoeba Network
+Alpha Beta Gamer
+5MG
+Figglewatts
+DreadXP
+Socpens
+SimpleFlips
+Brackeys
+SpeedTutor
+ArtBreeder
+NightCafe + VQGAN
+Osamu Sato
+Satoshi Ashibe
+Noboru Iizuka
+Naohisa Inoue
+my weird dreams
+my cat Morty
+&
+you
+}
+
+[hash=c05c317d4d752cecfe6bbd493232fe8a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Triple Axis
+}
+
+[hash=557c7705809ead63b7c12897d5423cb7, auto_sizing=False, font_size=45, char_spacing=0, custom_font=False] : {
+thank you
+for playing
+}
+
+[hash=79e3dd21ed0d8c86813cda2716249cff, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Space Theme
+"Panpot Mono Panpot"
+}
+
+[hash=df6f0e96fad572eb1210db2fcdbd0048, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Main Theme
+"Boundless Dreams"
+}
+
+[hash=8dc5a57b03bcb186f093737925dc383f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by SamplingSamTheMarylandMan
+}
+
+[hash=767d45ecbf60777824eeb9b8df9b7a37, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Main Intro Monster Theme
+King Candy's Melancholy -
+Theme 1 & 2
+Snowing Desert Theme
+}
+
+[hash=c05d23c9bad6b530b7d8adafcf833347, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Andrew Kn.
+
+SamplingSam
+TheMarylandMan
+
+edtijo
+
+InspectorJ
+
+Shannon Mason
+}
+
+[hash=0f9e28bfd1a4fe985ff06a49eaf386ad, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Hub Intro Cutscene Theme
+Gogi Intro Cutscene Theme
+}
+
+[hash=afd4c5d0de20a8be030691446ed8627e, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+VerticalFog Shader
+}
+
+[hash=328a0eefcf9cb1923940ba3ce32b8586, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Jerome Lester
+(normalhumansixx)
+}
+
+[hash=3f94c460fdee82f1245b33fb6bd3b541, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Kino
+}
+
+[hash=2d5c80f7bf4f1f33e02b341caf5ff710, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Lightning Bolt
+Effect
+}
+
+[hash=344f4fab149cc25e5e6cdc40676c6c8f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Realistic Water Caustics
+}
+
+[hash=350fc71fc1aad1e088508381dcd6c40f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ralf Corella
+(sodaraptor)
+}
+
+[hash=ff68381bb193a0179536ffc8ffa735fd, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Cave Theme
+"Glockiii3"
+}
+
+[hash=98f37ffaa0a4bf795d404cde8653fe23, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Reeez
+}
+
+[hash=f3f5f79ae8b55e690bef759eacfbe0fa, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Life Tree Cutscene Theme
+}
+
+[hash=9b335eb6042525fdf2a010eea238eccc, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+Copyright    MMXXI Raptorsoft Studios & Ralf Corella
+All rights reserved.
+}
+
+[hash=13cf4c9b4dccff7a060c1556075bfb32, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Hub Theme
+Tower Theme
+}
+
+[hash=c7dddb56e4d9b2a71c3724d175ad3fb7, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Cartoon FX
+}
+
+[hash=cb64db986d0c5f9828ca113cd0756da6, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+All names used in this game are entirely fictional. Any similarity to actual persons, living or dead, is purely coincidental.
+}
+
+[hash=4e1d7f96a7cf71721980b02abeb388ce, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Vinicius Develops
+}
+
+[hash=7e351df6965848ec14acfc542f6a59fc, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Blackhole Shader
+}
+
+[hash=06191fcd083ac475b19dc749fc77e4c5, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+@viela_aleiv
+@JoyOfPESI
+@Brodie__Shea
+@tipsheda
+@aktitude
+@swizzlolly
+@BluburryGamer
+@CAMCOLLINS999
+@cinebst
+@cosm1nx
+@MenacingMecha
+@robogeist
+@Isasubmarin
+@Psych_Zuki
+@nikitavychuz
+@XHunterverseX
+@NullCasting
+@sandglas_
+@LUomoMacchina
+@cris_2800
+}
+
+[hash=8c66dd00dc7c69e22076744dbbcd4899, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+gallery art submitted by
+}
+
+[hash=e235fb4578169e4d5f79bc382893bda1, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Seize Studios
+}
+
+[hash=dca5ba5381aff1b7a169fb1776b0c641, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+built using Unity's
+FPS Microgame template
+}
+
+[hash=5d32dc1aa72e4ee064103a03eaeb4a7d, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+Produced over an 8 month development period
+from February 13th 2021 to October 28th 2021.
+}
+
+[hash=f4f1c56a09af1182ae9518c1beb877b4, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Lava Theme
+"R.A.M."
+}
+
+[hash=83f632aef6fcca0ae9ce204ecf10db92, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Demo Theme
+"Part 日本の赤ちゃんロ"
+}
+
+[hash=7c19179bb0b79bb43366d9658e64be72, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Trevor Crookston
+}
+
+[hash=0a73a0a1da2ea89a24af9720aa2e0ac1, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+special thank you
+}
+
+[hash=879f8c9923eba5e8df43c0d078bb5862, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Forest World Theme
+"Mysterious Forest (RPG)"
+}
+
+[hash=e312137a00e3baa62646c831f0ebba10, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ralf Corella
+(sodaraptor)
+}
+
+[hash=996b9084085d128d0249b92f96b55a42, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+a game by sodaraptor
+}
+
+[hash=ed9319cad04546b14a41213e5a538cca, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Jean Moreno (JMO)
+}
+
+[hash=3d75baa95915ad6c8ab5048890c57036, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Andrew Kn.
+}
+
+[hash=11e5d14dbdeca232916162e087cc7400, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+music by
+}
+
+[hash=86aafb38396308b24f3389d93e331c4b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ice Theme
+"Ice"
+}
+
+[hash=e4846207955e5c37bab741e42e93b027, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Simple UI SFX
+}
+
+[hash=1b546196403347e6330a05292adaef1d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by TheoTeravainen
+}
+
+[hash=b44a48a37dd81bb37726165bc54308ea, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+QQ.D.Y
+}
+
+[hash=87362f82d49e8df3d589bf8922aee037, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Avionx
+}
+
+[hash=df14ef1573a88da9bd86493da4026a9c, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Reeez &
+schroedingersglatze
+}
+
+[hash=00e65801abd97f50d2f64ab64f76ece0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Modus Interactive
+}
+
+[hash=68acf0f062bad37df973044f0f654893, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+additional
+music & mixing
+}
+
+[hash=7f09255ac79d67d6071d67e649aa486e, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Credits Theme
+}
+
+[hash=c392cb31cc9d8b86a0bce334cbe4d6e5, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Vortex4
+}
+
+[hash=211e85eb49a8e12e11502949bcee19e0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Digital Ruby
+(Jeff Johnson)
+}
+
+[hash=b0e7b14bd4fb4fa8402b431e5c369a7a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Mall Theme
+"Endless Season RMX"
+}
+
+[hash=f33ec2dc1fa15c7e5c2f13c982d031b0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+@Tesseron_
+@amaalecule
+@BirdObtainer
+@celvinegraphics
+@despairsquids
+@displayer
+@m0llystars
+@MadDJeann
+@MamokZalku
+@MattHar58382024
+@phsark
+@Mintinmari
+@NatSpectrum
+@ohuthia
+@peaches47971998
+@pulhynki
+@pumpkinjay13
+@sofia
+@transmauls
+@PauerPixel
+@slimfim
+}
+
+[hash=42ebc2ed4e930c4d0a17cab378cd35b9, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Gogi's Theme
+"ゲーム-CHANGER"
+}
+
+[hash=e02bca3c0e49ec4f058c73afd81e4b95, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+The Developer
+}
+
+[hash=4352c7e4a67cedfaa26746317d8568a1, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Candy Theme
+"Village"
+}
+
+[hash=75a2d402a22053210f647a0561f589ce, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Shannon Mason
+}
+
+[hash=3b2943953005768d49a60d92fff6bf4c, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Hypnagogia uses the <b>umeboshi</b> typeface
+}
+
+[hash=2a451e217c5cb5ceb2c380c69bfc110a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Desert Theme
+"Cauldrone Attack XIII"
+}
+
+[hash=c56b79de6d98c3ad01e39c68a1973dab, auto_sizing=False, font_size=55, char_spacing=0, custom_font=False] : {
+This game is dedicated
+to all the dreamers
+who fight against injustice
+and corruption every day
+of their lives.
+}
+
+[hash=bdc0720545a45087d888bb2d1910d5e2, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Pixel FX
+}
+
+[hash=37353252b111c1a1ebb0f021f947ed2b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Forest Maze Theme
+"Waterfall Caverns"
+}
+
+[hash=148539a61d9dc147ecb0f2e6bd51ee81, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Lava Flowing Shader
+Jiggle Bubble Free
+Particle Ribbon
+}
+
+[hash=94780c1fc1f1d3088389bb8d85d05a17, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Mist Theme
+"Flimmflamm"
+}
+
+[hash=2ebd532701f1680ba3253194756dd87d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+PSXEffects
+}
+
+[hash=bff852db521e8a42f8bc080d40dcb501, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+assets used
+}
+
+[hash=47fda2168c2ba30f079510723239f09d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+AllSkyFree
+}
+
+[hash=242a51109419ceb9f563f54b60557f6a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Vortex4
+}
+
+[hash=707be6332eb3198a02d07e12ff1dcfc5, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+additional
+code support
+}
+
+[hash=3201beaf555ac21501ba91365afc7044, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Seize Studios
+}
+
+[hash=13d715b864351159edd410699393e6dc, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+musical scores
+}
+
+[hash=cc05f60dbe4200f9e5ebddbf4b28c9fb, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Main Intro Cutscene Theme
+}
+
+[hash=d47d29c8d7670887abdad125698c0c57, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Cave Theme
+"Glockiii3"
+}
+
+[hash=9866a0d9361750baaa641fa9446c13c6, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+All names used in this game are entirely fictional. Any similarity to actual persons, living or dead, is purely coincidental.
+}
+
+[hash=97f8bb5dd4aef341ba1921cbf34724e5, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+RPGWhiteLock
+}
+
+[hash=3fe4bb70a595f195d96225d55eeeba61, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Bamboo Theme
+"Iceicebaby2"
+}
+
+[hash=b226064dbe8a8bad199680c0b231566d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Trevor Crookston
+}
+
+[hash=3dec66e62483b0e0ce9bcfa7ea35593d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+assets used
+}
+
+[hash=5677f9c299cb54521ad7ed00c7869afa, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Lightning Bolt
+Effect
+}
+
+[hash=3a926d2acbb32f7479212d90c053453f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+@Tesseron_
+@amaalecule
+@BirdObtainer
+@celvinegraphics
+@despairsquids
+@displayer
+@m0llystars
+@MadDJeann
+@MamokZalku
+@MattHar58382024
+@phsark
+@Mintinmari
+@NatSpectrum
+@ohuthia
+@peaches47971998
+@pulhynki
+@pumpkinjay13
+@sofia
+@transmauls
+@PauerPixel
+@slimfim
+}
+
+[hash=c3a75391e042d788131e372624c30988, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Hub Theme
+Tower Theme
+}
+
+[hash=4ec18d03990c3b7de7b61ccd687eaf56, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Andrew Kn.
+}
+
+[hash=5a94d158ff9d36689278d4123760485f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by TheoTeravainen
+}
+
+[hash=664618e1b6cc8425f4505dc32dcdfc0f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Simple UI SFX
+}
+
+[hash=831a71738b14672cd20d3388a3289c61, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Forest Maze Theme
+"Waterfall Caverns"
+}
+
+[hash=ac75674d188897c15529ecd98eb9482f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+MPixels
+}
+
+[hash=c2ee012d351a6f16ea4d6e3941e11101, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+special thank you
+}
+
+[hash=3c1c37a2faba784e716b5e3502afa8b0, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+Produced over an 8 month development period
+from February 13th 2021 to October 28th 2021.
+}
+
+[hash=c7478c3bf38fdc34831459e8b77a3144, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Vinicius Develops
+}
+
+[hash=58c18610305e063e482620737bb5169b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Jean Moreno (JMO)
+}
+
+[hash=07d9eddfa36811f391af1f2173c4990b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Arkham Interactive
+}
+
+[hash=91e00f6b73d67678630bba09f520e457, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+art,
+code,
+sound,
+design
+}
+
+[hash=55fe56752c79dbacd9a279be1df7692d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Blackhole Shader
+}
+
+[hash=f40ad1be5430359637d6b4abf751b29b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ralf Corella
+(sodaraptor)
+}
+
+[hash=0b65383c4c9713f481f169f92de894be, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Forest World Theme
+"Mysterious Forest (RPG)"
+}
+
+[hash=4dd9d78ab0a46f91660e21d0e2d9f386, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Lava Theme
+"R.A.M."
+}
+
+[hash=9bbd803017f3943e4b4380229506119f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Gogi's Theme
+"ゲーム-CHANGER"
+}
+
+[hash=0fbb3256541ad378db5e0938453d71cc, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Hub Intro Cutscene Theme
+Gogi Intro Cutscene Theme
+}
+
+[hash=3e774d0cf59968693f051bd6b059754f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by SamplingSamTheMarylandMan
+}
+
+[hash=35c7b855fca4d754514ffc4ccd049225, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Digital Ruby
+(Jeff Johnson)
+}
+
+[hash=f1ca808c1969055d3368f3f4574bca42, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Zen Fulcrum LLC
+}
+
+[hash=73b20cd49573fbb58abf3890edb95d53, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+@viela_aleiv
+@JoyOfPESI
+@Brodie__Shea
+@tipsheda
+@aktitude
+@swizzlolly
+@BluburryGamer
+@CAMCOLLINS999
+@cinebst
+@cosm1nx
+@MenacingMecha
+@robogeist
+@Isasubmarin
+@Psych_Zuki
+@nikitavychuz
+@XHunterverseX
+@NullCasting
+@sandglas_
+@LUomoMacchina
+@cris_2800
+}
+
+[hash=cacef7d9e55e610e7d2ad6331a8630b9, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+World Portals
+}
+
+[hash=00c32eac4bd07da38072f612de171800, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Final Cutscene Theme
+}
+
+[hash=90fd95db05e83e718ec0ba3ef3bbf0f5, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ice Theme
+"Ice"
+}
+
+[hash=c8a49650f9af5fdc09e4bcc728ef2257, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by edtijo
+}
+
+[hash=ccf22f874940cdaf27fe326372fbaad7, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Moonflower
+Carnivore
+}
+
+[hash=38f9e91e1d74826add57e037c6492d05, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Jerome Lester
+(normalhumansixx)
+}
+
+[hash=c054eccdb3e7062971a390cfa20ab15a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+freesound.org
+}
+
+[hash=ec3641f02ac390bca40c9f97758e1ad3, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Triple Axis
+}
+
+[hash=50d6ca3ed162745ac62db37907d67c7a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Shannon Mason
+}
+
+[hash=49fd25c1f0291fec14229f901c6193e0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+PSXEffects
+}
+
+[hash=c3fb346b174468a033cbaf0ef79e4464, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+QQ.D.Y
+}
+
+[hash=177dfee117fd313f4585ae56fd3b0bce, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Realistic Water Caustics
+}
+
+[hash=2b7a996658de4224d2cefd9c70deb716, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+additional
+music & mixing
+}
+
+[hash=8341669a7769f26f72570be9306681d6, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Demo Theme
+"Part 日本の赤ちゃんロ"
+}
+
+[hash=e9e06c57863b5d2c68dae889cb54a6e4, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Reeez
+}
+
+[hash=96c4b53e2825665b29d2f5d7cafbb84a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Wobble Effect
+}
+
+[hash=37ab0140248e402231c177ae3bfd5670, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by InspectorJ
+}
+
+[hash=c29cbd776374a895d84ea136f14937fc, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Mall Theme
+"Endless Season RMX"
+}
+
+[hash=9fcd9015872f9282c2db6b3333303cef, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Skybox Series Free
+}
+
+[hash=15c995c696a1d40592a019be395fe0bd, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Candy Theme
+"Village"
+}
+
+[hash=6bdc2931ba6050eb346dc7e75e3c6fb7, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Space Theme
+"Panpot Mono Panpot"
+}
+
+[hash=a7912309005253207e9fab1135b962aa, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Pixel FX
+}
+
+[hash=38032012e1eeb0d7f7e89187fa9f934d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ultimate 10+
+Shaders
+}
+
+[hash=3cfe798f696dd39437f2bb63602d4919, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+Copyright    MMXXI Raptorsoft Studios & Ralf Corella
+All rights reserved.
+}
+
+[hash=a0f06b6c77ac8ed8f4d2fbd255ae5287, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Life Tree Cutscene Theme
+}
+
+[hash=2bd85d8d1d1989ae91b1bf4018378ef8, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+RPGTalk
+}
+
+[hash=1848109b4e8d29c85c9cb7f99ed64d69, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+composed by Reeez &
+schroedingersglatze
+}
+
+[hash=e4abd31d7502ef25424a686495c7c0bb, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+VerticalFog Shader
+}
+
+[hash=b99df2306dea3b2c48f65572ba8f9f4b, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Fog Filter
+}
+
+[hash=212ad154476bd670540ed80f5ecfd0a9, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Hypnagogia uses the <b>umeboshi</b> typeface
+}
+
+[hash=bdc1432eefa98bca5361dd94ad7cdd35, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Mist Theme
+"Flimmflamm"
+}
+
+[hash=92ea30483771b28cb2e573fcc7f5a0f0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Main Intro Monster Theme
+King Candy's Melancholy -
+Theme 1 & 2
+Snowing Desert Theme
+}
+
+[hash=63c2eda66270fc39bb0777aacb09c9db, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+AllSkyFree
+}
+
+[hash=5a4a7b8f3695ca57b3c3c4c31b5b1183, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+SpryGorgon
+}
+
+[hash=7f2eb156c58fc4307923f944d3b2cbfd, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Kino
+}
+
+[hash=060598ebf793f0488e52764c76822c48, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Credits Theme
+}
+
+[hash=46af0576b96ad1bca265e04f41a1e758, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Toony Skies
+}
+
+[hash=66ab16dc9b318127cabb5c31eefefed0, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+music by
+}
+
+[hash=4467f5e208e0466f06390f9088b2a06f, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Reeez &
+schroedingersglatze
+
+Trevor Crookston
+(BlazingDragon)
+
+TheoTeravainen
+
+Vortex4
+}
+
+[hash=c81bbd5735dc0f2640b49cb715a67d41, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Modus Interactive
+}
+
+[hash=2d49650ce5448b4c8d3de28219a33cac, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+The Developer
+}
+
+[hash=80ea6fe942abf65640d2da848f98e4de, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Avionx
+}
+
+[hash=3b49938c91e67b9f9872ec608680a45a, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Main Theme
+"Boundless Dreams"
+}
+
+[hash=d18445063bcd6f683ec4796fded2c5aa, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+gallery art submitted by
+}
+
+[hash=5fdff6a6cef26f28cac7ed665a20f921, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+a game by sodaraptor
+}
+
+[hash=479ed7ab6d8dde574c2cd63973212693, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Cartoon FX
+}
+
+[hash=2284e7dd9273c34f7cd4e5f3757e48a1, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+sound effects
+}
+
+[hash=ff50d1b85d02d7e3305719a45e66a644, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Neo's Little
+Studio
+}
+
+[hash=7be7313e5d8e16e554cf1ea0e30a2c15, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Lava Flowing Shader
+Jiggle Bubble Free
+Particle Ribbon
+}
+
+[hash=9d8fce3a293c37b20e26242e9ed6ed43, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Desert Theme
+"Cauldrone Attack XIII"
+}
+
+[hash=bcdedf0e1d1c7338e49409c54cf51873, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Andrew Kn.
+
+SamplingSam
+TheMarylandMan
+
+edtijo
+
+InspectorJ
+
+Shannon Mason
+}
+
+[hash=ca8c81f51aefd22b4fad3fd2fe8ced45, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+the HauntedPS1 community
+Vinny Vinesauce
+Amoeba Network
+Alpha Beta Gamer
+5MG
+Figglewatts
+DreadXP
+Socpens
+SimpleFlips
+Brackeys
+SpeedTutor
+ArtBreeder
+NightCafe + VQGAN
+Osamu Sato
+Satoshi Ashibe
+Noboru Iizuka
+Naohisa Inoue
+my weird dreams
+my cat Morty
+&
+you
+}
+
+[hash=394882a76c6a1c4f1e2bac501e452bcd, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+Ralf Corella
+(sodaraptor)
+}
+
+[hash=6e97dae31a172fce5a84c9239be64c1d, auto_sizing=False, font_size=36, char_spacing=0, custom_font=False] : {
+built using Unity's
+FPS Microgame template
+}
+
+[hash=a16e933af2530b0e6252812c8fbe2db3, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+i
+}
+
+[hash=1017eb5d9776d33604dcc621a90e1c15, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=2177d7a53dd48a38b32b2b171e7bc87a, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=6938366f41e864093a93eae3fa14cfbf, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+m
+}
+
+[hash=b9886a435907015e023901ecc3ee47fe, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+s
+}
+
+[hash=0030eb9b77fe9af1db48e4b94fffb994, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=c682d616905ee113bed689ccc9e372fb, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=dd742495dd910712b4a2742e3596d290, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=00d7efbd5e625162551a2f572f534fa1, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=cb11af0b32332f20a2473dad364fefc8, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=ee16cce38a328b47dbc745d11ad8ff27, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=26ef3c250de1342d1cfb40af609d2dc6, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=f9240c78418f7c2c4752c162466e86e1, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+h
+}
+
+[hash=2956aa293a93d2b3e590ad163c11a7dc, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=f74c4d266b834c3b79c3a52135012539, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=b830322dd760f6d11a970630e68324c7, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=98bbadd3d3b497e071b73cb99d6cfe46, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+t
+}
+
+[hash=7a4bb42cdf96ee12277819b194b88f03, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=de49004fef5bebce277ba80e68590651, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+p
+}
+
+[hash=0f09a5ce93cc1ac9ac6c647621205a49, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+v
+}
+
+[hash=4421db7f6ffd49d0e64b8c8eef3b70ea, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=74b6cd8d6cc502adb54ee0474631a3b6, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=9534343b92b5334a844e7f060daf4314, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=d5e1c200e3baabb55a0755f456fff1a4, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=be7a4ecf7642f13339bd3229fd94a08f, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=f00e42e7e24f0dbe3606111590c45b03, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=5d3fba5fedd47eac2c7c7b585131ce90, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=fb88901d69d1d6f101ef6015bf5c38ba, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+h
+}
+
+[hash=e60aed7f4e51909e47aea8fc5665cd17, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=18dbd5498be452084e8e70828b370a58, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+u
+}
+
+[hash=2547cd7dadb6c4edb732f0cca7e5bda8, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=af28e3acc3f32a4244154f2c31c57a33, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+t
+}
+
+[hash=d17c39cf2a5a8b7444f2aee35579d63f, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+u
+}
+
+[hash=afaffd8dd86594bcbe62fe2852624a5e, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+c
+}
+
+[hash=eb271ce84855fa06eda608d1c62ed136, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=e5efab78decf9342c3b5150e44f1ca4a, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=dbeb0a844c849401db7cb057753ce987, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=58dc1325ab3bba3a315d56fe4e107887, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+h
+}
+
+[hash=476fc9cb1e6990cbacddd8ef0b39e8b2, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=4b6dabd7964a4d92ea9817ae93e3a5ac, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=38f0214dc10b2a659344dfb185fb028e, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=689cb629869768123f92550d2569ea45, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+n
+}
+
+[hash=14efc2f62fc6d2b35412badee74893be, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+t
+}
+
+[hash=4c31ea7f9e42ceb4279ba337d369ed23, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+m
+}
+
+[hash=ba56635faa3466abbb47f32fceb14334, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=c66613987717058683571b7de803ef19, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=2ea33ecfad5f96ffec8cb93a159eac5a, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=776e5af16932bed0a3bf2d21bf3ef61b, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+c
+}
+
+[hash=8ef6bbaa76efb554cf3fd72f1635f555, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=1f2a0aa2c1047ce2a335f2032d1b93df, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=65e2042d7cb86c7b1c813d2f9c07735e, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=4d6897bfaefe6a41f4a15d294d50bfd8, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=faef4f6d5ba1d477c4f1fe0571257031, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+x
+}
+
+[hash=34f9013cec6b76fafcc4e8e68b7f30d0, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=62d282681452f56799361ad7fd6c2fd4, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=98508fbdc330932ff9d8ac40a1941113, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+s
+}
+
+[hash=bd8712816db084984604600b32e31b9b, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=89a3f94f69a74bc7f900479f1ff35e1d, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=71124bc1b45aae331266e4a67f130a26, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=67903e79ca1e0b5aeae4a437cf8fb6b5, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=449e445ccfde056e94bf24bae128d178, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=338793efff68158a87153e5bd414f513, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=6cc2aa3b7b752c0ac35466397e959454, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=b68e18c5a03678a0210b754d315efae0, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+m
+}
+
+[hash=1c9cac64b7870eea55d0700e31fad4ca, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=9b4c07c554fd2639b2d02188a6487b4e, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+s
+}
+
+[hash=0016e2d58d8783a1dd56d0dc3a468dcf, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+t
+}
+
+[hash=2c4d1e9ae525e18a6cc9d1462884a540, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=2a099290118ad69fbba4ba01a96f63a9, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+i
+}
+
+[hash=567c60b3d8b0bda8f9ec3175a94303ee, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=faa337ca2eda8f72b33753bac8c62c6b, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=e576fcb8c85259527fcd12cf53de71df, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+m
+}
+
+[hash=2e1bc301754fed17c7f2b6d69ae8c511, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+e
+}
+
+[hash=102a1d8c69c8d029bb5b6aab336b7202, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=038f6813187e90929e7af485176949c9, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=997529a65dec4fcd0b514407b4d3de2a, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=6ea63fc2121b3586d1d94349bf183645, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=f4c2f8aa5513cbb995aa9f9a76cc5566, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+c
+}
+
+[hash=e23a180cee2227d336b96f7bfe3f3861, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=f4be1518dd1a46db11fe6ab471bf6352, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+c
+}
+
+[hash=d0e793aebfc71638ec4bcd8a251b1505, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=e272fb467409d2a16c382d738273d2ff, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+u
+}
+
+[hash=0e013c68c31c176010b905bde714ce54, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+r
+}
+
+[hash=a1d4251cf30d075bed835680e8775972, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=d08ddc8ffec5ea0d57fa24736a406ed6, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+d
+}
+
+[hash=3088b8defddc2d8c124c81f1bae9abc4, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+a
+}
+
+[hash=048cc99c9fd95c40b0f86d2d499d201b, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=f23365132cff8f8bf873d8fe29195f9a, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=5d181c3c3401e72e8b0872c32a6ca700, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=ea7be435cee7b3bb2a24c3d83a5e1088, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+w
+}
+
+[hash=e02e0761d897a678877ea02c1297b0a6, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+o
+}
+
+[hash=4ea146d89a056d3a08171673f0d6c094, auto_sizing=False, font_size=15.8, char_spacing=0, custom_font=False] : {
+l
+}
+
+[hash=dea74a4f66affbe349f0fc6577de8d8e, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+ドリームセレクトハブ
+dream select hub
+}
+
+[hash=a4fb4bff5adbeec21788ca9a2913d9f6, auto_sizing=True, font_size=41.1, char_spacing=0, custom_font=False] : {
+"Was helping someone load bags of trash into the back of a big boat. Many other people were there and they were yelling to me to drive the boat across the ocean and drop the bags off to make new "islands"(?). As I drove farther everything got foggy and it started smelling really bad. I stopped by a building that took me down a tunnel into a massive area filled with giant piles of trash."
+}
+
+[hash=7c62d396a8a5713df0b559e0e51bab6a, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=a29b04157db69529c64b3c075ae04df7, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=930fbe45040ba20d5e2630de6a641c47, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Tower World
+
+}
+
+[hash=4d077b72526a51e90d71455fa1aac311, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): None</b>
+
+Dream journal excerpt (January 2nd, 2021)
+}
+
+[hash=21281bb36be8c6ad0844bd9ee5aae221, auto_sizing=True, font_size=34.65, char_spacing=0, custom_font=False] : {
+Before the idea for Tower world, I was searching for a way to naturally ease you into the end of the game. This dream distressed me greatly and left me with severe feelings of anguish, so naturally it became the main inspiration for the final level.
+
+During development, I wanted Tower World to act as the culmination of all the previous events, and become a world that was aware of its own existence. A purgatory for dreams and the creatures that live there. Simultaneously, I wanted to give you the moral option to either encourage or dishearten NPCs through a few dialogue interactions. The entire experience revolves around the idea that your character is in their last stretch before waking up, with the world representing the challenge of overcoming unending nightmares and sleep paralysis.
+}
+
+[hash=09ba2e5b7712443399e24f9f2ba55c8c, auto_sizing=True, font_size=41.1, char_spacing=0, custom_font=False] : {
+"Drove to a Sears that was in the middle of a big empty field. When I walked inside, the entrance was an elevator with only one button and the doors behind me went away. The stores were empty but I could hear music and make out people in the distance. After walking around, the mall got darker until I couldn't see anything anymore. I found an open door but tripped and fell into a hole before I could reach it."
+}
+
+[hash=8e7ea38378b50833231723255240d98b, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=cc10bbe7a755f2546f26eb05d62ba485, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=aaabe6c5d3f84bb6320e218e5df6af9a, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): None</b>
+
+Dream journal excerpt (March 19th, 2020)
+}
+
+[hash=d61047592058d232a06ad0aee7d9a37c, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Mall World
+
+}
+
+[hash=4983b26e2b92e90c761cd1f47356c9b1, auto_sizing=True, font_size=34.65, char_spacing=0, custom_font=False] : {
+The origin of this dream comes from a time at an early age when I had gotten lost inside a mall that was near closing time. It's something that's always stuck with me, so it made sense to adapt that experience with this dream and create Mall World. Alongside Haunted World, the two were perhaps the most complex levels to create in terms of both layout and flow, and they went through lengthy concept phases.
+
+Aesthetically, I drew a lot of thematic and visual inspiration from early 90's neon designs. There are also a myriad of random easter eggs found throughout. All of the quirky store names were created using a random pun generator. The skittles pizza in the foodcourt and items in the hidden arcade are references to a variety of streamers. The arcade cabinets themselves showcase every game I've ever created as an independent developer.
+
+There's also an abundance of references to the concept of liminal spaces, a famous one of which can be found hidden somewhere within the world. The crying child you find in the dressing room is a callback to the time I was lost in the mall at a young age.
+}
+
+[hash=59e60acd64401cdb4b3998dc7094d396, auto_sizing=True, font_size=33.7, char_spacing=0, custom_font=False] : {
+"Was laying down in a Victorian-era style room. It was storming outside, and a woman wearing a big dress was standing in the corner with her back to me. I got up and left the room without saying anything to her but when I looked back she was gone. I walked through hallways which had no ceilings or windows, and that kept turning corners repeatedly. I found a fenced-in area with an elevator that I got in and took down multiple floors until it stopped, opening up into a pitch black room."
+}
+
+[hash=2956d9f0e25a6da8d7930e4a5d615188, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=9a2800df3d3afb25922ff4d2c49fa134, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=1813e1f6d0741cbf4c8bd0e839c497a9, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Haunted World
+
+}
+
+[hash=6d460d1b3f54464b3fa0d29988ec503a, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): School World, Candy World</b>
+
+Dream journal excerpt (September 1st, 2020)
+}
+
+[hash=12767c8413c00c136b3e888dd0759bed, auto_sizing=True, font_size=33, char_spacing=0, custom_font=False] : {
+This may have been my most haunting nightmare in recent memory. With that in mind, I decided to create Haunted World using it as a base of inspiration. The exterior location was an after-thought during development, which I felt added a nice amount of build-up before entering the mansion interior.
+
+Similar to the actual dream, this world is about walking through a living, changing building. While developing this level, my main goal was to create a slow but tense build-up of terror and also pay homage to classic horror tropes. As evident throughout, there are many references to my favorite horror games, most notably Silent Hill and Amnesia: The Dark Descent. The hanging body room is a reference to the removed Karazhan Crypts area from World of Warcraft.
+
+The exterior secret world is a recurring nightmare I have about being in my old highschool at night while a tall, black-haired figure is always present. I began sketching the figure after experiencing the dream so often, and the 3D model is a 1:1 representation.
+
+The interior secret world was also an after-thought, as I wanted to both give you a (slightly) pleasant place to explore after leaving the mansion basement as well as establish some additional lore for the Ghost King character.
+}
+
+[hash=cf9b443b72f091087cb36303074d11d9, auto_sizing=True, font_size=41.1, char_spacing=0, custom_font=False] : {
+"Got lost in the tubes at one of those kid playplaces. The tubes were really brittle and kept shaking loose any time I crawled along any. Kept crawling all around and had no idea how to get out. Every so often there would be random toys or figures laying on the ground that would be looking at me. At some point I came to a dead end, but it was a clear plastic window you could look out from. There was a massive blinking eye looking back at me from the outside."
+}
+
+[hash=f03cd1edd169867e00c0ce4ef6ea608a, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=ee79d9043f7f96f761edd9e15b568b2d, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=65b3ecc9cf9ed0a72cff99e485e91f31, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Space World
+
+}
+
+[hash=330e7f6235fcfe8822674239c9b5d6d3, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): None</b>
+
+Dream journal excerpt (July 29th, 2019)
+}
+
+[hash=30943bebcd13e5402ace75883754c3ca, auto_sizing=True, font_size=36.5, char_spacing=0, custom_font=False] : {
+This was another dream I woke up from in a cold sweat, giving me a lasting feeling of dread. From it came the idea for Space World, in which I tried to amalgamate the actual dream with elements of scifi. It's at this point I brought the game into a very distinct existential direction. The shapezoids were drawn from the weird toys I kept finding throughout the tubes, and the final path before the "Eye" representing the feelings I had after waking up.
+
+While developing Space World, I wanted to make everything modular. Every style of tube is interchangeable with one another, allowing me to build as much as I wanted without creating tons of unique assets. Much of the dialogue was derived from a few of my general cynical or skeptical views of the real world, with the theme of "eyes" being a representation of always feeling watched.
+
+The blackhole outro sequence is also directly related to my irrational fear of them and other incomprehensibly massive space objects (melanoheliophobia). I occasionally have extremely vivid dreams where these objects make an appearance.
+}
+
+[hash=20f1f144dc879f4ffb45eb30d781bf40, auto_sizing=True, font_size=40.3, char_spacing=0, custom_font=False] : {
+"Was walking in a crowded downtown city. I couldn't see anyone's face and there were tons of people sat in ragged clothes along the sidewalks. It was raining and storming, but the rain started turning into snow. Things started getting brighter and I started feeling cold. I tried to talk to a few of the people on the sidewalk, telling them they didn't have to be here, but they didn't look at me and were crying."
+}
+
+[hash=99c84665ba6149c5fa2d5e2467efd2a1, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=740c8fa28de2ef66ecd21b9953b5b258, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=f8ef357202d11ba5a9668295a3ff071d, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Ice World
+
+}
+
+[hash=7c23c2c14cc49e6118264d07f482f550, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): Desert World</b>
+
+Dream journal excerpt (December 7th, 2020)
+}
+
+[hash=21fb52b0f27be9f8848a9b2d139cfc44, auto_sizing=True, font_size=39.9, char_spacing=0, custom_font=False] : {
+This was one of the many dreams I've had were I woke up feeling incredibly sad. I originally wanted to give the entire game an easy-going, happy tone, but at this point during development, I decided to change to the idea of gradually making the worlds more bleak and emotion-driven.
+
+Ice World was inspired mostly by the dreams I've had of feeling cold and distant towards the world and other people. I wanted to reflect this in the dialogue mostly, but also wanted to give you the chance to be uplifting. The dog you can pet was based on a real husky my uncle had that I was very fond of as a kid.
+
+In the secret world, I wanted to embed even more character into Ice World's ethos. so I went with the idea of a parallel, time-locked dimension of Ice World which takes place before the endless snow began falling. Ultimately creating a paradox between your actions and the events that determine Ice World's fate.
+}
+
+[hash=43e35ec39189aacaf97a2e7a886df341, auto_sizing=True, font_size=41.1, char_spacing=0, custom_font=False] : {
+"Was standing in a forest with extremely dense, closely compacted trees. The ground was covered in different soft mushroom looking things, and they felt like carpet when I walked over them. It kept going from dusk to dawn and back to dusk very quickly, and I felt really tired and dizzy while trying to find a way out. A tree was trying to give me directions but didn't make any sense, and I kept laughing at it everytime it said something."
+}
+
+[hash=cae3d6eae0700318c693f68f2d67d818, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=4d3912ec70ce78c1cc258a34bbc61051, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=647a7259474fd69e825f1e2f8301420c, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): Forest World</b>
+
+Dream journal excerpt (May 17th and May 18th, 2020)
+}
+
+[hash=c2bc4c96c3f2101e391411c213fe8a0d, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Mushroom World
+
+}
+
+[hash=040e65c8bae6827f8eec140f2cb74f8d, auto_sizing=True, font_size=35.45, char_spacing=0, custom_font=False] : {
+Occasionally I'll have a dream that I wake up from, then can continue them from where they left off. During two seperate instances of the dream, I remember continuing to find a way out of the forest, but never could. When designing Mushroom World, I wanted to take from the dreams the concept of the lush forest, but make it feel more like a comfy home, rather than a confusing maze. The strange tree would also come to be the "Weird Door" character, found blocking entrance to the hidden pyramid.
+
+This world initially started off much smaller than it turned out to be, with the pyramid structure sitting just on the other side of the bamboo wall! But after realizing how little you experienced in that time, I expanded the forest paths and activities greatly.
+
+The mushroom aspect was something I aimed to be the focus, and being a fan of Super Mario 64, wanted to bring in a bit of inspiration from that as well. I loved the idea of a kind and humble mushroom village that treats you like an old friend, and contrast to the dream it's base on, to give you a sense of belonging and curious wonder.
+}
+
+[hash=c532ece806a56667dc0e3bc6477e1e9a, auto_sizing=True, font_size=41.1, char_spacing=0, custom_font=False] : {
+"I was floating on my back in a massive shallow pool. I couldn't move or do anything but look around, and the water gradually got faster and faster. Looking up I could see the ceiling, but it appeared as the ground, kind of like I had my back to the sky. It was far away and I could feel a mist on my face. There were different sized shapes such as cubes, pyramids, and spheres resting on the surface."
+}
+
+[hash=b7ca18eaa5b981d5d104ce2951eeb9a0, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=e51f3a6234a0ccc5a23af2e799c2abc4, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=4185b567a9234ab1126e9c341a1f4dd3, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): Underwater World</b>
+
+Dream journal excerpt (March 29th, 2020)
+}
+
+[hash=31bc430bcefb3941cdb2824fb3e3163f, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Mist World
+
+}
+
+[hash=3e70e5dc54c1475cfb356574e29556a2, auto_sizing=True, font_size=40.8, char_spacing=0, custom_font=False] : {
+I remember this dream causing me some pretty bad sleep paralysis. Although nothing terribly bad came of it, I recall in the dream having a struggle between feelings of both ease and frustration. During development of Mist World, I wanted to parallel those feelings in the form of a calm, relaxing bed of water while an imposing whirlpool sat in the middle.
+
+Much of the design was also derived from my love of the vaporwave aesthetic. I liked the idea of having these busy snake-like creatures be the caretakers of the water, while also trying to instill some off-hand advice to stand up for yourself or not be so busy.
+
+The secret world is more or less an inversion of Mist World, pitting you against a feeling of dread, confusion, and misguided trust. Ultimately you're faced with overcoming an extremely uneasy and tense-filled encounter.
+}
+
+[hash=b67588d6db62f93b64e59f434ec13b6a, auto_sizing=True, font_size=41.1, char_spacing=0, custom_font=False] : {
+"Was in a narrow underground tunnel with a group of friends. We were mumbling to each other about our jobs and how much we hated working, but had to anyways because of the "state of the economy". There was a lot of echo when we spoke and it sounded like we kept repeating ourselves. At some point I heard some loud rumbling and then a crash. Woke up after."
+}
+
+[hash=81a8cdb3047a420f9f364a45107ac2b3, auto_sizing=False, font_size=30.9, char_spacing=0, custom_font=False] : {
+/
+}
+
+[hash=25d672127ec5c574929a18aa5707487b, auto_sizing=False, font_size=35, char_spacing=0, custom_font=False] : {
+return
+}
+
+[hash=3ee3917d4f2c0849ade072982b4483b8, auto_sizing=True, font_size=46.95, char_spacing=0, custom_font=False] : {
+This dream inspired me to create Cave World, which was the first area made during development. I originally wanted some sort of slug-type creatures to populate the world, but after doing a few more concepts eventually landed on the goblinoid characters. This NPC style went on to reoccur with mildly different designs that I really liked and thought it fit the game well.
+
+The flow of the world involves a lot of commentary regarding unpleasant working conditions, greedy bosses, and micro-management. I realized while drafting the dialogue how relatable it was to me, and ended up adapting it with an exaggerated version of itself in the form of the secret world hidden within.
+}
+
+[hash=948a9c390ce40ca18eeb1e1cba357974, auto_sizing=False, font_size=33, char_spacing=0, custom_font=False] : {
+<b>Secret Dream(s): Hell World</b>
+
+Dream journal excerpt (February 12th, 2020)
+}
+
+[hash=a47c70468ccf8612f1e30a6c8b9b9061, auto_sizing=False, font_size=50, char_spacing=0, custom_font=False] : {
+Developer Commentary - Cave World
+
+}
+
+[hash=c9e3f5a86fa1424cd3e5c5aa60b11e6d, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Character Model Gallery
+}
+
+[hash=72c105b8b75482e6300fed05407a01c7, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Rejected
+}
+
+[hash=24294c63f8e885b4159988a71fb290b3, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=618763c50b96ce5079bf4856c1ab3fc0, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Gummi Guys & Gals
+}
+
+[hash=2d1c0d986c53f4dd1935796e837bce67, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Mayor Morel
+
+}
+
+[hash=7199a8631f5cdaf20d8fc99031462d2c, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Mimic
+}
+
+[hash=dbdd5fb3490d63652ea08e4216d508bb, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Stan the CEO
+}
+
+[hash=49b3b84c280b2ca56c2db9ba41358330, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=7c7a9ee68ed97465dcc3f6194bea3ef3, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Weird Door/Thera
+}
+
+[hash=601971dc51f8fa4b5f159b8ee0ac09af, auto_sizing=True, font_size=22.15, char_spacing=0, custom_font=False] : {
+Oceanwerks Research Team (ORT)
+}
+
+[hash=e91e7679bca60f13d0a70bc76154cf9b, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Desert Dwellers
+}
+
+[hash=54deab23fa9a167e89bb04715f850595, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=a14d9c428c175a557623c2f3ce5370a1, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Mushroom Villagers
+}
+
+[hash=b033a78829afc68520fcdc9ac0516017, auto_sizing=True, font_size=27.75, char_spacing=0, custom_font=False] : {
+Gate Keeper Intermediary
+}
+
+[hash=9b8b893c174c6f9c4722187c6da570b6, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Shivering Settlers
+}
+
+[hash=d8df2f21caec8e632e0fcaedcf4c0444, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Cave Sage Bernard
+}
+
+[hash=3d77251b5d773d451b298b00de066466, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Grimthorn
+}
+
+[hash=d7c2112af5e6469eaf9288b2cf3e1030, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+King Candy
+}
+
+[hash=46cf926f55a0350bfcc2e7f577a11dce, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Telemarketers
+}
+
+[hash=fc140e7f3ce844b3ead088cee4463d6c, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Shapezoids
+}
+
+[hash=665ca9c174d2d5d87cf839605e495c57, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Coelacanth
+}
+
+[hash=3be81342d1952e219dabc86051e26145, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Kel'Dras the Lost
+}
+
+[hash=32e2a60a1d8a28806fe92cec89ec4c01, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Lost Ones
+}
+
+[hash=06f214e66108c3801c2260a46f7d8d7a, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Great Beast Edax
+}
+
+[hash=c5908f1636f0a9ec940d5d4642fa9f4f, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=ff5d07fb59dff285bceba756d194bb17, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Gogi
+}
+
+[hash=6826af144513c3c47c35b724f1b1432e, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Dream Catcher
+}
+
+[hash=c0a15310f0daecf0636cd6ef7595cf1b, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Hypno
+}
+
+[hash=ab4503d1126706802db67e9ec3c5285a, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Mansion Phantoms
+}
+
+[hash=6316820cef0eddf531affb19fc930901, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Heckler
+}
+
+[hash=1400309cea370987a35cd4791d6ee656, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Water Serpents
+}
+
+[hash=e6005b2782e425543e5c6900c848c4c2, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=05723b45bb28f3668dacf7bbbf969d93, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Cinematic Development
+}
+
+[hash=f7cd08977d43365cff7a57114bb9d6de, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Ghost King
+}
+
+[hash=6c61e5dbf42f9b61a2e64d9ba4150975, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=b21fd9c0099fa776dc2d9ffea0806775, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Cave Worker Goblinoids
+}
+
+[hash=57ffe71206ba86c63d3e7d6df0f1ddd1, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=0d6bb095ed37a9f2cfedf868511da49d, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Groundsman Grady
+}
+
+[hash=a3b56aa1768e0fbf41899f23f06dc422, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Foreman Fran
+}
+
+[hash=9b32ced8230f1bf3931b6fbf2e5ec610, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+The Dreamer
+}
+
+[hash=777c689cf51a5086a9c300a987bfd57a, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Sleep Paralysis Demons
+}
+
+[hash=bd9dbaff8fb2b2983d0014b1030b35b0, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Eden
+}
+
+[hash=b49732b676bb6093467f191395b9c552, auto_sizing=True, font_size=28.4, char_spacing=0, custom_font=False] : {
+Did you know?
+}
+
+[hash=41e6a60b6b828cdd84bc8ea1f0952568, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=False] : {
+Appearance: Hell World, crumbling perch
+Polygon count: 212
+Unique animations: 3 (not all shown)
+
+The "bodyguard" of Hell World's underworld telemarketing company. Just like his namesake, Heckler prefers to sit back and hassle anyone who disturbs his routine napping. Unfortunately he succumbs to a slow demise via hot, swelling magma after recklessly destroying his own perch using his eye-laser.
+
+Heckler has an obvious amount of inspiration taken from the "Bullies" in Super Mario 64, both in design and personality. I originally wanted to give him a more dynamic boss fight, but due to lack of development time was cut down to a scripted sequence.
+}
+
+[hash=6f9f83a54cc281a8b56bb34ceadc4563, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=False] : {
+Appearance: Haunted World
+Polygon count: 202
+Unique animations: 3
+
+These disturbing but harmless specters dwell eternally within the Haunted Worlds Helmsfield Manor. Due to a dire mistake their king made long ago while they still walked among the living, they float restlessly through the halls whispering strange and cryptic messages to passersby. The many who weren't lucky enough to escape death hang petrified and mutilated in the manor's basement's basement, forever left to never see the light of day again.
+}
+
+[hash=a3329831cccf88f21164e3617f4eb312, auto_sizing=True, font_size=10.3, char_spacing=0, custom_font=False] : {
+Appearance: Hub World (vulture form), Ending Cinematic
+Polygon count: 930
+Unique animations: 13+ (not all shown)
+
+Claiming to be the dreamscape's "guardian", Hypno takes on the responsibility of overseeing the Dreamer and their journey's progress. Her moral compass is ambigous at best, consistently offering questionable advice and opinions on various worldly topics. Hypno believes Gogi's role of protecting the Dream Crystal unsuitable, stating that he is untrustworthy and intentionally disappeared when he was needed most. She can occasionally be seen perched in the distance, watching the Dreamer, or wearing a wide-brimmed witch's hat.
+
+Bonus: Hypno was originally going to use the model of the Gate Keeper character, but I didn't feel like she was imposing enough. Ultimately I went with the idea of a shifty-looking vulture creature.
+}
+
+[hash=557f21922228d2f43e041093140abdcf, auto_sizing=True, font_size=11.3, char_spacing=0, custom_font=False] : {
+Appearance: Tower World, tower summit
+Polygon count: 994
+Unique animations: 3 (not all shown)
+
+The creator, the destroyer, and the controller of everything within the dreamscape. While they both embody and encompass all forms of abstract matter, they intentionally neglect to manipulate the events within a dream, preferring instead to have the Dreamer solve problems on their own. Their main function is to prevent the Dreamer from dying (by falling or otherwise) and guide them using non-obtrusive methods, including laying strict paths or creating a tool needed to progress.
+
+Bonus: The wings of The Dream Catcher are reused portions from Hypno's model.
+}
+
+[hash=7153de95d757fb89f09487498b33185e, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=False] : {
+Appearance: Various cutscenes, Ethereal Crux
+Polygon count: 394
+Unique animations: 46+ (not all shown)
+
+The true guardian of the dreamscape, Gogi is a virtuous being of absolute purity. Gogi's sole purpose is to watch over the ethereal Dream Crystal and ensure it stays intact at all times. Whenever something is amiss, he is awoken from his deep sleep to investigate. The bell Gogi wears is a symbol of the purity of dreams, and holds a supernatural source of power that quells darkness only in the most dire of situations. To every individual dreamer, there exists a unique version of Gogi who protects them.
+}
+
+[hash=aa0ee770f9f57a68b8dd8d25cef4658b, auto_sizing=True, font_size=16.65, char_spacing=0, custom_font=False] : {
+Every character and environment model was made using the 3ds Max modeling program. Details for the low poly models were then sculpted and painted in Zbrush. Once unwrapped, they went through a texture baking process using xNormal.
+
+The low-fidelity look of the textures were created using Photoshop and then crunched down to sizes at or below 256x256 pixels.
+}
+
+[hash=bad8035f03dff544b37b9c2cd08ab302, auto_sizing=True, font_size=12, char_spacing=0, custom_font=False] : {
+Appearance: Underwater World, sealed chamber
+Polygon count: 1586
+Unique animations: 4 (not all shown)
+
+An unspeakably abominable creature, birthed from the furthest depths and full foul in her uncontrollable desire to consume as much as incomprehensibly possible. While still in her early life and with much less strength, she was captured and confined to the magically-sealed temple prison by a race of squid-like cephalapod people. Since then,  her growth slowed exponentially with her only food being water pollutants. Over the course of a millenia, her insatiable hunger began killing her slowly, until she was able to manipulate the Dreamer into releasing her back into the open waters.
+}
+
+[hash=dfb22183ff16b4dc1bd297753ba651af, auto_sizing=True, font_size=13, char_spacing=0, custom_font=False] : {
+Appearance: Haunted World, School World, Mall World
+Demon polygon count: 476
+Hand polygon count: 118
+Demon unique animations: 8
+Hand unique animations: 3 (1 unused)
+
+Pitiful and haunting amalgamations created from the fears of dreamers. They appear in places where any amount of fear or unease is present, no matter how subtle. Their only purpose is to keep the Dreamer from waking up, to keep them asleep forever. The Dream Catcher ophanim is the only thing preventing them from reaching that goal.
+}
+
+[hash=57d1a44d6829556f03627189f0aed481, auto_sizing=True, font_size=11.05, char_spacing=0, custom_font=False] : {
+Appearance: The game's protagonist
+Polygon count: 488
+Unique animations: 24 (not all shown)
+
+A being from the outside world, temporarily existing and traveling between dreams in the hopes that they will ultimately awaken. The events of <i>Hypnagogia: Boundless Dreams</i> began when the Dreamer fell into a deep sleep from within the real world, after which they were summoned by the seraphim Dream Catcher. In their own personal world of hypnagogic hallucinations, there the Dreamer remains trapped until the fractured Dream Crystal is reassembled. Their morals, actions, and personality are dictated by the person controlling them - you.
+
+Bonus: The Dreamer began as a repurposed human model from the "City World" level in the first <i>Hypnagogia</i>.
+}
+
+[hash=b94b4ba3bf4f1b57a80942cf30486f74, auto_sizing=True, font_size=18.5, char_spacing=0, custom_font=False] : {
+There were many references and inspirations used for the design of <i>Hypnagogia: Boundless Dreams</i>, most of which are from videogames of the mid to late 1990s.
+
+A few include Silent Hill, Crash Bandicoot 3, Super Mario 64, Ape Escape, Megaman Legends, Metal Gear Solid, and of course, LSD Dream Emulator.
+}
+
+[hash=7ef33f13c38bd847cf087965dc3ce687, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=False] : {
+Appearance: Underwater World, treasure room
+Polygon count: 205
+Unique animations: 5 (not all shown)
+
+Despite her imposing appearance, Eden is a kind and humble creature. She began living worry-free in the forgotten temple ruins, but took it upon herself to become its "guardian" after learning the existence of Edax's imprisonment there. She attempts to befriend every passerby she can, bringing subtle warnings to any who dare to explore the temple's deeper rooms. Due to her old age and frail body however, she was only able to defend the Dreamer from Edax for so long before becoming a meal herself. She will always be remembered.
+}
+
+[hash=d6976a1b63544bbd570c168dfceb19bf, auto_sizing=True, font_size=14.05, char_spacing=0, custom_font=False] : {
+Appearance: Cave World, main chamber ridge
+Polygon count: 490
+Unique animations: 1
+
+The greedy and impatient boss of Cave World's workforce, she rules her "employees" with an iron fist. Fran has one goal in mind: getting ahold of a missing dream crystal shard. After discovering it floating in the mine, the fragment began imposing a negative affect, amplifying her already corrupt mind to new heights. She doesn't get her way however, thanks to the combined efforts of the Dreamer and Bernard the cave sage.
+}
+
+[hash=400c5453bd414e90f2614e8fe2621490, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=False] : {
+Appearance: Throughout Cave World
+Polygon count: 565
+Unique animations: 6
+
+Understaffed and underpaid workforce of Cave World. Laboring under the intense Foreman Fran, the goblinoid workers generally hate the mining life, but are too indifferent or lazy to care about doing anything else. They'd rather do the bare minimum, grab their paycheck, and kick it back home as soon as their shift ends.
+
+Bonus: The model you see directly right of this info box is the very first character made for the game, and was an early attempt at going for a much lower design fidelity.
+}
+
+[hash=fd1107a99b933eff27febb576ca61957, auto_sizing=True, font_size=20.95, char_spacing=0, custom_font=False] : {
+There were over 300 unique textures created for the game's different worlds. Most were created from scratch, such as the ones seen in Space World or Candy World.
+
+Others were created using a basic foundational texture found on textures.com.
+}
+
+[hash=4d7d9b5c9938844558eda6d6095290c9, auto_sizing=True, font_size=13, char_spacing=0, custom_font=False] : {
+Appearance: Haunted World, Candy World
+Polygon count: 544
+Unique animations: 4
+
+Before the dire mistake his kingly friend made, Grady lived a life of seclusion and solitude in a world gone mad. Cynical, pessimistic, and grumpy, he saw his king's acts as vile and shameless, but could do nothing to stop him. After being wrongly convinced his actions would help others, Grady was forced by the king to work eternally as a groundman for Helmsfield Manor. He now buries the many that expired at the hands of the foolish king.
+}
+
+[hash=370888d57eb1475b299689f38f8b8fe7, auto_sizing=True, font_size=19.7, char_spacing=0, custom_font=False] : {
+Nearly 400 unique models were created for the game, including characters, props, pickups, and level assets.
+
+Many share their textures using a <b>texture atlas</b> in order to cut down on the number of individual files needed for the game to process.
+}
+
+[hash=4e56cd2e04483bdcbadc431863e76a7d, auto_sizing=True, font_size=13.35, char_spacing=0, custom_font=False] : {
+Appearance: Haunted World (dead), Candy World (alive)
+Polygon count: 460
+Unique animations: 2
+
+Separated from his precious heart due to an unforgivable mistake he made long ago, the Ghost King slowly became one with the decaying Helmsfield Manor. An avid explorer in life, he discovered a fragment of the Dream Crystal. He obsessed over it so much that he neglected to care for anything else, forgetting his true passions and goals until his untimely death. Once a kind, noble soul, now a rotting, destitute shell of his former self.
+}
+
+[hash=3e4919567ad3b6c9e29a84619e4a98a1, auto_sizing=True, font_size=14.05, char_spacing=0, custom_font=False] : {
+There are a total of 9 cinematic cutscenes throughout <i>Hypnagogia: Boundless Dreams</i>, totaling around 16 minutes long altogether. Each one has their own unique, individual set of character animations.
+
+Animations were rigged and baked using 3ds Max, then exported into their respective scene in Unity. A lot of back and forth was done between programs to ensure animations were timed and matched properly with one another. Out of all other development tasks, creating cutscenes I was satisfied with took the most amount of time.
+}
+
+[hash=6dc33d4015743e309234bae1ca4779bc, auto_sizing=True, font_size=17.2, char_spacing=0, custom_font=False] : {
+<i>Hypnagogia: Boundless Dreams</i> is a follow-up to the previous game, known simply as <i>Hypnagogia</i>. It was released for free online in November of 2020 as a submission to the LSD Game Jam.
+
+Much of the content in that game showcases the foundational beginnings of what would later become <i>Boundless Dreams</i>.
+}
+
+[hash=e0a98ecc2b294837722adb93a3f6b498, auto_sizing=True, font_size=13.25, char_spacing=0, custom_font=False] : {
+Appearance: Mist World
+Polygon count: 150
+Unique animations: 5 (not all shown)
+
+The busy and focused snake creatures of Mist World. Their jobs from the moment they reach adulthood is to monitor their appointed aquaducts, ensuring nothing stops the waters from flowing or changing colors. They perform their duties for life, and are prepared to humbly test any outsiders who wish to use their mysterious waters. Depending on their hue, each serpent has a different personality and may appear assertive or passive.
+}
+
+[hash=a8d06700a0aa7bf2f9efffaabad491be, auto_sizing=True, font_size=22.15, char_spacing=0, custom_font=False] : {
+The wall paintings you find in the Haunted and Candy worlds were generated by an AI using different text-to-image prompts.
+
+The quality of the results felt perfect for the uncanny and bizarre dream setting, so they were displayed.
+}
+
+[hash=4300f9163468d5cbc67fd5f7cec8cdcb, auto_sizing=True, font_size=10, char_spacing=0, custom_font=False] : {
+Appearance: Mushroom World Pyramid
+Polygon count: 9 (door form), 618 (golem form)
+Unique animations: 5
+
+The sentient and bashful stone door of Mushroom World's pyramid ruin. Unremarkable at first glance, but when approached, this spunky hunk of rock can't help but get attached to the unprepared adventurer. The Dreamer catches them off-guard however during their travels, and manages to beat the door in a test of riddles. Although it's been said getting to know them a little better helps pass a different test...
+
+In Forest World, the dreamer meets back up with a different form of the weird door while in one of their own dreams, and it becomes apparent that even there they still show some hidden feelings for the dreamer...
+
+Bonus: This was originally going to be a one-and-done interaction, but after hearing player responses this led to the door getting much more personality and dialogue in an update.
+}
+
+[hash=a89a8a422245e94edd0749b3f0651d52, auto_sizing=True, font_size=13.45, char_spacing=0, custom_font=False] : {
+Appearance: Every main world, Ending cinematic
+Polygon count: 322
+Unique animations: 6 (not all shown)
+
+A puppet created by Grimthorn in the image of Gogi in order to trick the Dreamer. Stitched together from dried skins and stuffed with fleshy masses, the Mimic was given everything but a brain. Through its lack of intelligence, it fails to reclaim the lost Dream Crystals for Grimthorn, instead becoming distracted by each of the colorful dream worlds. Although it doesn't start out inherently evil, it develops a craving for malice after being inevitably betrayed by its evil overseer.
+}
+
+[hash=ab5e8476056d4f0c077f6e79b04dfb0e, auto_sizing=True, font_size=13.85, char_spacing=0, custom_font=False] : {
+Appearance: Mushroom World, hidden spring
+Polygon count: 366
+Unique animations: 1
+
+You'll be hard-pressed to find a mayor as laid-back as Mayor Morel. As leader of the Mushroom World village, he keeps the stress down by staying worry-free among the rest of his fungus friends. He's not without his wisdom however, and believes sentimental appreciation is one of the more genuine aspects of life. His assistant, Mung, normally handles all his busy work but just can't seem to help himself from telling a bad joke or two every so often.
+}
+
+[hash=248af38120fbf0c36265a08695549a08, auto_sizing=True, font_size=12.9, char_spacing=0, custom_font=False] : {
+Appearance: Hell World, mountain summit
+Polygon count: 722
+Unique animations: 4 (not all shown)
+
+Stan's his name and slowly but surely claiming every fungible and non-fungible asset he can find is his game. Having amassed a virtually infinite wealth of money and employees, Stan calls all the shots from his mountaintop lava hot tub. Fortunately for the Dreamer, Stan isn't very keen on common sense, and gets his influence revoked after being terminated by his own incompetence.
+
+Bonus: Stan's model is a slightly altered version of King Candy.
+}
+
+[hash=5bdd26336182a9abacf0f6f204821392, auto_sizing=True, font_size=19.35, char_spacing=0, custom_font=False] : {
+There were over 3000 lines of dialogue written for interactions and dialogue with the world's characters.
+
+The majority of text was created before the levels were, and greatly helped establish character personalities and where or what they would be doing when you met them.
+}
+
+[hash=1cc1ae1cd5321a8481db1118c67966da, auto_sizing=True, font_size=13.55, char_spacing=0, custom_font=False] : {
+Appearance: Throughout Tower World
+Polygon count: 700
+Unique animations: 5 (not all shown)
+
+The decaying race of different creatures inhabiting Tower World. Each one at some point fell asleep in the world outside the dreamscape, but never woke up. Over time they slowly became one with their dreams, until the dream crystal fractured and turned them into nightmarish husks of their former selves. Like the Gate Keepers, they too become increasingly disfigured, their skin becoming featureless meat, the further they try to leave the purgatorial plane.
+}
+
+[hash=2a36c9ebc50c3034824ef6abb88452fb, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=False] : {
+Appearance: Candy World
+Polygon count: 528
+Unique animations: 8 (not all shown)
+
+Cute, sweet, and gullible, the Gummi villagers of Candy World live happily under the rule of King Candy. When he discovered a lost fragment of the Dream Crystal, the king used the imbued powers to erase the humanity of his followers, transforming them into subservient followers to rebuild his world into a paradise of confectionaries. However, many can be found relaxing, lazing off, or performing tasks at their own pace, making them not so suited to work for the kingdom's undergoing construction. Because of this, the king uses the Dreamer to convince his old hermit friend to help lead his new world order.
+}
+
+[hash=ffd4920fe1ef8d23f4b91ae0bb14ee98, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=False] : {
+Appearance: Intro cinematic (for a few frames)
+Polygon count: 1710
+Unique animations: 1
+
+If you played the original <i>Hypnagogia</i>, you'll remember this guy from the water dream "Learn to Swim". Due to the time constraints of the game jam the game was made for, not a lot of care was put into the creation of the Coelacanth, so his polycount is outrageously high in comparison to the other aquatic creatures you see here.
+
+Still, he makes for a good side-by-side when noting the difference in model quality between the first and second games. He's also got quite the loveable face!
+}
+
+[hash=5f767bfaf3d517a83ac7b5fcd63b5925, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=False] : {
+Appearance: School World
+Polygon count: 658
+Unique animations: 8 (not all shown)
+
+A body of forgotten souls that live within School World. These horrific fiends remain in places of undesired memories, reliving their own nightmares of abuse and mistreatment. Unable to leave the school dream, they hopelessly scavenge for anything that may help them escape. Realizing the Dreamer had fallen into their world, the Lost Ones ensured it would be a mistake to remember.
+
+Bonus: The design of this character is nearly 1:1 with a creature that was seen in the real-world nightmare the School World was based on.
+}
+
+[hash=591d4fcbae3ad2e242778b26f9244795, auto_sizing=True, font_size=11.05, char_spacing=0, custom_font=False] : {
+Appearance: Underwater World, in the belly of the beast
+Polygon count: 828
+Unique animations: 6 (not all shown)
+
+A time-lost cephalapod denizen, Kel'Dras once belonged to a noble kingdom who held the responsibility of detaining the Great Beast Edax after her hunger lost control. He was one of the first victims of the monster, but unlike the rest of his home, he was not killed. Instead falling whole into its belly, becoming suspended in an unmoving flux of time. Never to hunger, never to sleep, and never to die, he sits and waits for another of her unfortunate meals to be his ticket out. He may be waiting for a long time.
+
+Bonus: Kel'Dras is based off the statues found throughout Underwater World.
+}
+
+[hash=d142ede1df7fbc73dc3cac11e7573009, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=False] : {
+Appearance: Space World
+Polygon count: 234
+Unique animations: 4 (1 unused)
+
+An elusive and pragmatic race of technological-minded creatures, inhabiting a series of deep-space tubes. They claim to know exactly how the universe works, but are unable to describe it into words. Their actions and philosophies are dictated by an all-encompassing and omnipotent "Eye", that transcends space, time, and matter.
+
+There was originally going to be one of these shown performing various unique tasks throughout the Space World tubes, but was cut due to lack of development time.
+}
+
+[hash=3c2e1aa303328f46f7dcbea590f03edf, auto_sizing=True, font_size=13.75, char_spacing=0, custom_font=False] : {
+Appearance: Throughout Hell World
+Polygon count: 628
+Unique animations: 8 (not all shown)
+
+Soulless, corporate, and locked under an eternal contract with Stan the CEO, these demons spend their workdays (which is all day) spamming real-world people with sketchy deals over the phone. There's nothing they wouldn't do for a shot at a promotion, including trading their own grandma for trashy block-chain crypto. Among the dregs is Chet, the stakeholder and call center lead, who is quickly dispatched into boiling lava by the Dreamer after being fired.
+}
+
+[hash=598533cd96335991896988547ccc1b86, auto_sizing=True, font_size=12.2, char_spacing=0, custom_font=False] : {
+Appearance: Candy World, castle (alive), Haunted World (dead)
+Polygon count: 692
+Unique animations: 1
+
+Despite his status as king, Candy claims to be the coolest ruler out there and his Gummi followers are more than happy to back this up. He's not without his history however. As an avid explorer long ago, Candy discovered and obsessed over a lost Dream Crystal fragment, letting the power warp his mind and personality beyond recognition. Over time, he became interested in transforming his kingdom into a land of sweets and candy. Using the fragment's power, he sapped the world of all natural life, causing a cataclysm that would lead to the downfall of the realm and eventually his life. 
+}
+
+[hash=8b5d8523931bd3f6a41a37d87a553c41, auto_sizing=True, font_size=11.5, char_spacing=0, custom_font=False] : {
+Appearance: Mushroom World
+Polygon count: 446 (including spear and backpack)
+Unique animations: 7
+
+The tiny toadstool dwellers of Mushroom World. They have a knack for exploring, gardening, and generally loafing around. A kind and inquisitive race with a take-it-slow approach to everything, enjoying life outdoors and with friends is how they spend their time. The most notable villagers include Toadstool Tommy, the rambunctious youngster; Freckle, the local green-thumb gardener; and Explorer Niles, a scout who loves a good adventure.
+
+Bonus: The model to the left of this sign was the first pass on the mushroom villager. I didn't like how you couldn't see their mouth, so I went with the redesign.
+}
+
+[hash=aaba68caba298aceefe4e4a805a6c7bd, auto_sizing=True, font_size=19.45, char_spacing=0, custom_font=False] : {
+It took 8 months and 28 days to create <i>Hypnagogia: Boundless Dreams</i>, totaling 257 days. On most days up to 8 hours were spent conceptualizing, designing, modeling, writing, and playtesting the game.
+
+Much sleep was sacrificed!
+}
+
+[hash=535aff69e693026c7efdbba3382a42b2, auto_sizing=True, font_size=12.7, char_spacing=0, custom_font=False] : {
+Appearance: Hub World (vulture form), Ending Cinematic
+Polygon count: 872
+Unique animations: 30+ (not all shown)
+
+The nefarious and cunning apex predator of the dreamscape. Grimthorn is the embodiment of all things which turn pleasant dreams into wretched nightmares. After the Dream Crystal was finally reassembled by the Dreamer, Grimthorn's true form is revealed to have been Hypno all along, manipulating events for her own selfish goals. She wishes for nothing more than complete control over the dreamscape, and to turn the world into a place of total, loathing darkness. Thanks to Gogi's profound ethereal sacrifice, Grimthorn's goal of domination was made fruitless.
+}
+
+[hash=1b9b0c88a9949815369da08500660385, auto_sizing=True, font_size=15.5, char_spacing=0, custom_font=False] : {
+Appearance: Cave World, deep mine
+Polygon count: 744
+Unique animations: 3
+
+The wise and tired old cave sage of Cave World. Working under Foreman Fran, he has no shame in hiding the fact he has a strong dislike for her maniacal business practices. Reluctantly, he agrees to help the Dreamer reclaim the dream crystal shard and take it far away from Fran. Some say he's now retired, living a peaceful life in the mountains.
+}
+
+[hash=fd0e168a55eadc327bf451e6bca97fc6, auto_sizing=True, font_size=11.1, char_spacing=0, custom_font=False] : {
+Appearance: Ice World
+Settler polygon count: 460
+Biscuit polygon count: 454
+Settler unique animations: 7
+Biscuit unique animations: 5
+
+The poor denizens of Ice World, a race of beings once adapted to humidity but at one point forced to quickly acclimate in sub-arctic temperatures. After an event known as the "great collapse", Ice World's population underwent a series of mass extinctions, leaving much of them buried under miles of ice or snow.
+
+The village chief and their husky companion Biscuit left for an expedition in search of a way to fix the world at one point, but went long forgotten as they never returned.
+}
+
+[hash=163596ccfd40460345876c25fc0ab90b, auto_sizing=True, font_size=15.5, char_spacing=0, custom_font=False] : {
+Appearance: Tower World (3 versions)
+Polygon count: 280
+Unique animations: 1
+
+A passive and morally-ambiguous keeper of Tower World's puzzle cubes. It appears as a fallen angel due to its inability to ever ascend from dream purgatory, and now acts as a record-keeper of all the Dreamer's activities. The higher they go from the purgatorial plane, the more disfigured they become, until nothing is left.
+}
+
+[hash=b576f528fded4cf35aeb588e4449c4f3, auto_sizing=True, font_size=11.35, char_spacing=0, custom_font=False] : {
+Appearance: Desert World
+Rabbit polygon count: 866
+Strider polygon count: 688
+Rabbit unique animations: 7 (not all shown)
+Strider unique animations: 3
+
+The sand-ridden rabbitfolk of Desert World. They make their living digging out what they can from the endlessly expanding dunes, trading one another for scraps or food. Caring for the last few living Strider birds and maintaining shelter from the hot sun as much as possible are their primary routines. The leader Dusty (left) is among them as one of the most amiable nomads. He'll agree to do whatever he can to make a better, more comfortable life for his people, even if it means sacrificing everything.
+}
+
+[hash=49b7cf3c2614f4cb25d2b4ca6f3ceb52, auto_sizing=True, font_size=11.9, char_spacing=0, custom_font=False] : {
+Appearance: Underwater World, neolith room
+Polygon count: 698
+Unique animations: 5
+
+Curious and inquisitive, these aquatic researchers are always trying to "deepen" their knowledge. Their land-based headquarters is always giving them the run around, never quite fulfilling their financial needs for such dangerous expeditions. Despite the frustrating circumstance, they remain calm and collected, driven more by furthering the research. Unfortunately for one of them, curiousity lead to some unexpected and unwanted results.
+
+Bonus: The top half of the researcher model is borrowed from the Cave Goblinoid model, and the bottom half is from the Desert Rabbit model.
+}
+
+[hash=4281786e511088b2116551a51d5f90d0, auto_sizing=True, font_size=13.4, char_spacing=0, custom_font=False] : {
+Hello! I see you've managed to find this little tucked away secret. This is a gallery of every unique character model and animation I created for <i>Hypnagogia: Boundless Dreams</i>, all lovingly made from scratch.
+
+If you haven't played the entirety of the game, including all hidden levels, it is <u>highly recommended</u> you do that first. <b>(Big spoilers!)</b>
+
+Approach any of the info markers to learn more about the character, the model, and other fun development facts. You can return to the Level Hub anytime by using the portal behind you, or leaving from the pause menu. <b>Enjoy!</b>
+}
+
+[hash=5c69638f5faf2b11c52d3f8a56cc51b0, auto_sizing=False, font_size=25, char_spacing=0, custom_font=False] : {
+モデルショーケース
+model showcase
+}
+
+[hash=fa45747e12cc7c85dcde31c0c0b74e7a, auto_sizing=False, font_size=20, char_spacing=0, custom_font=False] : {
+leave
+}
+

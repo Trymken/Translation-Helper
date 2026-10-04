@@ -1,0 +1,403 @@
+[title=door_front_begin]
+Это глухая стена.
+[title=door_front_end]
+
+---------------
+ROUND 1
+---------------
+Main Hall
+
+[title=door_dining_begin]
+Эта дверь заперта некоей незримой, эфирной силой.
+[title=door_dining_end]
+
+[title=door_cellar_begin]
+Когда ты приближаешься к этой двери, ты чувствуешь, как волосы встают дыбом на затылке, а по рукам бегут мурашки.
+Возможно, к лучшему, что дверь оказалась заперта.
+[title=door_cellar_end]
+
+GHOST KING
+[title=ghost_king_0_begin]
+Король Призраков: О... посетитель. Ты похож на меня, но нет. Нечто не из плоти и крови, но исполненное некой цели.
+Король Призраков: Или, может, ты так же бесцелен, как и я. Видишь ли, я потерял своё <color=#db3630><b>сердце</b></color> очень, очень давно. Теперь там просто дыра.
+Король Призраков: Вместе с сердцем ушла и моя воля найти его. Но ты, судя по всему, не новичок в помощи другим.
+Король Призраков: [question=00]Что скажешь... странная, вторгшаяся душа - станешь ли ты тем, кто воссоединит меня?
+[choice]Стану.[newtalk start=king_yes_begin break=king_yes_end]
+[choice]Не стану.[newtalk start=king_no_begin break=king_no_end]
+[title=ghost_king_0_end]
+
+[title=king_yes_begin]
+Король Призраков: Спустись на лифте в подвал, туда, где мои глаза в последний раз видели утраченное <color=#db3630><b>сердце</b></color>. В мой <i>подвал подвала</i>. Я никогда не осмелюсь спуститься туда снова.
+Король Призраков: Увы, ключ от той двери тоже куда-то пропал... трагедия. Тебе нужно будет найти его. А теперь иди.[event=7]
+[title=king_yes_end]
+
+[title=king_no_begin]
+Король Призраков Я продолжаю отбывать свой вечный приговор за давно забытые преступления. Молю, чтобы ты вернулся.[event=8]
+[title=king_no_end]
+
+[title=ghost_king_00_begin]
+Король Призраков: Надменный нарушитель  вернулся... Неужели этот дом ещё не поглотил тебя? Время приближается...
+Король Призраков: [question=00]Поможешь ли ты воссоединить раскаивающегося короля с его давно утерянным <color=#db3630><b>сердцем</b></color>?
+[choice]Стану.[newtalk start=king_yes_begin break=king_yes_end]
+[choice]Не стану.[newtalk start=king_no_begin break=king_no_end]
+[title=ghost_king_00_end]
+
+GHOST KING REPEAT
+[title=ghost_king_0_repeat_begin]
+Король Призраков: Ты вернулся с пустыми руками. Я продолжаю ждать возвращения моего потерянного <color=#db3630><b>сердца</b></color>.
+[title=ghost_king_0_repeat_end]
+
+CLOCK
+[title=clock_0_begin]
+Пыльные напольные часы продолжают тикать, несмотря на застывшие стрелки и маятник.
+[title=clock_0_end]
+
+BOOKSHELF NORMAL
+[title=bookshelf_0_begin]
+Это обычная книжная полка. В ней нет ничего необычного.
+[title=bookshelf_0_end]
+
+BEDROOM LEFT
+[title=ghost_0_begin]
+Призрак: Я... Я не могу сейчас с тобой говорить. Мне нужно... сосредоточиться. Не могу собраться с мыслями.
+Призрак: Я... Я откладывал это так долго. Годы...? Или прошло больше?
+Призрак: Просто нужно... Мне просто нужно сосредоточиться. Голова не перестаёт болеть. Стучит.
+Похоже, он пытался дописать какую-то  <color=#e0d33f><b>книгу</b></color>.
+[title=ghost_0_end]
+
+[title=ghost_0_repeat_begin]
+Голова призрака монотонно стучит о стол. Он не обращает на тебя никакого внимания.
+На столе лежит открытая <color=#e0d33f><b>книга</b></color> на странице виден отрывок текста.
+"Вознесение Гримторна" \nГлава 1 - Страница 2
+"'В одиночестве ты слаб. Во множестве ты слаб. А я — это все вы. Сильна моя воля, как и моё желание слиться со снами невинных.'"
+"Жалкий вид имело ничтожное создание внизу, когда оно узрело бездну угрожающих, углублённых демонических водоворотов."
+"Оно изрёкло: "Твою волю к разложению я принимаю с покорностью, но ни одно колено не преклонится напрасно ради того, что ты так жаждешь уничтожить-"
+Остальные страницы отсутствуют.
+[title=ghost_0_repeat_end]
+
+BEDROOM RIGHT
+[title=lockeddoor_0_begin]
+"Безжалостная и неумолимая Герцогиня Хелмсфилда"
+"Да покоится её душа вечно \nособняке Хелмсфилд"
+[title=lockeddoor_0_end]
+
+[title=ghost_1_begin]
+Спящий Призрак: z...Z... Теперь они никогда... не найдут его... ха-ха...
+Спящий Призрак: Z...z... <color=#e0d33f><b>потайной проход...</b></color>
+[title=ghost_1_end]
+
+[title=ghost_1_repeat1_begin]
+Спящий Призрак: Z... z... спрятал... идеально... z...
+Спящий Призрак: Z... книжная... полка...
+Спящий Призрак: Z... z... z...
+[title=ghost_1_repeat1_end]
+
+[title=ghost_sleeping_begin]
+Спящий Призрак: Z...z... застрял...
+(Этот призрак ворочается во сне.)
+Спящий Призрак: z...Z...z.... здесь.....
+Спящий Призрак: Z...z... <color=#e0d33f><b>другая комната...</b></color>
+[title=ghost_sleeping_end]
+
+BOOKSHELF SECRET
+[title=bookshelf_1_begin]
+При ближайшем рассмотрении ты чувствуешь лёгкий сквозняк из-за этой полки.
+Один из корешков книг слегка торчит наружу. Он там всегда был?
+[question=0]Нажмёшь на книгу?
+[choice]Да..[newtalk start=answer_book_yes_begin break=answer_book_yes_end]
+[choice]Нет.[newtalk start=answer_book_no_begin break=answer_book_no_end]
+[title=bookshelf_1_end]
+
+BOOKSHELF NO
+[title=answer_book_no_begin]
+Ты оставляешь книжную полку в покое.
+[title=answer_book_no_end]
+
+BOOKSHELF YES
+[title=answer_book_yes_begin]
+Ты нажимаешь на выступающую книгу внутрь. Слышишь, как щёлкает какой-то механизм. [event=0]
+[title=answer_book_yes_end]
+
+LIBRARY
+[title=ghost_maid_0_begin]
+Призрак: О, здравствуй, милый. Ты меня тут немного напугал. Я не ожидала, что в этот час кто-то ещё окажется здесь.
+Призрак: О боже, ты уж прости меня. Библиотека в последнее время в некотором запустении. Изрядный беспорядок, видишь ли.
+Призрак: Множество всякой всячины оказывается разбросано вокруг. Если ты что-то ищешь, возможно, найдёшь это здесь.
+Призрак: А теперь прошу меня извинить, мне нужно заняться этой прелестной кучей хлама. И, будь добр, остерегайся тех упавших книжных шкафов.
+[title=ghost_maid_0_end]
+
+[title=note_begin]
+На столе лежит потёртый клочок бумаги с написанным на нём текстом. Это дневниковая запись.
+<i>J--e 1-th\nЭто будет моя последняя запись перед тем, как меня освободят от обязанностей. Мысли путаются.</i>
+<i>Герцогиня сегодня отпустила меня на улицу. Мне пришлось надеть свой ошейник, но погода была сносной.</i>
+<i>С тех пор как она и король перестали общаться, она затворилась в подвале.</i>
+<i>Она заставляет смотрителя ввозить покойников через дверь в подвал. Я не знаю, зачем.</i>
+<i>Полагаю, осколок тоже повлиял на неё. Теперь это лишь вопрос времени a̷ прежд-e̷---</i>
+Больше ничего не написано.
+[title=note_end]
+
+KEY
+[title=key_0_begin]
+Старый латунный ключ. Как такая вещь могла оказаться здесь наверху — тебе никогда не узнать.
+[question=001]На бирке написано "Дверь в подвал - не терять".\nПоднять его?
+[choice]Да.[newtalk start=answer_key0_yes_begin break=answer_key0_yes_end]
+[choice]Нет.[newtalk start=answer_key0_no_begin break=answer_key0_no_end]
+[title=key_0_end]
+
+[title=answer_key0_yes_begin]
+Ты забираешь ключ с собой.[event=11]
+[title=answer_key0_yes_end]
+
+[title=answer_key0_no_begin]
+Ты оставляешь ключ.
+[title=answer_key0_no_end]
+
+------
+ROUND 2
+
+FRIDGE 1
+[title=fridge_0_begin]
+Здесь стоит дурно пахнущий холодильник. На защёлке висит висячий замок.
+Взглянув ещё раз на подобранный латунный ключ, ты видишь, что на бирке теперь написано просто "Холодильник".
+[question=1]Попробовать использовать ключ?
+[choice]Да.[newtalk start=answer_fridge_yes_begin break=answer_fridge_yes_end]
+[choice]Нет.[newtalk start=answer_fridge_no_begin break=answer_fridge_no_end]
+[title=fridge_0_end]
+
+FRIDGE YES
+[title=answer_fridge_yes_begin]
+Ты вставляешь латунный ключ в замок холодильника. Ты отступаешь, когда изнутри вырывается ужасный запах.[event=1]
+[title=answer_fridge_yes_end]
+
+FRIDGE NO
+[title=answer_fridge_no_begin]
+Ты оставляешь холодильник в покое. Хотя твоё любопытство может взять верх.
+[title=answer_fridge_no_end]
+
+HEART 1
+[title=heart_0_begin]
+Живое, дышащее <color=#db3630><b>сердце</b></color>, размером с баскетбольный мяч. Оно извивается и корчится, словно обладает собственным разумом.
+Ты поднимаешь сердце и забираешь его с собой.
+[title=heart_0_end]
+
+HEART MONSTER 1
+[title=monster_0_begin]
+[jitter=5 angle=0]Беги.[/jitter]
+[title=monster_0_end]
+
+GHOST KING
+[title=ghost_king_1_begin]
+Король Призраков: Ах, ты наконец вернулся. И, я вижу, с некогда утраченным <color=#db3630><b>сердцем</b></color> при себе.
+Король Призраков: Благодаря тебе я могу снова почувствовать себя цельным. Надеюсь, у тебя не было слишком много хлопот с его поисками.
+Король Призраков: В знак самой искренней благодарности я хочу, чтобы у тебя осталась эта фамильная реликвия. Её чары больше не действуют на меня.
+Король Призраков: Оно было найдено когда-то в землях давно забытых и находилось в моём владении много поколений.
+Король Призраков: Я уверен, ты найдёшь ему достойное применение. Не могу сказать, сохранилось ли на нём проклятие. Ещё раз благодарю тебя... мой дом всегда открыт.
+[title=ghost_king_1_end]
+
+[title=ghost_king_11_begin]
+Ghost King: Надменный странник всё ещё бродит по этому омерзительному сооружению, и я задаюсь вопросом — с какой целью.
+Ghost King: Прими мою вечную благодарность, а также тот скудный приём, который может оказать вам этот проклятый дом.
+Ghost King: Призраки залов подружатся с любым, кто сбился с пути, если дать им достаточно времени...
+[title=ghost_king_11_end]
+
+GHOST KING AFTER CANDYLAND
+
+[title=ghost_king_2_begin]
+Король Призраков: Хмм? Ты выглядишь так, будто только что видел призрака. Надеюсь, это место былого величия не угнетает тебя.
+Король Призраков: Другие посещали его до тебя и становились слишком привязанными, чтобы уйти... на некоторых влияет это уныние.
+Король Призраков: Увы, я отвлёкся. Моё сердце бьётся с новой силой, и я должен ещё раз поблагодарить вас за то, что вы вернули его к жизни.
+Король Призраков: До новой встречи... маэстро.
+[title=ghost_king_2_end]
+
+LOCKED ART GALLERY DOOR
+
+[title=secret_door0_begin]
+Здесь запертая дверь. Она кажется немного непохожей на остальные...
+Без <color=#e0d33f><b>ключа</b></color> тебе не открыть её.
+[title=secret_door0_end]
+
+[title=secret_key_begin]
+Призрак из библиотеки обронил какой-то <color=#e0d33f><b>неприметный ключ</b></color>.
+Бирка пуста, так что он может подойти к чему угодно... Ты решаешь взять его с собой.
+[title=secret_key_end]
+
+[title=secret_door1_begin]
+Используя <color=#e0d33f><b>ключ</b></color> оброненный призраком, ты отпираешь дверь.
+[title=secret_door1_end]
+
+PIANO PUZZLE
+
+[title=piano_0_begin]
+Ноты слишком выцвели, чтобы их прочесть. В углу нацарапано лёгкое послание.
+"Раскрой верный порядок <color=#e0d33f><b>скорбного совета</b></color>, и твой путь откроется"
+[question=2]Хочешь попробовать нажать на клавиши?
+[choice]Да.[newtalk start=answer_piano_yes_begin break=answer_piano_yes_end]
+[choice]Нет.[newtalk start=answer_piano_no_begin break=answer_piano_no_end]
+[title=piano_0_end]
+
+[title=answer_piano_yes_begin]
+[question=3]Какую клавишу нажмёшь?
+[choice]Клавиша F.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша G.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша A.[newtalk start=piano_key_correct0_begin break=piano_key_correct0_end]
+[choice]Клавиша B.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша C.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[title=answer_piano_yes_end]
+
+[title=answer_piano_no_begin]
+Ты решаешь не связываться с пианино. Кто знает, какой дух в нём обитает.
+[title=answer_piano_no_end]
+
+[title=piano_key_wrong_begin]
+Ты нажимаешь клавишу. [event=6]
+Кажется, это неверно...
+[title=piano_key_wrong_end]
+
+[title=piano_key_correct0_begin]
+Ты нажимаешь клавишу. [event=10]
+[question=4]Нажать другую клавишу?
+[choice]Клавиша F.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша G.[newtalk start=piano_key_correct1_begin break=piano_key_correct1_end]
+[choice]Клавиша A.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша B.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша C.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[title=piano_key_correct0_end]
+
+[title=piano_key_correct1_begin]
+Ты нажимаешь клавишу. [event=9]
+[question=5]Нажать другую клавишу?
+[choice]Клавиша F.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша G.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша A.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша B.[newtalk start=piano_key_correct2_begin break=piano_key_correct2_end]
+[choice]Клавиша C.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[title=piano_key_correct1_end]
+
+[title=piano_key_correct2_begin]
+Ты нажимаешь клавишу. [event=5]
+[question=55]Нажать другую клавишу?
+[choice]Клавиша F.[newtalk start=piano_key_correct22_begin break=piano_key_correct22_end]
+[choice]Клавиша G.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша A.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша B.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша C.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[title=piano_key_correct2_end]
+
+[title=piano_key_correct22_begin]
+Ты нажимаешь клавишу. [event=4]
+[question=55]Нажать другую клавишу?
+[choice]Клавиша F.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша G.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша A.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша B.[newtalk start=piano_key_wrong_begin break=piano_key_wrong_end]
+[choice]Клавиша C.[newtalk start=piano_key_correct3_begin break=piano_key_correct3_end]
+[title=piano_key_correct22_end]
+
+[title=piano_key_correct3_begin]
+Ты нажимаешь клавишу. [event=3]
+В комнате слышен лёгкий металлический щелчок...[event=2]
+[title=piano_key_correct3_end]
+
+[title=piano_done_begin]
+Клавиши больше не нажимаются.
+[title=piano_done_end]
+
+BOOKS
+
+[title=book_0_begin]
+На столе лежит открытая <color=#e0d33f><b>книга</b></color> на странице виден отрывок текста.
+"Вознесение Гримторна" \nГлава 1 - Страница 1
+"Тварь, столь немощная в своей попытке низвергнуть Великую Тень, была обращена в назидательный пример. Поражение простёрлось на пути её."
+"И возгласила Великая Тень с глубочайшим благоговением 'Мы с тобой из разных миров. Бытие, коим может обладать лишь один из нас.'"
+"Почерневший силуэт разверз свои четыре челюсти, и речь его излилась на гортанном языке, и его речь шла <b>в обратном порядке</b>."
+Прочие страницы утрачены.
+[title=book_0_end]
+
+[title=book_2_begin]
+На столе лежит раскрытая <color=#e0d33f><b>книга</b></color> взору предстаёт отрывок текста.
+"Вознесение Гримторна" \nГлава 1 – Страница 3
+"...ибо, хоть пред нами и лежит уязвимый мир, моей воле тебе не одолеть. Я низвергну тебя обратно в ту смрадную пучину, из коей ты, к сожалению, был рождён."
+"Тень извивалась и корчилась в отвратительном танце, колыхая плоть, нарывы и иные, не поддающиеся описанию, формы. Нависая над столь ничтожным противником."
+"Раздался гул, подобный эху в бесконечном зале, — и родился из него звук столь же оглушительный, сколь и бесконечный. Тень же обрела образ столь непостижимо ужасный, что никакие слова не в силах его описать."
+Прочие страницы утрачены.
+[title=book_2_end]
+
+[title=book_3_begin]
+На столе лежит раскрытая <color=#e0d33f><b>книга</b></color> взору предстаёт отрывок текста.
+"Вознесение Гримторна" \nГлава 1 – Страница 4
+"Скрип зубов, отточенные когти. Гнев, достигший своей абсолютной формы. Море тьмы и воплощённых кошмаров нависло над крошечным созданием."
+"Из пустоты простёрлась громадная рука, покрытая шипами; её пальцы, извиваясь в хаотичном изяществе, охватили всё, что осталось от земель."
+"Слабый отсвет во тьме, едва слышный звон — колокольчик зазвенел. Он болтался на шее существа, заключая в себе всю жизнь вселенной."
+Прочие страницы утрачены.
+[title=book_3_end]
+
+[title=book_4_begin]
+На столе лежит раскрытая <color=#e0d33f><b>книга</b></color> взору предстаёт отрывок текста
+"Вознесение Гримторна" \nГлава 1 – Страница 5
+"Космическая вспышка сияющей энергии возросла, исторгнув величественный крик, что поглотил надвигающуюся тьму и наполнил небеса светом."
+"Плоть тени обгорела от нестерпимой боли, исходящей от этого пламени, и она завопила с прежней силой. Всем множеством своих очей это порождение узрело зрелище столь прекрасное."
+"Обожжённое, оно простёрлось перед существом, что теперь купалось в ослепительном сиянии, и изрёкло 'В смерти я исчезну, в твоих снах я буду жить вечно'"
+Более ничего не написано.
+[title=book_4_end]
+
+PAINTINGS
+
+[title=painting_0_begin]
+"Братья Честолюбия"
+[title=painting_0_end]
+
+[title=painting_1_begin]
+"Вечер Переговоров"
+[title=painting_1_end]
+
+[title=painting_2_begin]
+"<color=#ebe72a><b>А</b></color>лександр Марпл из Бранберта"
+[title=painting_2_end]
+
+[title=painting_3_begin]
+"Люсиль Локвуд из Годриджа"
+[title=painting_3_end]
+
+[title=painting_33_begin]
+"Выражения Ясности"
+[title=painting_33_end]
+
+[title=painting_4_begin]
+"<color=#ebe72a><b>Г</b></color>орджио Брайтон из Гринхэма"
+[title=painting_4_end]
+
+[title=painting_5_begin]
+"Оставленное Желание"
+[title=painting_5_end]
+
+[title=painting_6_begin]
+"Лоркан Энворт из Фэйрберга"
+[title=painting_6_end]
+
+[title=painting_7_begin]
+"Спенсер Алленкорт из Уэстхолла"
+[title=painting_7_end]
+
+[title=painting_8_begin]
+"Кларис Барнс из Амберфорда"
+[title=painting_8_end]
+
+[title=painting_9_begin]
+"Оскар Бримси из Розвайна"
+[title=painting_9_end]
+
+[title=painting_10_begin]
+"<color=#ebe72a><b>Ф</b></color>рэнсис Ремингтон из Палкетта"
+[title=painting_10_end]
+
+[title=painting_11_begin]
+"..."
+[title=painting_11_end]
+
+[title=painting_12_begin]
+"<color=#ebe72a><b>К</b></color>ристофер Реннок из Брайтона"
+[title=painting_12_end]
+
+[title=painting_13_begin]
+"<color=#ebe72a><b>Б</b></color>ранлен Уилфорд из Андорры"
+[title=painting_13_end]

@@ -1,0 +1,141 @@
+[title=flashlightdoor_locked_begin]
+Дверь заперта наглухо. Над ручкой висит маленькая бирка с надписью "Хозяйственная".
+[title=flashlightdoor_locked_end]
+
+[title=flashlightdoor_unlocked_begin]
+Ты использовал <b>Ключ от хозяйственной двери</b>. Он тебе больше не нужен, так что ты его выбросил.
+[title=flashlightdoor_unlocked_end]
+
+[title=flashlightdoor_key_begin]
+[question=00]На столе лежит маленький ключ с биркой <b>Хозяйственная дверь</b>. Взять ключ?
+[choice]Да.[newtalk start=key_yes_begin break=key_yes_end]
+[choice]Нет.[newtalk start=key_no_begin break=key_no_end]
+[title=flashlightdoor_key_end]
+
+[title=key_yes_begin]
+Ты взял <b>Ключ от хозяйственной двери</b>. [event=2]
+[title=key_yes_end]
+
+[title=key_no_begin]
+Ты оставляешь ключ на столе.
+[title=key_no_end]
+
+[title=drink_begin]
+Ты нажимаешь кнопки, но ничего не происходит. Похоже, аппарат не работает.
+[title=drink_end]
+
+[title=drink_secret0_begin]
+Ты нажимаешь кнопки, но ничего не происходит. Внутри что-то гремит. Может...
+[title=drink_secret0_end]
+
+[title=drink_secret1_begin]
+Погоди... кажется, внутри что-то отвалилось.[newtalk start=drink_secret1_repeat_begin break=drink_secret1_repeat_end]
+[title=drink_secret1_end]
+
+[title=drink_secret1_repeat_begin]
+[question=0000]Из автомата выпал ключ. Взять ключ?
+[choice]Да.[newtalk start=key_secret_yes_begin break=key_secret_yes_end]
+[choice]Нет.[newtalk start=key_secret_no_begin break=key_secret_no_end]
+[title=drink_secret1_repeat_end]
+
+[title=key_secret_yes_begin]
+Ты берёшь ключ. На нём маленькая бирка с надписью "Кабинет директора".[event=3]
+[title=key_secret_yes_end]
+
+[title=key_secret_no_begin]
+Ты оставляешь ключ в лотке выдачи.[event=4]
+[title=key_secret_no_end]
+
+[title=bulletin_0_begin]
+Здесь есть доска объявлений. Большинство сообщений выцвели и стали нечитаемыми.
+[title=bulletin_0_end]
+
+[title=bulletin_00_begin]
+Доска объявлений упала со стены. На одной из записок что-то написано.
+"Ты разбудил их. Это больше не твой сон. Тебе не положено здесь быть."
+Письмо переходит в неразборчивые каракули.
+[title=bulletin_00_end]
+
+[title=bulletin_1_begin]
+Здесь висит доска объявлений. На ней расклеено несколько листовок о пропавших без вести, но лица слишком выцвели, чтобы их разглядеть.
+[title=bulletin_1_end]
+
+[title=door_outside_begin]
+Сейчас слишком холодно, чтобы выходить на улицу.
+[title=door_outside_end]
+
+[title=door_locked_0_begin]
+Дверь не открывается.
+[title=door_locked_0_end]
+
+[title=door_locked_1_begin]
+Эта дверь открыта, но что-то её заклинило. Она не поддаётся, сколько ни толкай.
+[title=door_locked_1_end]
+
+[title=door_open_begin]
+Кажется, эту дверь можно открыть.
+[title=door_open_end]
+
+[title=door_deadend_begin]
+Дверь заперта. На двери есть небольшая табличка с надписью "Кабинет директора".
+[title=door_deadend_end]
+
+[title=door_secret_unlocked_begin]
+Ты использовал ключ от <b>Кабинета директора</b> на двери. Теперь она открыта.
+[title=door_secret_unlocked_end]
+
+[title=door_deadend2_begin]
+Дверь не открывается, как будто что-то её удерживает. На двери есть небольшая табличка с надписью "Комната тишины".
+[title=door_deadend2_end]
+
+[title=door_deadend3_begin]
+Дальше дверь не открывается.
+[title=door_deadend3_end]
+
+[title=flashlight_begin]
+[question=0]Здесь <b>фонарик</b>. В нём ещё есть немного заряда, но совсем чуть-чуть. Возьмёшь с собой?
+[choice]Да.[newtalk start=flashlight_yes_begin break=flashlight_yes_end]
+[choice]Нет.[newtalk start=flashlight_no_begin break=flashlight_no_end]
+[title=flashlight_end]
+
+[title=flashlight_yes_begin]
+Ты берёшь фонарик и забираешь его с собой. [event=0]
+[title=flashlight_yes_end]
+
+[title=flashlight_no_begin]
+Ты оставляешь фонарик на полу.
+[title=flashlight_no_end]
+
+[title=darkness_begin]
+Слишком темно, чтобы идти дальше.
+[title=darkness_end]
+
+[title=wires_0_begin]
+Путь впереди преграждает колючая проволока. Голыми руками её не убрать.
+[title=wires_0_end]
+
+[title=wires_1_begin]
+Ты использовал <b>кусачки</b> чтобы очистить путь. Чувствуешь, что они больше не понадобятся, и выкидываешь их.
+[title=wires_1_end]
+
+[title=cutters_0_begin]
+Здесь стоит странно знакомый силуэт человека, замерший на месте. Он что-то держит.
+[question=1]Хочешь подойти поближе и рассмотреть?
+[choice]Да.[newtalk start=cutters_yes_begin break=cutters_yes_end]
+[choice]Нет.[newtalk start=cutters_no_begin break=cutters_no_end]
+[title=cutters_0_end]
+
+[title=cutters_no_begin]
+Ты отходишь от фигуры.
+[title=cutters_no_end]
+
+[title=cutters_yes_begin]
+Ты протягиваешь руку к фигуре и пытаешься взять то, что она держит.
+[question=2]Здесь <b>кусачки</b>. Возьмёшь их?
+[choice]Да.[newtalk start=cutters_yes_1_begin break=cutters_yes_1_end]
+[choice]Нет.[newtalk start=cutters_no_begin break=cutters_no_end]
+[title=cutters_yes_end]
+
+[title=cutters_yes_1_begin]
+Тебе удаётся вытащить <b>кусачки</b> из руки фигуры.[event=1]
+[title=cutters_yes_1_end]

@@ -1,0 +1,162 @@
+[title=Gogi_0_begin]
+"Гоги": Вау, вы только посмотрите на унылую атмосферу этого места! По-моему, тут просто тоска зелёная!
+"Гоги": Я видел впереди кучу жутковатых штуковин, аж мурашки по коже бегут...! Очень страшненько!
+"Гоги": Одна только мысль о холодных, безжалостных объятиях смерти ввергает меня в экзистенциальный тупик! \nЯ просто не понимаю!
+"Гоги": Ну и ладно, ха-ха-ха. Всё это ведь всего лишь сон, в конце концов. Да, сон! [jitter=5 angle=0]Веесеелииись![/jitter]
+[title=Gogi_0_end]
+
+HEADSTONES
+[title=grave0_begin]
+Р. С. \n1990 - 2021 \nСкончался от недосыпа.
+[title=grave0_end]
+[title=grave1_begin]
+И. Фрост \n1950 - 2020
+[title=grave1_end]
+[title=grave2_begin]
+Г. Джексон \n1941 - 1999
+[title=grave2_end]
+[title=grave3_begin]
+И. Карни \n1850 - 1878
+[title=grave3_end]
+[title=grave4_begin]
+А. Мэтьюз \n1898 - 1978
+[title=grave4_end]
+[title=grave5_begin]
+Л. Уоллс \n1921 - 1931
+[title=grave5_end]
+[title=grave6_begin]
+П. Брюс \n2000 - 2009
+[title=grave6_end]
+[title=grave7_begin]
+Т. Бакнер \n1888 - 1932
+[title=grave7_end]
+[title=grave8_begin]
+А. Ливингстон \n1801 - 1880
+[title=grave8_end]
+[title=grave9_begin]
+К. Флинн \n1944 - 1978
+[title=grave9_end]
+[title=grave10_begin]
+С. Брайан \n1909 - 1950
+[title=grave10_end]
+
+[title=grave_blank_begin]
+Здесь надгробие. Надпись на нём слишком стёрта, чтобы её прочесть.
+[title=grave_blank_end]
+
+ROUND 1
+
+GRAVEDIGGER
+[title=digger_0_begin]
+Смотритель Грейди: Очередная ночь, очередное одеяло из густого, грязного тумана к ней в придачу.
+Смотритель Грейди: Я копаю ямы одной и той же глубины каждый раз, но на следующий день они почему-то становятся ещё глубже.
+Смотритель Грейди: Держись подальше от дома, парень. Если только не хочешь, чтобы что-то пошло за тобой оттуда.
+[title=digger_0_end]
+
+[title=digger_repeat_begin]
+Смотритель Грейди: Что такое, парень? Разве не видишь, я занят? Хватит работы до гроба, ха.
+[title=digger_repeat_end]
+
+[title=digger_repeat1_begin]
+Смотритель Грейди: ...
+(Он игнорирует тебя и продолжает копать.)
+[title=digger_repeat1_end]
+
+[title=gate_0_begin]
+Ворота во внутренний двор заперты старым ржавым навесным замком. Несомненно, где-то должен быть ключ.
+[title=gate_0_end]
+
+[title=cellar_0_begin]
+Похоже, это вход в подвал дома? Двери не поддаются ни на сантиметр.
+Возможно, так даже лучше.
+[title=cellar_0_end]
+
+ROUND 2
+
+[title=digger_1_begin]
+Смотритель Грейди: А, ты пробовал открыть ворота, да? И чего ты ожидал, пытаясь так запросто пройтись к владениям?
+Смотритель Грейди: Я надеялся, у тебя хватит ума не вторгаться в эту мрачную ночь. Но мне не настолько интересно, чтобы останавливать твоё безрассудство.
+Смотритель Грейди: Я одолжу тебе ключ от внутреннего двора. Надеюсь, то, что там внутри, стоит того, через что тебе предстоит пройти, парень.
+Смотритель Грейди: Не нужно возвращать ключ. Ты не задержишься здесь достаточно долго для этого. Спокойной ночи.
+[title=digger_1_end]
+
+[title=gate_1_begin]
+Ты отпираешь хлипкую защёлку ворот с помощью ключа смотрителя.
+[title=gate_1_end]
+
+[title=well_0_begin]
+В этом фонтане желаний нет монеток...
+[title=well_0_end]
+
+[title=well_1_begin]
+Фонтан полностью высох. Он перестал работать давным-давно.
+[title=well_1_end]
+
+[title=mansion_0_leave_begin]
+[question=0]Войти в особняк? У тебя есть ощущение, что ты не сможешь вернуться.
+[choice]С сожалением.[newtalk start=answer_mansion_0_yes_begin break=answer_mansion_0_yes_end]
+[choice]Возможно, позже...[newtalk start=answer_mansion_0_no_begin break=answer_mansion_0_no_end]
+[title=mansion_0_leave_end]
+
+[title=answer_mansion_0_yes_begin]
+Ты со страхом открываешь двери особняка. Какие ужасы ждут внутри?[event=0]
+[title=answer_mansion_0_yes_end]
+
+[title=answer_mansion_0_no_begin]
+Ты отступаешь от зловещего входа, несмотря на его неумолимый зов.[event=1]
+[title=answer_mansion_0_no_end]
+
+[title=well_begin]
+В колодце плавает странный клочок бумаги.
+Взгляд на него вызывает ощущение, будто кто-то копается у тебя в черепе.
+[title=well_end]
+
+[title=well_norm_begin]
+Здесь есть колодец. В нём нет ничего необычного.
+[title=well_norm_end]
+
+[title=grave_secret_begin]
+Здесь лежит ещё одна открытая и незаконченная могила. Но эта кажется иной...
+При ближайшем рассмотрении ты ощущаешь заметный шлейф тлетворного запаха, исходящий из ямы.
+Интересно, как глубоко она уходит?
+[title=grave_secret_end]
+
+[title=gate_shadow_begin]
+...
+Та тень...
+[title=gate_shadow_end]
+
+[title=mansion_1_leave_begin]
+Парадные двери теперь открыты.
+[question=0]Войти в особняк? У тебя есть ощущение, что ты не сможешь вернуться.
+[choice]С сожалением.[newtalk start=answer_mansion_0_yes_begin break=answer_mansion_0_yes_end]
+[choice]Возможно, позже...[newtalk start=answer_mansion_0_no_begin break=answer_mansion_0_no_end]
+[title=mansion_1_leave_end]
+
+[title=answer_mansion_0_yes_begin]
+Ты со страхом открываешь двери особняка. Какие ужасы ждут внутри?[event=0]
+[title=answer_mansion_0_yes_end]
+
+[title=answer_mansion_0_no_begin]
+Ты отступаешь от зловещего входа, несмотря на его неумолимый зов.[event=1]
+[title=answer_mansion_0_no_end]
+
+[title=mansion_locked_begin]
+Ты пытаешься открыть парадные двери особняка, но они, кажется, заперты наглухо.
+Под ручкой висит маленькая<color=#fcbe2b><b>позолоченная замочная скважина</b></color>.
+[title=mansion_locked_end]
+
+[title=key1_begin]
+На разрушенном фонарном столбе висит маленький <color=#fcbe2b><b>позолоченный ключ</b></color>.
+[question=000]Ты возьмешь этот ключ?
+[choice]Да.[newtalk start=answer_key_yes_begin break=answer_key_yes_end]
+[choice]Нет.[newtalk start=answer_key_no_begin break=answer_key_no_end]
+[title=key1_end]
+
+[title=answer_key_yes_begin]
+Ты снимаешь ключ со столба и забираешь его с собой.[event=2]
+[title=answer_key_yes_end]
+
+[title=answer_key_no_begin]
+Ты оставляешь ключ висеть на месте...
+[title=answer_key_no_end]

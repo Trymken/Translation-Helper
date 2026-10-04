@@ -1,0 +1,98 @@
+[title=npc_0_begin]
+Здравствуй, незнакомец. Добро пожаловать в       Центр выбора снов.
+Здесь ты можешь в любой момент войти в любой из основных снов, которые уже пережил.
+Смело исследуй места, где ты ещё не был, или тайны, которые остались нераскрытыми.
+Чтобы выйти, просто воспользуйся меню паузы.
+[title=npc_0_end]
+
+[title=cave_begin]
+Это портал в Пещерный мир.
+[question=0] Войти в Пещерный мир?
+[choice]Да.[newtalk start=cave_yes_begin break=cave_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=cave_end]
+
+[title=mist_begin]
+Это портал в Мир тумана.
+[question=1]Войти в Мир тумана?
+[choice]Да.[newtalk start=mist_yes_begin break=mist_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=mist_end]
+
+[title=bamboo_begin]
+Это портал в Бамбуковый мир.
+[question=2]Войти в Бамбуковый мир?
+[choice]Да.[newtalk start=bamboo_yes_begin break=bamboo_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=bamboo_end]
+
+[title=ice_begin]
+Это портал в Ледяной мир.
+[question=3]Войти в Ледяной мир?
+[choice]Да.[newtalk start=ice_yes_begin break=ice_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=ice_end]
+
+[title=space_begin]
+Это портал в Космический мир.
+[question=4]Войти в Космический мир?
+[choice]Да.[newtalk start=space_yes_begin break=space_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=space_end]
+
+[title=haunted_begin]
+Это портал в Мир призраков.
+[question=5]Войти в Мир призраков?
+[choice]Да.[newtalk start=haunted_yes_begin break=haunted_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=haunted_end]
+
+[title=mall_begin]
+Это портал в Мир торгового центра.
+[question=6]Войти в Мир торгового центра?
+[choice]Да.[newtalk start=mall_yes_begin break=mall_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=mall_end]
+
+[title=tower_begin]
+Это портал в Мир башни.
+[question=6]Войти в Мир башни?
+[choice]Да.[newtalk start=tower_yes_begin break=tower_yes_end]
+[choice]Нет.[newtalk start=no_begin break=no_end]
+[title=tower_end]
+
+[title=no_begin]
+Ты отходишь от портала.[event=0]
+[title=no_end]
+
+[title=cave_yes_begin]
+Вход в Пещерный мир.[event=1]
+[title=cave_yes_end]
+
+[title=mist_yes_begin]
+Вход в Мир тумана.[event=2]
+[title=mist_yes_end]
+
+[title=bamboo_yes_begin]
+Вход в Бамбуковый мир.[event=3]
+[title=bamboo_yes_end]
+
+[title=ice_yes_begin]
+Вход в Ледяной мир.[event=4]
+[title=ice_yes_end]
+
+[title=space_yes_begin]
+Вход в Космический мир.[event=5]
+[title=space_yes_end]
+
+[title=haunted_yes_begin]
+Вход в Мир призраков.[event=6]
+[title=haunted_yes_end]
+
+[title=mall_yes_begin]
+Вход в Мир торгового центра.[event=7]
+[title=mall_yes_end]
+
+[title=tower_yes_begin]
+Вход в Мир башни.[event=8]
+[title=tower_yes_end]

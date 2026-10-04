@@ -1,0 +1,194 @@
+7_Dream_Mall_Dialogue
+
+Notes:
+- Don't know if I want to keep Gogi mimic in this one. Maybe have him scurry away when the elevator opens?
+
+GOGI INTRO
+[title=Gogi_0_begin]
+"Гоги": Хехехе.
+[title=Gogi_0_end]
+
+ELEVATOR
+[title=elevator_0_begin]
+На панели есть кнопка в форме стрелки.
+[question=0]Нажмёшь на кнопку?
+[choice]Да.[newtalk start=answer_elevator_yes_begin break=answer_elevator_yes_end]
+[choice]Нет.[newtalk start=answer_elevator_no_begin break=answer_elevator_no_end]
+[title=elevator_0_end]
+
+ELEVATOR NO
+[title=answer_elevator_no_begin]
+Ты решаешь не нажимать на кнопку. Вечность подождёт.
+[title=answer_elevator_no_end]
+
+ELEVATOR YES
+[title=answer_elevator_yes_begin]
+Ты нажимаешь на единственную видимую кнопку. Лифт начинает движение. [event=0]
+[title=answer_elevator_yes_end]
+
+DIRECTORY
+[title=directory_begin]
+"Добро пожаловать в ТЦ H ̵ E ̵ ̈́ ̾ ̥ ̰ ͈ A ̸ ̆ ̈́ ̥ ͙ V ̸ ͜ ̧ E ͈ N ̸ ̈́ ̟ ' ̶ ͌ ̣ ͙ ̼ S ̴ ̿ ̚ ͑ ͙ ̫   ̛ ̧ ̩ P ̴ ͊ ̿ ͓ ̡ L ̷ ̎ ̈́ ̙ ̙ A ̷ ̏ ͂ ̇ ͕ Z ̵ ̑ ̧ A ̕ ̎ ̧ ͔ . "
+"Магазин скоро закроется. Пожалуйста, совершите покупки и покиньте помещение как можно скорее."
+"Благодарим вас за сегодняшние покупки."
+[title=directory_end]
+
+FOOD LOCKED
+[title=food_locked_begin]
+За закрытой решёткой лежит <color=#e0d33f><b>свежеиспечённый крендель</b></color>.
+Жаль, что до него не дотянуться. Выглядит очень аппетитно.
+[title=food_locked_end]
+
+TOY LOCKED
+[title=toy_locked_begin]
+Сквозь закрытую решётку видно, что на прилавке магазина лежит какая-то <color=#e0d33f><b>игрушка</b></color>.
+Взять её отсюда никак не получится. Что ж, бывает.
+[title=toy_locked_end]
+
+KEY LOCKED
+[title=key_locked_begin]
+На прилавке внутри лежит что-то <color=#e0d33f><b>блестящее</b></color>.
+На прилавке внутри лежит что-то...
+[title=key_locked_end]
+
+LOCKED GATE
+[title=gate_main_locked_begin]
+Решётка опущена и блокирует вход в эту зону. Тебе не поднять её.
+Внизу решётки есть маленькая замочная скважина. Должен же ключ быть где-то рядом.
+[title=gate_main_locked_end]
+
+KEY ROOM
+[title=key_begin]
+На прилавке лежит <color=#e0d33f><b>маленький ключ</b></color>. На бирке написано "Решётка универмага". Ты забираешь его с собой.
+[title=key_end]
+
+UNLOCKED GATE
+[title=gate_main_unlocked_begin]
+Ты использовал проржавевший ключ и поднял тяжёлую металлическую решётку.
+[title=gate_main_unlocked_end]
+
+LOST KID IN BACKROOM
+[title=door_0_begin]
+Из этой примерочной доносится звук детского плача.
+[question=2]Постучишь в дверь?
+[choice]Да.[newtalk start=door_yes_begin break=door_yes_end]
+[choice]Нет.[newtalk start=door_no_begin break=door_no_end]
+[title=door_0_end]
+
+DOOR NO
+[title=door_no_begin]
+Ты отходишь от двери примерочной.
+[title=door_no_end]
+
+DOOR YES
+[title=door_yes_begin]
+Ты стучишь в дверь кабинки.[event=1]
+Ребёнок: П-привет? Кто там? Это ты, мамочка?
+Ребёнок: [question=3]У-уходи!
+[choice]Что случилось?[newtalk start=kid_0_begin break=kid_0_end]
+[choice]Ладно.[newtalk start=kid_no_begin break=kid_no_end]
+[title=door_yes_end]
+
+KID CHOICE END
+[title=kid_no_begin]
+Ребёнок: Оставь меня в покое![event=2]
+[title=kid_no_end]
+
+KID CHOICE 1
+[title=kid_0_begin]
+Ребёнок: Я не знаю... Я зашла сюда с мамой, чтобы примерить новую одежду, но теперь все исчезли.
+Ребёнок: [question=4]Мне страшно выходить, когда никого нет вокруг, поэтому я заперлась здесь. Я хочу домой!
+[choice]Чем я могу помочь?[newtalk start=kid_1_begin break=kid_1_end]
+[choice]Удачи.[newtalk start=kid_no_begin break=kid_no_end]
+[title=kid_0_end]
+
+KID CHOICE 1-1
+[title=kid_1_begin]
+Ребёнок: Н-ну... Я купила очень милого <color=#e0d33f><b>плюшевого мишку</b></color> в магазине игрушек, но оставила его там.
+Ребёнок: [question=5]Я бы чувствовала себя намного безопаснее, если бы он был со мной. Не мог бы ты пойти и найти его для меня, пожалуйста?
+[choice]Хорошо.[newtalk start=kid_1_okay_begin break=kid_1_okay_end]
+[choice]Нет времени.[newtalk start=kid_no_begin break=kid_no_end]
+[title=kid_1_end]
+
+KID CHOICE 1-1 OKAY
+[title=kid_1_okay_begin]
+Ребёнок: Пожалуйста, поторопись. Мне так страшно...[event=3]
+[title=kid_1_okay_end]
+
+TEDDY BEAR
+[title=bear_begin]
+Здесь лежит <color=#e0d33f><b>плюшевый мишка</b></color>. На его лице — пустое, безразличное выражение.
+Ты забираешь мишку с собой.
+[title=bear_end]
+
+KID BEAR
+[title=kid_bear_begin]
+Ребёнок: Ты нашёл моего потерянного мишку? Спасибо... Ты можешь оставить его здесь.[event=9][newtalk start=kid_pretzel_begin break=kid_pretzel_end]
+[title=kid_bear_end]
+
+[title=kid_pretzel_begin]
+Ребёнок: Мне всё ещё так страшно... А теперь стало ещё хуже, потому что я проголодалась.
+Ребёнок: Моя мамочка купила мне <color=#e0d33f><b>крендель</b></color> в моём любимом магазине с едой, но я забыла его там.
+Ребёнок: [question=6]Можешь сходить и принести его для меня, пожалуйста?
+[choice]Хорошо.[newtalk start=kid_bear_okay_begin break=kid_bear_okay_end]
+[choice]Мне пора.[newtalk start=kid_no1_begin break=kid_no1_end]
+[title=kid_pretzel_end]
+
+[title=kid_no1_begin]
+Ребёнок: Оставь меня в покое![event=6]
+[title=kid_no1_end]
+
+KID BEAR OKAY
+[title=kid_bear_okay_begin]
+Ребёнок: С-спасибо... Я так хочу есть.[event=4]
+[title=kid_bear_okay_end]
+
+FOOD PRETZEL
+[title=food_begin]
+<color=#e0d33f><b>Свежеиспечённый крендель</b></color>. Он тёплый и выглядит очень аппетитно.
+Ты забираешь его с собой.
+[title=food_end]
+
+KID FOOD
+[title=kid_food_begin]
+Ребёнок: Ты принёс мой <color=#e0d33f><b>крендель</b></color>! Я чувствую его запах отсюда... Я так голодна. [event=10]
+Ребёнок: Ты сделал так много, чтобы мне стало лучше. Спасибо тебе. Думаю, теперь я в порядке.
+Ребёнок: Я готова уйти.
+Ребёнок: [speed=10]И̸ т̸ы̷ т̵о̷ж̴е̶.[/speed][event=5]
+[title=kid_food_end]
+
+SECRETS
+
+[title=switch_art_begin]
+[question=7]Хм. Здесь какой-то странный переключатель. Стоит ли его дёрнуть?
+[choice]Да.[newtalk start=switch_art_yes_begin break=switch_art_yes_end]
+[choice]Нет.[newtalk start=switch_no_begin break=switch_no_end]
+[title=switch_art_end]
+
+[title=switch_art_yes_begin]
+Ты нерешительно дёргаешь переключатель.[event=7]
+Издалека доносится звук поднимающейся решётки...
+[title=switch_art_yes_end]
+
+[title=switch_no_begin]
+Ты отступаешь от переключателя.
+[title=switch_no_end]
+
+[title=switch_game_begin]
+[question=7]Хм. Здесь какой-то странный переключатель. Стоит ли его дёрнуть?
+[choice]Да.[newtalk start=switch_game_yes_begin break=switch_game_yes_end]
+[choice]Нет.[newtalk start=switch_no_begin break=switch_no_end]
+[title=switch_game_end]
+
+[title=switch_game_yes_begin]
+Ты нерешительно дёргаешь переключатель.[event=8]
+Издалека доносится звук поднимающейся решётки...
+[title=switch_game_yes_end]
+
+[title=pizza_begin]
+Интересная начинка...
+[title=pizza_end]
+
+[title=arcade_list_begin]
+Игры, разработанные <color=#0aff70><b>@sodaraptor_dev</b></color>\n\nOct 2021 - <b>Hypnagogia: Boundless Dreams</b>\nOct 2021 - <b>WOLFGUN</b>\nFeb 2021 - <b>Pathogen-X Demo</b>\nNov 2020 - <b>Hypnagogia</b>\nOct 2020 - <b>Descension</b>\nApr 2020 - <b>MechEvolve VR</b>\nNov 2019 - <b>Infectoid</b>\nAug 2019 - <b>Artifact 51 VR</b>\nDec 2018 - <b>D.M.C.P.</b>\n\nCollege projects:\n\nJun 2014 - <b>Castle Panic</b>\nJul 2013 - <b>Hypervirus</b>
+[title=arcade_list_end]
