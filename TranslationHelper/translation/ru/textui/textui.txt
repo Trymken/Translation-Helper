@@ -54,7 +54,7 @@
 }
 
 [hash=9333268e0c2782017a7126d86b79b173, auto_sizing=False, font_size=27, char_spacing=5, custom_font=False] : {
-безграничные мечты
+безграничные сны
 }
 
 [hash=a92756b3b987a4326a6a444a3623db6b, auto_sizing=False, font_size=16, char_spacing=-50, custom_font=False] : {

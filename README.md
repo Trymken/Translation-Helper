@@ -4,7 +4,7 @@ A mod to assist with the translation of Hypnagogia: Boundless Dreams. BepInEx is
 ### Mod capabilities
 The mod includes a configuration file located at BepInEx\config\TranslationHelper.cfg. Let’s go over all the settings in more detail:
 
-+  ***lang***. Specifies the folder where the translation will be located. It is found at Hypnagogia Boundless Dreams\TranslationHelper\translation\\{specified parameter}, and its structure is as follows:
++  ***lang***. Specifies the folder where the translation will be located. It is found at Hypnagogia Boundless Dreams\TranslationHelper\translation\{specified parameter}, and its structure is as follows:
 ```
 └── 📁 TranslationHelper
     └── 📁 translation
@@ -29,7 +29,7 @@ The mod includes a configuration file located at BepInEx\config\TranslationHelpe
 
 + ***dialogLog***. Enable or disable the display of information about captured dialogs in the console.
 
-+ ***writeLogFile***. Enable or disable writing information about captured objects (dialogs, UI text) to a file. The log file will be created in the TranslationHelper/logs folder.
++ ***writeLogFile***. Enable or disable writing information about captured objects (dialogs, UI text) to a file. The log file will be created in the TranslationHelper\logs folder.
 
 + ***maxLogFiles***. The maximum number of log files; if the number exceeds the specified limit, the oldest file will be deleted. To remove this limit, set the value to -1.
 
@@ -105,3 +105,18 @@ a
 
 ### Hotkeys
 This mod features only one hotkey, F7, which refreshes the contents of all textui — meaning you can edit the translation in the file and see the changes immediately in the game.
+
+### Creating your own translation
+If you wish to create your own translation from scratch, you can use the files located in the TranslationHelper\translation\original folder (which contains all dialogues and almost all the interface text I was able to capture), or enable ***createTextUIFile*** and ***createDialogsFiles*** in the mod settings to capture dialogues and interface text. Then, translate the files. Finally, you need to recreate the following file structure:
+
+```
+└── 📁 TranslationHelper
+    └── 📁 translation
+        └── 📁 {your language name}
+            ├── 📁 dialogs
+            │   └── 📄 {dialogs files}
+            └── 📁 textui
+                └── 📄 textui.txt
+```
+
+After that, simply change the ***lang*** parameter to your language name, and you're all set.

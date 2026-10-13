@@ -17,6 +17,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
+
 namespace TranslationHelper
 {
     [BepInPlugin("com.trymken.translation_helper", "Translation Helper", "1.0.0")]
@@ -199,18 +200,11 @@ namespace TranslationHelper
         public static void NewTalk(RPGTalk __instance)
         {
             if (__instance == null || __instance.txtToParse == null) return;
-            if (!Directory.Exists(TranslationMod.dialogs_path) || TranslationMod._lang.Value.Trim().Equals("en")) return;
 
             string asset_name = __instance.txtToParse.name;
-
             string raw_file_text = __instance.txtToParse.text;
+
             if (string.IsNullOrEmpty(raw_file_text)) return;
-
-            string file_path = Path.Combine(TranslationMod.dialogs_path, $"{asset_name}.txt");
-
-            if (!File.Exists(file_path)) return;
-
-            string all_text = File.ReadAllText(file_path);
 
             if (TranslationMod._create_dialog_files.Value)
             {
@@ -225,7 +219,8 @@ namespace TranslationHelper
                 }
             }
 
-            if (TranslationMod._debug_mode.Value && TranslationMod._dialog_log.Value) {
+            if (TranslationMod._debug_mode.Value && TranslationMod._dialog_log.Value)
+            {
                 UnityEngine.Debug.Log($"[DIALOG] Name: {asset_name}");
                 UnityEngine.Debug.Log($"[TEXT]:\n{raw_file_text}");
                 UnityEngine.Debug.Log($"[END TEXT]\n");
@@ -235,6 +230,14 @@ namespace TranslationHelper
                     TranslationMod._logs_queue.Add($"[DIALOG] Name: {asset_name}\n[TEXT]:\n{raw_file_text}\n[END TEXT]\n\n");
                 }
             }
+
+            if (TranslationMod._lang.Value.Trim().Equals("en")) return;
+
+            string file_path = Path.Combine(TranslationMod.dialogs_path, $"{asset_name}.txt");
+
+            if (!File.Exists(file_path)) return;
+
+            string all_text = File.ReadAllText(file_path);
 
             TextAsset translated_asset = new TextAsset(all_text);
             translated_asset.name = asset_name;
