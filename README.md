@@ -1,5 +1,5 @@
 # Translation-Helper
-A mod to assist with the translation of Hypnagogia: Boundless Dreams. BepInEx is required for this mode to work.
+A mod to assist with the translation of Hypnagogia: Boundless Dreams. BepInEx is required for this mod to work.
 
 ### Mod capabilities
 The mod includes a configuration file located at BepInEx\config\TranslationHelper.cfg. Let’s go over all the settings in more detail:
